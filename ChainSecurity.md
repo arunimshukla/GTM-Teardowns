@@ -90,35 +90,35 @@ Zellic, and Sherlock compete more directly for the same protocol budgets.
 
 | Category | Rating | Comment |
 |:--|:--|:--|
-| Positioning clarity | Moderate | The specialism is clear. The service list and the founding story are not. |
-| Evidence and proof | Weak | The evidence exists inside reports and repositories. The website does not present it. |
-| Competitive framing | Weak | No comparison with alternatives appears on any reviewed page. |
-| Conversion path | Weak | The request page asks the buyer for work and offers nothing in exchange. |
-| Content standards | Moderate | The research is strong. It is undated, unattributed, and cites other firms' tools. |
-| Editorial standards | Moderate | Individual pages are well written. Consistency across pages is poor. |
-| Accessibility | Weak | Client logos carry no alternative text. |
-| Technical credibility | Satisfactory | Public repositories and compiler level work exist and are genuinely uncommon. |
+| Positioning clarity | $\textcolor{#E5484D}{\textsf{High}}$ | The specialism is clear. The service list and the founding story are not. |
+| Evidence and proof | $\textcolor{#E8830C}{\textsf{Weak}}$ | The evidence exists inside reports and repositories. The website does not present it. |
+| Competitive framing | $\textcolor{#E8830C}{\textsf{Weak}}$ | No comparison with alternatives appears on any reviewed page. |
+| Conversion path | $\textcolor{#E8830C}{\textsf{Weak}}$ | The request page asks the buyer for work and offers nothing in exchange. |
+| Content standards | $\textcolor{#2EA043}{\textsf{Moderate}}$ | The research is strong. It is undated, unattributed, and cites other firms' tools. |
+| Editorial standards | $\textcolor{#2EA043}{\textsf{Moderate}}$ | Individual pages are well written. Consistency across pages is poor. |
+| Accessibility | $\textcolor{#E8830C}{\textsf{Weak}}$ | Client logos carry no alternative text. |
+| Technical credibility | $\textcolor{#4493F8}{\textsf{Satisfactory}}$ | Public repositories and compiler level work exist and are genuinely uncommon. |
 
 ## Summary of Findings
 
 | ID | Title | Type | Severity |
 |:--:|:--|:--|:--|
-| 1 | [The website publishes no record of completed work](#1-the-website-publishes-no-record-of-completed-work) | Evidence | High |
-| 2 | [Audit detail pages omit the findings data held in the reports](#2-audit-detail-pages-omit-the-findings-data-held-in-the-reports) | Evidence | High |
-| 3 | [The audit request page asks for estimation work and offers nothing in return](#3-the-audit-request-page-asks-for-estimation-work-and-offers-nothing-in-return) | Conversion path | High |
-| 4 | [An audit page reports a review in progress with no date](#4-an-audit-page-reports-a-review-in-progress-with-no-date) | Editorial | Medium |
-| 5 | [The firm describes its own origin three different ways](#5-the-firm-describes-its-own-origin-three-different-ways) | Positioning | Medium |
-| 6 | [The audit methodology has no page of its own](#6-the-audit-methodology-has-no-page-of-its-own) | Positioning | Medium |
-| 7 | [A third party credential appears once, inside a single research post](#7-a-third-party-credential-appears-once-inside-a-single-research-post) | Evidence | Medium |
-| 8 | [The most valuable engagement is absent from the homepage](#8-the-most-valuable-engagement-is-absent-from-the-homepage) | Evidence | Medium |
-| 9 | [The flagship research post names competitor tools exclusively](#9-the-flagship-research-post-names-competitor-tools-exclusively) | Content strategy | Medium |
-| 10 | [Public code repositories are not linked from the website](#10-public-code-repositories-are-not-linked-from-the-website) | Evidence | Medium |
-| 11 | [No page describes what the firm sells](#11-no-page-describes-what-the-firm-sells) | Page structure | Medium |
-| 12 | [Client logos carry no alternative text](#12-client-logos-carry-no-alternative-text) | Accessibility | Medium |
-| 13 | [The research index shows no publication dates](#13-the-research-index-shows-no-publication-dates) | Editorial | Low |
-| 14 | [Research posts carry no author attribution](#14-research-posts-carry-no-author-attribution) | Evidence | Low |
-| 15 | [No pages exist for the ecosystems the firm covers](#15-no-pages-exist-for-the-ecosystems-the-firm-covers) | Page structure | Low |
-| 16 | [The flagship research post contradicts its own structure](#16-the-flagship-research-post-contradicts-its-own-structure) | Editorial | Low |
+| 1 | [The website publishes no record of completed work](#1-the-website-publishes-no-record-of-completed-work) | Evidence | 🔴 High |
+| 2 | [Audit detail pages omit the findings data held in the reports](#2-audit-detail-pages-omit-the-findings-data-held-in-the-reports) | Evidence | 🔴 High |
+| 3 | [The audit request page asks for estimation work and offers nothing in return](#3-the-audit-request-page-asks-for-estimation-work-and-offers-nothing-in-return) | Conversion path | 🔴 High |
+| 4 | [An audit page reports a review in progress with no date](#4-an-audit-page-reports-a-review-in-progress-with-no-date) | Editorial | 🟠 Medium |
+| 5 | [The firm describes its own origin three different ways](#5-the-firm-describes-its-own-origin-three-different-ways) | Positioning | 🟠 Medium |
+| 6 | [The audit methodology has no page of its own](#6-the-audit-methodology-has-no-page-of-its-own) | Positioning | 🟠 Medium  |
+| 7 | [A third party credential appears once, inside a single research post](#7-a-third-party-credential-appears-once-inside-a-single-research-post) | Evidence | 🟠 Medium |
+| 8 | [The most valuable engagement is absent from the homepage](#8-the-most-valuable-engagement-is-absent-from-the-homepage) | Evidence | 🟠 Medium |
+| 9 | [The flagship research post names competitor tools exclusively](#9-the-flagship-research-post-names-competitor-tools-exclusively) | Content strategy | 🟠 Medium |
+| 10 | [Public code repositories are not linked from the website](#10-public-code-repositories-are-not-linked-from-the-website) | Evidence | 🟠 Medium |
+| 11 | [No page describes what the firm sells](#11-no-page-describes-what-the-firm-sells) | Page structure | 🟠 Medium |
+| 12 | [Client logos carry no alternative text](#12-client-logos-carry-no-alternative-text) | Accessibility | 🟠 Medium |
+| 13 | [The research index shows no publication dates](#13-the-research-index-shows-no-publication-dates) | Editorial | 🟢 Low |
+| 14 | [Research posts carry no author attribution](#14-research-posts-carry-no-author-attribution) | Evidence | 🟢 Low |
+| 15 | [No pages exist for the ecosystems the firm covers](#15-no-pages-exist-for-the-ecosystems-the-firm-covers) | Page structure | 🟢 Low |
+| 16 | [The flagship research post contradicts its own structure](#16-the-flagship-research-post-contradicts-its-own-structure) | Editorial | 🟢 Low |
 
 ## Detailed Findings
 
@@ -139,9 +139,9 @@ A count is the cheapest form of proof available to a professional services firm.
 
 **Recommendations**
 
-Short term, publish a single line of figures across the site. A suggested form is: number of audits since 2017, number of clients, and number of ETHSecurity Badge holders on staff. Link each figure to the evidence behind it.
+1. Publish a single line of figures across the site. A suggested form is: number of audits since 2017, number of clients, and number of ETHSecurity Badge holders on staff. Link each figure to the evidence behind it.
 
-Long term, generate these figures from the content management system so they update without manual intervention, and add filtered library views so each figure is clickable.
+2. Generate these figures from the content management system so they update without manual intervention, and add filtered library views so each figure is clickable.
 
 ### 2. Audit detail pages omit the findings data held in the reports
 
@@ -161,9 +161,9 @@ Every item missing from the ChainSecurity page already exists inside the PDF rep
 
 **Recommendations**
 
-Short term, add a summary block to the audit page template holding the review date, scope, line count, severity counts, and resolution status. Populate the Aave V4 page first and use it as the template for the rest of the library.
+1. Add a summary block to the audit page template holding the review date, scope, line count, severity counts, and resolution status. Populate the Aave V4 page first and use it as the template for the rest of the library.
 
-Long term, publish findings tables as web pages rather than only as downloadable files, so the content is readable without a download and is retrievable by search engines.
+2. Publish findings tables as web pages rather than only as downloadable files, so the content is readable without a download and is retrievable by search engines.
 
 ### 3. The audit request page asks for estimation work and offers nothing in return
 
@@ -183,9 +183,9 @@ One page asks the buyer to perform unpaid estimation work before any contact. Th
 
 **Recommendations**
 
-Short term, add a stated response time, a short description of what happens after submission, and a definition of how line counts should be calculated. Make the delivery date field optional.
+1. Add a stated response time, a short description of what happens after submission, and a definition of how line counts should be calculated. Make the delivery date field optional.
 
-Long term, offer a low commitment first step, such as a scoping call with an engineer, and make that the primary action on the page.
+2. Offer a low commitment first step, such as a scoping call with an engineer, and make that the primary action on the page.
 
 ### 4. An audit page reports a review in progress with no date
 
@@ -201,9 +201,9 @@ A reader has no way to establish whether that statement was written four days ag
 
 **Recommendations**
 
-Short term, add a publication date and a last updated date to every audit detail page.
+1. Add a publication date and a last updated date to every audit detail page.
 
-Long term, add an automated check that flags any page containing an in progress status that has not been updated within a set period.
+2. Add an automated check that flags any page containing an in progress status that has not been updated within a set period.
 
 ### 5. The firm describes its own origin three different ways
 
@@ -227,10 +227,9 @@ A firm founded at a university and later acquired is a different entity from a f
 
 **Recommendations**
 
-Short term, write one paragraph describing the origin and history, and use it on every
-surface without variation.
+1. Write one paragraph describing the origin and history, and use it on every surface without variation.
 
-Long term, consider removing the PwC reference entirely. The academic origin and the audit record carry the credibility on their own, and the accounting firm reference invites a question about the nature of the current business that has no useful answer.
+2. Consider removing the PwC reference entirely. The academic origin and the audit record carry the credibility on their own, and the accounting firm reference invites a question about the nature of the current business that has no useful answer.
 
 ### 6. The audit methodology has no page of its own
 
@@ -250,12 +249,9 @@ The strongest differentiator on the property cannot be linked to.
 
 **Recommendations**
 
-Short term, give the methodology its own page with a permanent address, and link to it from
-the homepage, the institutional page, and the audit request page.
+1. Give the methodology its own page with a permanent address, and link to it from the homepage, the institutional page, and the audit request page.
 
-Long term, add a diagram of the process and a short comparison with how single reviewer
-audits are conducted, so the value of the additional steps is legible to a buyer who has not
-commissioned an audit before.
+2. Add a diagram of the process and a short comparison with how single reviewer audits are conducted, so the value of the additional steps is legible to a buyer who has not commissioned an audit before.
 
 ### 7. A third party credential appears once, inside a single research post
 
@@ -265,11 +261,9 @@ commissioned an audit before.
 
 **Description**
 
-Seven members of staff hold the ETHSecurity Badge. This is stated once, in the first
-paragraph of one research post, in the middle of a sentence.
+Seven members of staff hold the ETHSecurity Badge. This is stated once, in the first paragraph of one research post, in the middle of a sentence.
 
-The badge is awarded by a third party rather than self declared. In the Ethereum security funding round held between 23 April and 14 May 2026, donations directed to badge holders were matched at four times the standard rate from a shared pool of approximately 637 ETH, which was the largest such pool assembled to date. The round distributed funding across 134 projects.
-Two hundred people hold the badge worldwide, and 172 of them took part.
+The badge is awarded by a third party rather than self declared. In the Ethereum security funding round held between 23 April and 14 May 2026, donations directed to badge holders were matched at four times the standard rate from a shared pool of approximately 637 ETH, which was the largest such pool assembled to date. The round distributed funding across 134 projects. Two hundred people hold the badge worldwide, and 172 of them took part.
 
 The correct framing is concentration rather than scarcity. Seven holders at a firm of roughly 23 people is close to four percent of everyone who holds the badge, working in one office.
 
@@ -277,9 +271,9 @@ The published summary of that funding round separately credits ChainSecurity wit
 
 **Recommendations**
 
-Short term, state the credential on the homepage, on `/why`, on the company LinkedIn page, and next to each badge holder on `/about`. State the worldwide total alongside the firm's count.
+1. State the credential on the homepage, on `/why`, on the company LinkedIn page, and next to each badge holder on `/about`. State the worldwide total alongside the firm's count.
 
-Long term, verify the count of current employees holding the badge before each republication. The claim depends on staff who may leave.
+2. Verify the count of current employees holding the badge before each republication. The claim depends on staff who may leave.
 
 ### 8. The most valuable engagement is absent from the homepage
 
@@ -295,9 +289,9 @@ That combination of a recognised client name and an attributed quotation from a 
 
 **Recommendations**
 
-Short term, feature the Aave V4 engagement and the attributed quotation on the homepage, and add the client to the trusted by strip.
+1. Feature the Aave V4 engagement and the attributed quotation on the homepage, and add the client to the trusted by strip.
 
-Long term, establish a rule for what qualifies for homepage placement, based on client recognition and the strength of the accompanying evidence, and review placements quarterly.
+2. Establish a rule for what qualifies for homepage placement, based on client recognition and the strength of the accompanying evidence, and review placements quarterly.
 
 ### 9. The flagship research post names competitor tools exclusively
 
@@ -315,9 +309,9 @@ The firm's most widely read piece of research currently promotes the tooling of 
 
 **Recommendations**
 
-Short term, add the firm's own tools to the post where they are relevant, with links to the repositories.
+1. Add the firm's own tools to the post where they are relevant, with links to the repositories.
 
-Long term, add a step to the research review process requiring that the firm's own tools be considered for inclusion wherever tooling is discussed.
+2. Add a step to the research review process requiring that the firm's own tools be considered for inclusion wherever tooling is discussed.
 
 ### 10. Public code repositories are not linked from the website
 
@@ -333,10 +327,9 @@ For a firm selling to engineering teams, the public code is a primary source of 
 
 **Recommendations**
 
-Short term, add the repository link to the footer alongside the existing social links.
+1. Add the repository link to the footer alongside the existing social links.
 
-Long term, feature specific repositories on the relevant service and research pages, so the
-tooling appears where it supports a commercial argument.
+2. Feature specific repositories on the relevant service and research pages, so the tooling appears where it supports a commercial argument.
 
 ### 11. No page describes what the firm sells
 
@@ -355,11 +348,9 @@ Trail of Bits maintains a dedicated services page for blockchain work.
 
 **Recommendations**
 
-Short term, create a services page listing each offering with a short description and a link
-to relevant published work.
+1. Create a services page listing each offering with a short description and a link to relevant published work.
 
-Long term, give each service its own page, so that individual services can rank in search and
-be linked to directly in commercial conversations.
+2. Give each service its own page, so that individual services can rank in search and be linked to directly in commercial conversations.
 
 ### 12. Client logos carry no alternative text
 
@@ -369,16 +360,15 @@ be linked to directly in commercial conversations.
 
 **Description**
 
-The logos in the trusted by strip extract as raw file paths and the bare numbers 1, 2, 3, 4, 6,
-7. No alternative text is set on any of them.
+The logos in the trusted by strip extract as raw file paths and the bare numbers 1, 2, 3, 4, 6, 7. No alternative text is set on any of them.
 
 This makes the client list unreadable to screen readers, invisible to search engines, and unavailable to any system that reads the page as text rather than rendering it. The sequence also skips 5, which suggests a removed image rather than a deliberate set.
 
 **Recommendations**
 
-Short term, set alternative text on every logo to the client's name.
+1. Set alternative text on every logo to the client's name.
 
-Long term, add an automated check to the publishing process that fails when an image is published without alternative text.
+2. Add an automated check to the publishing process that fails when an image is published without alternative text.
 
 ### 13. The research index shows no publication dates
 
@@ -396,9 +386,9 @@ For a research publication, an undated post cannot be cited.
 
 **Recommendations**
 
-Short term, display publication dates on the index and add the year to any date referenced in body copy.
+1. Display publication dates on the index and add the year to any date referenced in body copy.
 
-Long term, add a review date to older posts and mark superseded material, so that readers can judge currency without checking the underlying facts themselves.
+2. Add a review date to older posts and mark superseded material, so that readers can judge currency without checking the underlying facts themselves.
 
 ### 14. Research posts carry no author attribution
 
@@ -415,9 +405,9 @@ For a firm whose commercial argument rests on the expertise of specific individu
 
 **Recommendations**
 
-Short term, add author names to all posts, and link each name to a profile on `/about`.
+1. Add author names to all posts, and link each name to a profile on `/about`.
 
-Long term, give each researcher a profile page listing their published work, talks, and credentials.
+2. Give each researcher a profile page listing their published work, talks, and credentials.
 
 ### 15. No pages exist for the ecosystems the firm covers
 
@@ -434,9 +424,9 @@ linking to the relevant published assessments.
 
 **Recommendations**
 
-Short term, create pages for the two or three ecosystems where the firm has the deepest record, each listing the relevant audits.
+1. Create pages for the two or three ecosystems where the firm has the deepest record, each listing the relevant audits.
 
-Long term, generate ecosystem pages from the existing library tags, so the pages populate automatically as new work is published.
+2. Generate ecosystem pages from the existing library tags, so the pages populate automatically as new work is published.
 
 ### 16. The flagship research post contradicts its own structure
 
@@ -452,9 +442,9 @@ The issue is small. It appears in a research publication whose argument concerns
 
 **Recommendations**
 
-Short term, correct the numbering and align the summary bullets to the headings.
+1. Correct the numbering and align the summary bullets to the headings.
 
-Long term, add a structural check to the editorial process covering heading numbering and summary alignment.
+2. Add a structural check to the editorial process covering heading numbering and summary alignment.
 
 ## Consolidated Programme
 
