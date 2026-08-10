@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------
+# GTM-Teardowns
+# Written analysis only. No build output and no dependencies, so this file
+# exists for one reason: to keep working material out of published history.
+# ---------------------------------------------------------------------------
+
+# Working files.
+# These may contain material that must never be published, including
+# compensation figures, rate cards, unsent drafts, and findings that have not
+# yet been sent to the company they concern.
+/drafts/
+/working/
+/private/
+*.private.md
+*.draft.md
+NOTES.md
+PRE-PUBLISH*.md
+
+# Captured source material from a review.
+# Page captures are useful evidence and are usually too large to version.
+/captures/
+/raw-fetches/
+*.har
+*.warc
+
+# Operating system
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary files from word processors and PDF readers
+~$*
+*.tmp
+
+# Environment files, in case any tooling is added later
+.env
+.env.local
