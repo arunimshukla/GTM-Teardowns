@@ -47,16 +47,16 @@ A single incorrect character in an installation command is a high severity findi
 
 | Severity | Definition |
 |:--|:--|
-| High | The issue causes a prospective buyer to lose confidence, contradicts a public statement by the company, or blocks the path to enquiry. |
-| Medium | Nothing is broken. The strongest available evidence or differentiator is not visible to buyers. |
-| Low | Structure, attribution, or editorial consistency. The cost accumulates rather than being felt immediately. |
-| Informational | An observation that is not a defect. |
+| $\textcolor{#E5484D}{\textsf{High}}$ | The issue causes a prospective buyer to lose confidence, contradicts a public statement by the company, or blocks the path to enquiry. |
+| $\textcolor{#2EA043}{\textsf{Medium}}$ | Nothing is broken. The strongest available evidence or differentiator is not visible to buyers. |
+| $\textcolor{#E8830C}{\textsf{Low}}$ | Structure, attribution, or editorial consistency. The cost accumulates rather than being felt immediately. |
+| $\textcolor{#4493F8}{\textsf{Informational}}$ | An observation that is not a defect. |
 
 | Effort | Definition |
 |:--|:--|
-| Low | Copy, links, or metadata. Hours. |
-| Medium | A new page or programme, using material that already exists. Days. |
-| High | New content, new structure, or new data collection. Weeks. |
+| $\textcolor{#E8830C}{\textsf{Low}}$ | Copy, links, or metadata. Hours. |
+| $\textcolor{#2EA043}{\textsf{Medium}}$ | A new page or programme, using material that already exists. Days. |
+| $\textcolor{#E5484D}{\textsf{High}}$ | New content, new structure, or new data collection. Weeks. |
 
 ## Scope limits that apply to all reports
 
