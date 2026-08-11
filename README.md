@@ -3,7 +3,7 @@
 Public surface reviews of companies in security, developer infrastructure, and artificial
 intelligence tooling.
 
-Prepared by Arunim Shukla. Each review was carried out without privileged access, using only
+Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla). Each review was carried out without privileged access, using only
 public pages, public repositories, and published interviews. Every observation is tied to an
 address and a date of checking. None of these reviews was commissioned. Each was sent to the
 company before it was published here.
