@@ -12,7 +12,7 @@ company before it was published here.
 
 | Report | Subject | Findings | Reviewed |
 |:--|:--|:--:|:--|
-| [ChainSecurity](./chainsecurity/) | Smart contract security audit firm. Benchmarked against Trail of Bits for how evidence is presented. | 16 | August 2026 |
+| [ChainSecurity](./chainsecurity.md/) | Smart contract security audit firm. Benchmarked against Trail of Bits for how evidence is presented. | 16 | August 2026 |
 | [Bolt.new](./bolt-new/) | Artificial intelligence application builder. Compared with Lovable, Replit, v0, Cursor, and Figma Make. | 6 | July 2026 |
 | [Massive](./massive/) | Web access infrastructure for artificial intelligence systems. | 9 | July 2026 |
 | [SuperPlane](./superplane/) | Workflow orchestration. Compared with n8n, Temporal, Kestra, and Windmill. | 16 | 2026 |
