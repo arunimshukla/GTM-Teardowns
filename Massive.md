@@ -1,4 +1,4 @@
-# Massive Public Surface Review
+# Massive Computing Inc. Public Surface Review
 
 ## Project Summary
 
