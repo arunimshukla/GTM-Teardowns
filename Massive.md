@@ -119,7 +119,7 @@ Established from primary sources before the review began.
 
 **Description**
 
-The page is organised into tabs for Partners, Desktop Users, and Android Users. The body states that Massive combines small amounts of user contributed resources into a supercomputer which generates revenue by running scientific simulations.
+* The page is organised into tabs for Partners, Desktop Users, and Android Users. The body states that Massive combines small amounts of user contributed resources into a supercomputer which generates revenue by running scientific simulations.
 
 That describes the business as it stood before 2024. The page sits one click from a homepage selling web access to teams building artificial intelligence systems.
 
@@ -139,7 +139,7 @@ A buyer performing basic checks reaches this page and draws one of two conclusio
 
 **Description**
 
-Residential proxy infrastructure has a long record of operators who bundled collection software with other products, took bandwidth without disclosure, or assembled networks without permission. That record is the reason the consent model has commercial value.
+* Residential proxy infrastructure has a long record of operators who bundled collection software with other products, took bandwidth without disclosure, or assembled networks without permission. That record is the reason the consent model has commercial value.
 
 The company's buyers are developers, data engineers, and teams building agents. Before routing production traffic through volunteer devices, those buyers need to see that the arrangement is what the company says it is. The current content states that every device opted in and every request is logged. It shows nothing.
 
@@ -157,7 +157,7 @@ The company's buyers are developers, data engineers, and teams building agents. 
 
 **Description**
 
-The company accounts are effectively inactive. The only posts with meaningful response are photographs from events.
+* The company accounts are effectively inactive. The only posts with meaningful response are photographs from events.
 
 That is the finding rather than an aside. The audience responds when a person is visible and does not respond to material published under the company name.
 
@@ -179,7 +179,7 @@ The reference case is xAI, which has no conventional marketing organisation to r
 
 **Description**
 
-In the essay titled The Web Needs a Front Door, Jason Grad sets out why the web moved from being open, with low barriers to publishing and to access, towards control by a small number of infrastructure companies, and why the absence of transparent and consented standards for automated access leaves a gap that is filled either by poor regulation or by criminal networks.
+* In the essay titled [The Web Needs a Front Door](https://jsongrad.substack.com/p/the-web-needs-a-front-door), Jason Grad sets out why the web moved from being open, with low barriers to publishing and to access, towards control by a small number of infrastructure companies, and why the absence of transparent and consented standards for automated access leaves a gap that is filled either by poor regulation or by criminal networks.
 
 It is the best argument published in this industry this year. It reached 238 people.
 
@@ -201,7 +201,7 @@ Massive holds network measurements that no one else has. Those measurements can 
 
 **Description**
 
-Nine blog posts were published on 29 June.
+* Nine blog posts were published on 29 June.
 
 Both LinkedIn and X reward consistent posting. Nine posts on one day produces one opportunity to reach an audience, followed by three weeks of silence. The platforms read the account as inactive, the audience sees a batch rather than a sequence, and eight of the nine posts never receive an opportunity of their own.
 
@@ -219,7 +219,7 @@ Both LinkedIn and X reward consistent posting. Nine posts on one day produces on
 
 **Description**
 
-The blog uses a repeating structure, contains no specific claim a reader could agree/disagree with, and is not distinguishable from the content of any other infrastructure company. There is no figure in it that a reader could not have guessed and no argument a competitor could not have published unchanged.
+* The blog uses a repeating structure, contains no specific claim a reader could agree/disagree with, and is not distinguishable from the content of any other infrastructure company. There is no figure in it that a reader could not have guessed and no argument a competitor could not have published unchanged.
 
 **Recommendations**
 
@@ -235,7 +235,7 @@ The blog uses a repeating structure, contains no specific claim a reader could a
 
 **Description**
 
-The status page at `status.joinmassive.com` is not linked from the footer, and is not linked next to the stated availability commitment of 99.9 percent.
+* The status page at `status.joinmassive.com` is not linked from the footer, and is not linked next to the stated availability commitment of 99.9 percent.
 
 An availability commitment with no link to live status is an assertion with no supporting
 record.
@@ -254,7 +254,7 @@ record.
 
 **Description**
 
-The buyers this company wants are already gathered in specific places, and the company is not present in any of them.
+* The buyers this company wants are already gathered in specific places, and the company is not present in any of them.
 
 **Recommendations**
 
@@ -270,7 +270,7 @@ The buyers this company wants are already gathered in specific places, and the c
 
 **Description**
 
-[Brian Kennish](https://www.linkedin.com/in/oldestlivingboy/) built advertising infrastructure at DoubleClick and at Google, then left to found Disconnect, a company built to block tracking, whose search product became a default in the Tor Browser.
+* [Brian Kennish](https://www.linkedin.com/in/oldestlivingboy/) built advertising infrastructure at DoubleClick and at Google, then left to found Disconnect, a company built to block tracking, whose search product became a default in the Tor Browser.
 
 For a business whose entire argument is that web access should be consented and transparent, the co-founder who left the tracking industry to build tools against it is the most directly supporting piece of biography available. It appears nowhere in the company's positioning.
 
