@@ -94,7 +94,7 @@ Comparators were mapped for positioning language and pricing structure only.
 
 **Description**
 
-The ten most recent blog posts include an article on building a real estate website with Bolt.new, an article on artificial intelligence use cases in real estate, an article drawing on ten thousand small business sessions, and an article on building custom software, written for landscapers and fitness trainers.
+* The ten most recent blog posts include an article on building a real estate website with Bolt.new, an article on artificial intelligence use cases in real estate, an article drawing on ten thousand small business sessions, and an article on building custom software, written for landscapers and fitness trainers.
 
 In the [Sacra](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/) interview, Eric Simons states that the company did not find the consumer segment compelling to build around, and gives churn rates as the reason.
 
@@ -114,7 +114,7 @@ This is not an inconsistency in wording. It is a spending decision that runs aga
 
 **Description**
 
-WebContainers is not mentioned anywhere on the homepage. The job brief leads with it.
+* WebContainers is not mentioned anywhere on the homepage. The job brief leads with it.
 
 WebContainers runs the development environment inside the visitor's browser. Every comparator in this category runs the equivalent workload on servers it pays for, per user and per session. That is a structural difference in cost, it is difficult to copy, and it currently functions as a recruitment message rather than a reason to buy.
 
@@ -132,7 +132,7 @@ WebContainers runs the development environment inside the visitor's browser. Eve
 
 **Description**
 
-Two claims exist in parallel.
+* Two claims exist in parallel.
 
 | Surface | Claim |
 |:--|:--|
@@ -157,7 +157,7 @@ The recruitment copy is stronger than the marketing copy.
 
 **Description**
 
-The homepage segments its audience into product managers, entrepreneurs, marketers, agencies, and students and builders. Developers and engineering teams are not listed.
+* The homepage segments its audience into product managers, entrepreneurs, marketers, agencies, and students and builders. Developers and engineering teams are not listed.
 
 In a business purchase, a product manager may raise the request, but engineering holds the approval. A site with no page addressed to the approver asks the internal supporter to defend the purchase without material.
 
@@ -175,7 +175,7 @@ In a business purchase, a product manager may raise the request, but engineering
 
 **Description**
 
-The job brief lists a set of competitors. Figma Make is not among them. In the Sacra interview, Eric Simons names Figma Make as the source of genuine competitive pressure in the business segment.
+* The job brief lists a set of competitors. Figma Make is not among them. In the Sacra interview, Eric Simons names Figma Make as the source of genuine competitive pressure in the business segment.
 
 The consequence is that the competitive picture held by the chief executive and the one written into recruitment material have separated. Whoever is hired into that role will build competitive material against the wrong set in their first week.
 
