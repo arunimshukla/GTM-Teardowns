@@ -81,8 +81,8 @@ Comparators were mapped for positioning language and pricing structure only.
 | 1 | [Content spending targets a segment the chief executive publicly declined](#1-content-spending-targets-a-segment-the-chief-executive-publicly-declined) | Content strategy | 🔴 High |
 | 2 | [The technology behind the cost advantage is absent from the homepage](#2-the-technology-behind-the-cost-advantage-is-absent-from-the-homepage) | Positioning | 🔴 High |
 | 3 | [The homepage states a claim every competitor could also make](#3-the-homepage-states-a-claim-every-competitor-could-also-make) | Positioning | 🟠 Medium |
-| 4 | [The homepage audience list omits developers and engineering teams](#5-the-homepage-audience-list-omits-developers-and-engineering-teams) | Segmentation | 🟠 Medium |
-| 5 | [The recruitment competitor set omits the competitor named by the chief executive](#6-the-recruitment-competitor-set-omits-the-competitor-named-by-the-chief-executive) | Competitive framing | 🟢 Low |
+| 4 | [The homepage audience list omits developers and engineering teams](#4-the-homepage-audience-list-omits-developers-and-engineering-teams) | Segmentation | 🟠 Medium |
+| 5 | [The recruitment competitor set omits the competitor named by the chief executive](#5-the-recruitment-competitor-set-omits-the-competitor-named-by-the-chief-executive) | Competitive framing | 🟢 Low |
 
 ## Detailed Findings
 
