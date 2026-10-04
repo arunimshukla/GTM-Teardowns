@@ -4,6 +4,12 @@ Evidence-led reviews of positioning, buyer journeys, content, distribution, and 
 
 I review the public surfaces that buyers, developers, procurement teams, and automated systems can actually inspect. The purpose is to identify where a company already owns credible evidence but fails to present it at the point where a decision is being made.
 
+![Reviews](https://img.shields.io/badge/published_reviews-4-1F3A5F?style=flat-square)
+![Companies](https://img.shields.io/badge/companies_reviewed-3-1F3A5F?style=flat-square)
+![Findings](https://img.shields.io/badge/documented_findings-44-1F3A5F?style=flat-square)
+![High impact](https://img.shields.io/badge/high_impact-13-CB2431?style=flat-square)
+![Quick wins](https://img.shields.io/badge/high_impact_%2B_low_effort-8-2EA043?style=flat-square)
+
 Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 
 ## Start here
@@ -21,6 +27,22 @@ These two reports best represent the repository: one examines a human buyer jour
 | [Bolt.new](./Bolt.new.md) | Homepage, pricing, content programme, recruitment material, and founder interview | Does Bolt expose its technical advantage and attract the business segment it says it wants? | July 2026 |
 | [Massive](./Massive.md) | Website, content, distribution, social profiles, and public repositories | Does the public surface describe the current business and substantiate the consent model on which its positioning depends? | July 2026 |
 | [Massive: generative engine surface](./Massive%20GEO.md) | Apex and documentation `llms.txt` files, documentation, compliance, and content index | Can an automated reader recover a consistent, accurate, and commercially useful account of the company? | 11 August 2026 |
+
+## At a glance
+
+| Measure | Result |
+|:--|--:|
+| Published reviews | 4 |
+| Companies reviewed | 3 |
+| Documented findings | 44 |
+| High impact | 13 |
+| Medium impact | 20 |
+| Low impact | 9 |
+| Informational | 2 |
+| Low-effort recommendations | 26 |
+| High-impact, low-effort opportunities | 8 |
+
+The highest-leverage subset is the eight high-impact findings whose recommended remedies are estimated in hours rather than days or weeks.
 
 ## What these reviews test
 
