@@ -4,11 +4,13 @@ Evidence-led reviews of positioning, buyer journeys, content, distribution, and 
 
 I review the public surfaces that buyers, developers, procurement teams, and automated systems can actually inspect. The purpose is to identify where a company already owns credible evidence but fails to present it at the point where a decision is being made.
 
-![Reviews](https://img.shields.io/badge/published_reviews-4-1F3A5F?style=flat-square)
-![Companies](https://img.shields.io/badge/companies_reviewed-3-1F3A5F?style=flat-square)
-![Findings](https://img.shields.io/badge/documented_findings-44-1F3A5F?style=flat-square)
-![High impact](https://img.shields.io/badge/high_impact-13-CB2431?style=flat-square)
-![Quick wins](https://img.shields.io/badge/high_impact_%2B_low_effort-8-2EA043?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/published_reviews-4-1F3A5F?style=flat-square" alt="4 published reviews" height="28">
+  <img src="https://img.shields.io/badge/companies_reviewed-3-1F3A5F?style=flat-square" alt="3 companies reviewed" height="28">
+  <img src="https://img.shields.io/badge/documented_findings-44-1F3A5F?style=flat-square" alt="44 documented findings" height="28">
+  <img src="https://img.shields.io/badge/high_impact-13-CB2431?style=flat-square" alt="13 high-impact findings" height="28">
+  <img src="https://img.shields.io/badge/high_impact_%2B_low_effort-8-2EA043?style=flat-square" alt="8 high-impact, low-effort opportunities" height="28">
+</p>
 
 Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 
