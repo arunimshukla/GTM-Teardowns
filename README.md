@@ -1,74 +1,65 @@
-# GTM-Teardowns
+# GTM Teardowns
 
-Public surface reviews of companies in security, developer infrastructure, and artificial
-intelligence tooling.
+Evidence-led reviews of positioning, buyer journeys, content, distribution, and machine-readable discoverability across security, developer infrastructure, and artificial intelligence.
 
-Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla). Each review was carried out without privileged access, using only
-public pages, public repositories, and published interviews. Every observation is tied to an
-address and a date of checking. None of these reviews was commissioned. Each was sent to the
-company before it was published here.
+I review the public surfaces that buyers, developers, procurement teams, and automated systems can actually inspect. The purpose is to identify where a company already owns credible evidence but fails to present it at the point where a decision is being made.
 
-## Reports
+Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 
-| Report | Subject | Findings | Reviewed |
-|:--|:--|:--:|:--|
-| [ChainSecurity](./ChainSecurity.md/) | Smart contract security audit firm. Benchmarked against Trail of Bits for how evidence is presented. | 16 | August 2026 |
-| [Bolt.new](./Bolt.new.md/) | Artificial intelligence application builder. Compared with Lovable, Replit, v0, Cursor, and Figma Make. | 6 | July 2026 |
-| [Massive](./Massive.md/) | Web access infrastructure for artificial intelligence systems. | 9 | July 2026 |
-| [SuperPlane](./superplane/) | Workflow orchestration. Compared with n8n, Temporal, Kestra, and Windmill. | 16 | 2026 |
+## Start here
+
+- **[ChainSecurity public surface review](./ChainSecurity.md)** — A review of how a specialist security firm presents completed work, methodology, research, and commercial services. The central finding is that much of ChainSecurity's strongest evidence exists, but is difficult for a prospective client to discover or evaluate.
+- **[Massive generative engine surface review](./Massive%20GEO.md)** — A technical review of two machine-readable `llms.txt` surfaces. It examines naming, documentation coverage, compliance claims, content priority, and contradictions between company-controlled sources.
+
+These two reports best represent the repository: one examines a human buyer journey and the other examines how automated readers discover and interpret a company.
+
+## Published reviews
+
+| Review | Surface reviewed | Central question | Reviewed |
+|:--|:--|:--|:--|
+| [ChainSecurity](./ChainSecurity.md) | Website, audit library, research, GitHub, and enquiry path | Does the public surface expose enough evidence for a protocol or institutional buyer to evaluate the firm? | 3 August 2026 |
+| [Bolt.new](./Bolt.new.md) | Homepage, pricing, content programme, recruitment material, and founder interview | Does Bolt expose its technical advantage and attract the business segment it says it wants? | July 2026 |
+| [Massive](./Massive.md) | Website, content, distribution, social profiles, and public repositories | Does the public surface describe the current business and substantiate the consent model on which its positioning depends? | July 2026 |
+| [Massive: generative engine surface](./Massive%20GEO.md) | Apex and documentation `llms.txt` files, documentation, compliance, and content index | Can an automated reader recover a consistent, accurate, and commercially useful account of the company? | 11 August 2026 |
+
+## What these reviews test
+
+Across the reports, four recurring failure modes appear:
+
+1. **Evidence exists outside the buyer journey.** Audit results, technical architecture, credentials, or compliance material exist, but the pages making the commercial claim do not expose them.
+2. **Public surfaces drift after the strategy changes.** Old frequently asked questions, content programmes, or product descriptions continue to represent a business the company has already left.
+3. **Differentiators are visible in the wrong place.** The strongest technical argument may appear in recruitment material, documentation, or an interview while the homepage uses category-generic language.
+4. **Machine-readable and human-facing sources disagree.** Automated systems can receive a different company name, product set, or evidence base depending on which public file they reach first.
 
 ## Method
 
-Every report follows the same process.
+Every review declares its scope, access limits, sources, comparison set, and date of checking. Observations are separated from recommendations, company claims are identified as company claims, and findings are prioritised by their consequence to the buyer rather than by the amount of work required to fix them.
 
-1. **Scope is declared first.**
+Findings that do not survive a second check are removed before publication. Comparators are selected for a specific question, such as evidence presentation or category framing, rather than treated as interchangeable competitors.
 
-Each report lists the addresses reviewed, the addresses reviewed for any comparator, the method used, the date of checking, and what was deliberately left out.
-A scope note that states its limits is more useful than one that implies completeness.
+The complete process, impact definitions, limitations, and corrections policy are documented in [METHODOLOGY.md](./METHODOLOGY.md).
 
-2. **Findings are tied to evidence.**
+## Independence and limits
 
-Each finding names a public address. Findings quote what the page actually says. Figures published by a company about itself are recorded as company claims.
-Figures produced by a third party are recorded with the name of the tester.
+None of these reviews was commissioned. Each was sent to the company before publication.
 
-3. **The comparator is chosen for a stated purpose.**
+The reviews use public pages, public repositories, and published interviews. They do not assess product quality, website analytics, page speed, mobile rendering, paid acquisition, or internal commercial performance. No buyer interviews, funnel data, or win and loss data were available.
 
-Trail of Bits is the right benchmark for how ChainSecurity presents evidence and the wrong benchmark for its competitive position. The report rather than the subject.
+A review can establish what evidence a public page presents. It cannot establish how that page converts. Recommendations are reasoned inferences from the observed public surface, not claims about internal performance.
 
-4. **Hypotheses are retested before publication.**
+## Corrections
 
-Findings that do not survive a second check are removed, and the ones that were removed are listed in the report. Those are the claims most likely to be challenged in a meeting, which makes them worth recording.
+Websites change. Every report records the period it describes, and its findings should be checked against the current page before being quoted as current fact.
 
-5. **Severity is assigned by consequence to the buyer, not by the effort required to fix.** 
+Factual corrections are welcome through [GitHub Issues](https://github.com/arunimshukla/GTM-Teardowns/issues). A correction should identify the report, finding, current source, and date checked.
 
-A single incorrect character in an installation command is a high severity finding. A missing services page is a low severity finding.
+## About the reviewer
 
-## Rating definitions
+I work across technical product marketing, security, and open-source infrastructure. My related analyses of accepted open-source fixes are documented in [Open Source Fix Analysis](https://github.com/arunimshukla/open-source-fix-analysis).
 
-| Severity | Definition |
-|:--|:--|
-| $\textcolor{#E5484D}{\textsf{High}}$ | The issue causes a prospective buyer to lose confidence, contradicts a public statement by the company, or blocks the path to enquiry. |
-| $\textcolor{#2EA043}{\textsf{Medium}}$ | Nothing is broken. The strongest available evidence or differentiator is not visible to buyers. |
-| $\textcolor{#E8830C}{\textsf{Low}}$ | Structure, attribution, or editorial consistency. The cost accumulates rather than being felt immediately. |
-| $\textcolor{#4493F8}{\textsf{Informational}}$ | An observation that is not a defect. |
-
-| Effort | Definition |
-|:--|:--|
-| $\textcolor{#E8830C}{\textsf{Low}}$ | Copy, links, or metadata. Hours. |
-| $\textcolor{#2EA043}{\textsf{Medium}}$ | A new page or programme, using material that already exists. Days. |
-| $\textcolor{#E5484D}{\textsf{High}}$ | New content, new structure, or new data collection. Weeks. |
-
-## Scope limits that apply to all reports
-
-These reviews do not assess product quality, website analytics, page speed, mobile rendering, paid acquisition, or any internal commercial data. No buyer interviews were conducted and no win and loss data was available.
-
-The reviews establish that a page fails to present evidence the company already owns. They cannot establish how any page performs. A page can be poorly constructed and still convert. The argument made throughout is that these pages ask the buyer to do work the seller should have done.
+- [GitHub](https://github.com/arunimshukla)
+- [LinkedIn](https://www.linkedin.com/in/arunimshukla)
 
 ## Licence
 
-Written analysis released under CC BY 4.0. See [LICENSE](./License).
-
-Company names, product names, and trademarks belong to their owners and are used here for
-identification and commentary. No affiliation or endorsement is implied.
-
-Every finding carries a date. Websites change. Check the current page before quoting any of this back to anyone.
+The written analysis is released under [CC BY 4.0](./License). Company names, product names, and trademarks belong to their owners and are used for identification and commentary. No affiliation or endorsement is implied.
