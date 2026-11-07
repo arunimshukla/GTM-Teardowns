@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |:--|:--|
-| Subject | Palm Olympia, a Sam India development |
+| Subject | [Palm Olympia](https://palmolympia.com/), a Sam India development |
 | Type | Project-side content and product marketing review |
 | Reviewer | Arunim Shukla |
 | Date of review | 31 October 2026, with selected checks repeated on 7 November 2026 |
@@ -43,10 +43,10 @@ The first fixes are to identify the operator beside the enquiry action, publish 
 
 | Target | Type |
 |:--|:--|
-| Official site and two partner-disclosed domains | Enquiry identity |
-| Homepage promotion, Plans, residential, and Goldspire | Product and offer evidence |
-| Sam India and construction updates | Developer and delivery proof |
-| Site-visit form and footer | Conversion and project disclosures |
+| [Official site](https://palmolympia.com/) and two partner-disclosed domains | Enquiry identity |
+| [Homepage promotion](https://palmolympia.com/wp-content/uploads/2025/07/POPUP.jpg-2-1517x2048.jpeg), [Plans](https://palmolympia.com/plans/), [residential page](https://palmolympia.com/palm-olympia/), and [Goldspire](https://palmolympia.com/goldspire/) | Product and offer evidence |
+| [Sam India](https://palmolympia.com/sam-india-2/) and [construction updates](https://palmolympia.com/construction/) | Developer and delivery proof |
+| Site-visit form and footer on the [homepage](https://palmolympia.com/) | Conversion and project disclosures |
 
 ## Project Coverage
 
@@ -80,7 +80,7 @@ The original review inspected public desktop pages and sampled responsive rules 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Conversion path | Official disclaimer and partner-branded sites |
+| **🔴 High** | 🟢 Low | Conversion path | [Official disclaimer](https://palmolympia.com/disclaimer/) and two partner-branded sites, [palmolympia.in](https://palmolympia.in/) and [thepalmolympia.in](https://thepalmolympia.in/) |
 
 **Description**
 
@@ -97,7 +97,7 @@ A buyer can recognise the project and still be unsure which operator will receiv
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Commercial evidence | Homepage promotion, residential page, and Plans |
+| **🔴 High** | 🟢 Low | Commercial evidence | [Homepage promotion](https://palmolympia.com/wp-content/uploads/2025/07/POPUP.jpg-2-1517x2048.jpeg), [residential page](https://palmolympia.com/palm-olympia/), and [Plans](https://palmolympia.com/plans/) |
 
 **Description**
 
@@ -114,7 +114,7 @@ The figure is recorded as displayed on the graphic. Current inventory, final pri
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Product evidence | Tower D 2 BHK plus two toilets and study plan |
+| **🔴 High** | 🟢 Low | Product evidence | [Tower D 2 BHK plus two toilets and study plan](https://palmolympia.com/wp-content/uploads/2024/06/PO-Floor-Plans-54.jpg) on the [Plans page](https://palmolympia.com/plans/) |
 
 **Description**
 
@@ -129,7 +129,7 @@ The plan labels both 677.23 sq ft and 138.81 sq ft as balcony area. It separatel
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Evidence | Sam India page |
+| **🔴 High** | 🟠 Medium | Evidence | [Sam India page](https://palmolympia.com/sam-india-2/) |
 
 **Description**
 
@@ -146,7 +146,7 @@ A buyer researching delivered projects can read the graphics visually, but canno
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟠 Medium | Product positioning | Goldspire, residential page, and Plans |
+| **🟠 Medium** | 🟠 Medium | Product positioning | [Goldspire](https://palmolympia.com/goldspire/), [residential page](https://palmolympia.com/palm-olympia/), and [Plans](https://palmolympia.com/plans/) |
 
 **Description**
 
@@ -161,7 +161,7 @@ Goldspire presents Club Harmonie. The residential page promotes Club Meridian. P
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟠 Medium | Evidence | Construction archive and October update |
+| **🟠 Medium** | 🟠 Medium | Evidence | [Construction archive](https://palmolympia.com/construction/) and [October update](https://palmolympia.com/october-2026/) |
 
 **Description**
 
@@ -176,7 +176,7 @@ The October update presents tower milestones in graphics. The original review al
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Conversion path | Book a Site Visit form |
+| **🟠 Medium** | 🟢 Low | Conversion path | [Book a Site Visit form](https://palmolympia.com/) on the homepage |
 
 **Description**
 
@@ -191,7 +191,7 @@ The telephone input sits beside the country selector without a visible phone pro
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Project evidence | Phase 2 and Phase 3 footer disclosures |
+| **🟠 Medium** | 🟢 Low | Project evidence | Phase 2 and Phase 3 disclosures in the [homepage footer](https://palmolympia.com/) |
 
 **Description**
 

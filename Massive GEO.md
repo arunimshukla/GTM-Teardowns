@@ -4,7 +4,7 @@
 
 | Field          | Detail                                                                    |
 | -------------- | --------------------------------------------------------------------------- |
-| Subject        | Massive, `joinmassive.com/llms.txt` and the wider machine-readable surface  |
+| Subject        | [Massive](https://www.joinmassive.com/), `joinmassive.com/llms.txt` and the wider machine-readable surface  |
 | Type           | Generative engine optimisation review                                      |
 | Reviewer       | Arunim Shukla                                                              |
 | Date of review | 11 August 2026                                                             |
@@ -55,16 +55,16 @@ The review was framed by the following questions:
 
 | Target                              | Type                  |
 | ----------------------------------- | --------------------- |
-| `joinmassive.com/llms.txt`          | Machine-readable file |
-| `docs.joinmassive.com/llms.txt`     | Machine-readable file |
+| [Marketing llms.txt](https://www.joinmassive.com/llms.txt) | Machine-readable file |
+| [Documentation llms.txt](https://docs.joinmassive.com/llms.txt) | Machine-readable file |
 | Three interface specification files | Machine-readable file |
-| `/web-access`                       | Website               |
-| `/faq`                              | Website               |
-| Site navigation and footer          | Website               |
-| `docs.joinmassive.com`              | Documentation         |
+| [Web access product page](https://www.joinmassive.com/web-access) | Website               |
+| [FAQ](https://www.joinmassive.com/faq) | Website               |
+| [Site navigation and footer](https://www.joinmassive.com/) | Website               |
+| [Massive documentation](https://docs.joinmassive.com/residential/introduction) | Documentation         |
 | `api-docs.joinmassive.com`          | Documentation         |
 | `blog.joinmassive.com`              | Website               |
-| `joinmassive/mcp-server`            | Repository            |
+| [Massive MCP repository](https://github.com/joinmassive/mcp-server) | Repository            |
 
 ## Project Coverage
 
@@ -76,7 +76,7 @@ Finding 1 of the July review, on the frequently asked questions page, remains op
 
 ## The Format Under Review
 
-`llms.txt` was proposed in September 2024 by Jeremy Howard of Answer.AI. It is a plain text file at the root of a domain. The format specifies a heading carrying the name of the project, a summary in a block quote, sections containing lists of links written as a name, an address and a note, and a final section named Optional marking material a reader may skip when room is short.
+[The llms.txt format](https://llmstxt.org/) was proposed in September 2024 by Jeremy Howard of Answer.AI. It is a plain text file at the root of a domain. The format specifies a heading carrying the name of the project, a summary in a block quote, sections containing lists of links written as a name, an address and a note, and a final section named Optional marking material a reader may skip when room is short.
 
 Two properties of the format matter here and are frequently missed.
 
@@ -148,7 +148,7 @@ Dictionary definitions total 26. Customer evidence totals 3. That is nearly 9 to
 
 | Severity | Effort to fix | Type                | Target                                                      |
 | -------- | ------------- | ------------------- | ------------------------------------------------------------- |
-| 🔴 High   | 🟢 Low         | Machine readability | `joinmassive.com/llms.txt`, `docs.joinmassive.com/llms.txt` |
+| 🔴 High   | 🟢 Low         | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [documentation llms.txt](https://docs.joinmassive.com/llms.txt) |
 
 **Description**
 
@@ -174,7 +174,7 @@ The result is that the answer a model gives depends on which door its crawler en
 
 | Severity | Effort to fix | Type                | Target                     |
 | -------- | ------------- | ------------------- | -------------------------- |
-| 🔴 High   | 🟢 Low         | Machine readability | `joinmassive.com/llms.txt` |
+| 🔴 High   | 🟢 Low         | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and the [documentation site](https://docs.joinmassive.com/residential/introduction) |
 
 **Description**
 
@@ -196,7 +196,7 @@ The site navigation carries a documentation link. The omission exists only in th
 
 | Severity | Effort to fix | Type     | Target                                    |
 | -------- | ------------- | -------- | ------------------------------------------- |
-| 🔴 High   | 🟢 Low         | Evidence | `joinmassive.com/llms.txt`, `/web-access` |
+| 🔴 High   | 🟢 Low         | Evidence | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [web access product page](https://www.joinmassive.com/web-access) |
 
 **Description**
 
@@ -220,7 +220,7 @@ The two pages carrying the abuse controls are in the site footer and in neither 
 
 | Severity | Effort to fix | Type     | Target                             |
 | -------- | ------------- | -------- | ------------------------------------ |
-| 🔴 High   | 🟢 Low         | Evidence | `joinmassive.com/llms.txt`, `/faq` |
+| 🔴 High   | 🟢 Low         | Evidence | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [FAQ](https://www.joinmassive.com/faq) |
 
 **Description**
 
@@ -244,7 +244,7 @@ The figures on the questions page are separately stale. That page still describe
 
 | Severity | Effort to fix | Type        | Target                     |
 | -------- | ------------- | ----------- | -------------------------- |
-| 🔴 High   | 🟢 Low         | Positioning | `joinmassive.com/llms.txt` |
+| 🔴 High   | 🟢 Low         | Positioning | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
 
@@ -268,7 +268,7 @@ Products is 5 of 186 links. It is both incomplete and contradicted from within.
 
 | Severity | Effort to fix | Type        | Target                     |
 | -------- | ------------- | ----------- | -------------------------- |
-| 🔴 High   | 🟠 Medium      | Positioning | `joinmassive.com/llms.txt` |
+| 🔴 High   | 🟠 Medium      | Positioning | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
 
@@ -296,7 +296,7 @@ There is a second risk worth naming. Assistants carrying safety behaviour around
 
 | Severity | Effort to fix | Type     | Target                                                       |
 | -------- | ------------- | -------- | -------------------------------------------------------------- |
-| 🟠 Medium | 🟠 Medium      | Evidence | `llms.txt`, `/faq`, `/web-access`, documentation, repository |
+| 🟠 Medium | 🟠 Medium      | Evidence | [Marketing llms.txt](https://www.joinmassive.com/llms.txt), [FAQ](https://www.joinmassive.com/faq), [web access](https://www.joinmassive.com/web-access), [documentation](https://docs.joinmassive.com/residential/introduction), and [MCP repository](https://github.com/joinmassive/mcp-server) |
 
 **Description**
 
@@ -320,7 +320,7 @@ The common cause is restatement. Each fact is written out separately on three su
 
 | Severity | Effort to fix | Type             | Target                     |
 | -------- | ------------- | ---------------- | -------------------------- |
-| 🟠 Medium | 🟠 Medium      | Content strategy | `joinmassive.com/llms.txt` |
+| 🟠 Medium | 🟠 Medium      | Content strategy | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
 
@@ -342,7 +342,7 @@ Three of the eleven solutions entries additionally disagree with themselves. The
 
 | Severity | Effort to fix | Type                | Target                     |
 | -------- | ------------- | ------------------- | -------------------------- |
-| 🟠 Medium | 🟢 Low         | Machine readability | `joinmassive.com/llms.txt` |
+| 🟠 Medium | 🟢 Low         | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
 
@@ -362,7 +362,7 @@ The ordering compounds it. Guides and marketplace listings come before the case 
 
 | Severity | Effort to fix | Type             | Target                            |
 | -------- | ------------- | ---------------- | ----------------------------------- |
-| 🟠 Medium | 🟠 Medium      | Content strategy | `joinmassive.com/llms.txt`, blog |
+| 🟠 Medium | 🟠 Medium      | Content strategy | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [company blog](https://www.joinmassive.com/blog) |
 
 **Description**
 
@@ -386,7 +386,7 @@ There are no dates anywhere in it. No publication dates, no revision dates, and 
 
 | Severity | Effort to fix | Type        | Target                     |
 | -------- | ------------- | ----------- | -------------------------- |
-| 🟠 Medium | 🟢 Low         | Positioning | `joinmassive.com/llms.txt` |
+| 🟠 Medium | 🟢 Low         | Positioning | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
 
@@ -408,7 +408,7 @@ The marketplace itself is a sound position. It is distribution and it is lead fl
 
 | Severity | Effort to fix | Type             | Target                                     |
 | -------- | ------------- | ---------------- | -------------------------------------------- |
-| 🟢 Low    | 🟠 Medium      | Content strategy | `joinmassive.com/llms.txt`, blog, glossary |
+| 🟢 Low    | 🟠 Medium      | Content strategy | [Marketing llms.txt](https://www.joinmassive.com/llms.txt), [blog](https://www.joinmassive.com/blog), and [glossary](https://www.joinmassive.com/glossary) |
 
 **Description**
 
@@ -430,7 +430,7 @@ For a person browsing the site this is a mild search problem. For a reader given
 
 | Severity | Effort to fix | Type                | Target                     |
 | -------- | ------------- | ------------------- | -------------------------- |
-| 🟢 Low    | 🟠 Medium      | Machine readability | `joinmassive.com/llms.txt` |
+| 🟢 Low    | 🟠 Medium      | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [web access product page](https://www.joinmassive.com/web-access) |
 
 **Description**
 
@@ -448,7 +448,7 @@ The English language-prefixed version of the web access page is indexed while th
 
 | Severity        | Effort to fix | Type             | Target                 |
 | --------------- | ------------- | ---------------- | ------------------------ |
-| 🔵 Informational | 🟢 Low         | Content strategy | `blog.joinmassive.com` |
+| 🔵 Informational | 🟢 Low         | Content strategy | Legacy blog at `blog.joinmassive.com`, compared with the [current company blog](https://www.joinmassive.com/blog) |
 
 **Description**
 
@@ -479,16 +479,16 @@ That is the position the company held before 2024. It is the same problem as fin
 
 ## Appendix B: Sources
 
-- `joinmassive.com/llms.txt`, fetched 11 August 2026
-- `docs.joinmassive.com/llms.txt`, fetched 11 August 2026
-- `joinmassive.com/web-access`, including navigation, footer, pricing table, and compliance block
-- `joinmassive.com/faq`
-- `joinmassive.com`, team section
-- `docs.joinmassive.com`, residential, ISP, render, reseller, reporting, and monetisation kit sections
+- [Marketing llms.txt](https://www.joinmassive.com/llms.txt), fetched 11 August 2026
+- [Documentation llms.txt](https://docs.joinmassive.com/llms.txt), fetched 11 August 2026
+- [Web access product page](https://www.joinmassive.com/web-access), including navigation, footer, pricing table, and compliance block
+- [FAQ](https://www.joinmassive.com/faq)
+- [Massive homepage](https://www.joinmassive.com/), team section
+- [Massive documentation](https://docs.joinmassive.com/residential/introduction), including residential, ISP, render, reseller, reporting, and monetisation kit sections
 - `api-docs.joinmassive.com`
 - `blog.joinmassive.com/about`
-- `github.com/joinmassive/mcp-server`
-- The `llms.txt` proposal, Jeremy Howard, Answer.AI, September 2024
+- [Massive MCP repository](https://github.com/joinmassive/mcp-server)
+- [The llms.txt proposal](https://llmstxt.org/), Jeremy Howard, Answer.AI, September 2024
 - [Massive Computing Inc. Public Surface Review](./Massive.md), July 2026
 
 ## Appendix C: Confidence and Limitations

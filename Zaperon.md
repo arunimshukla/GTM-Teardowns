@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |:--|:--|
-| Subject | Zaperon |
+| Subject | [Zaperon](https://www.zaperon.com/) |
 | Type | Public website and security evidence review |
 | Reviewer | Arunim Shukla |
 | Date of review | 29 October 2026, rechecked 7 November 2026 |
@@ -43,10 +43,10 @@ The two findings that remain are in the reporting guide. It makes a strong integ
 
 | Target | Type |
 |:--|:--|
-| Marketing homepage and the legacy VPN article address | Website and page source |
-| October seed-round coverage | External positioning reference |
-| Real-time Reports guide | Product documentation |
-| CERT-In directions of 28 April 2022 | Primary regulatory source |
+| [Marketing homepage](https://www.zaperon.com/) and the legacy VPN article address | Website and page source |
+| [October seed-round coverage](https://indianstartupnews.com/funding/cybersecurity-startup-zaperon-raises-rs-7-crore-to-launch-enterprise-grade-ai-security-frameworks-12612842) | External positioning reference |
+| [Real-time Reports guide](https://docs.zaperon.com/real-time-reports) | Product documentation |
+| [CERT-In directions of 28 April 2022](https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf) | Primary regulatory source |
 
 ## Project Coverage
 
@@ -73,7 +73,7 @@ The original review sampled two marketing URLs and the reporting guide. The 7 No
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Product evidence | Real-time Reports guide |
+| **🔴 High** | 🟢 Low | Product evidence | [Real-time Reports guide](https://docs.zaperon.com/real-time-reports) |
 
 **Description**
 
@@ -90,7 +90,7 @@ A security reviewer needs to know the control behind the integrity claim and whe
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟠 Medium | Procurement evidence | Real-time Reports guide |
+| **🟠 Medium** | 🟠 Medium | Procurement evidence | [Real-time Reports guide](https://docs.zaperon.com/real-time-reports) and [CERT-In directions](https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf) |
 
 **Description**
 

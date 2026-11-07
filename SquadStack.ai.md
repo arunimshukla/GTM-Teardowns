@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |:--|:--|
-| Subject | SquadStack.ai (Squadrun Solutions Private Limited) |
+| Subject | [SquadStack.ai](https://www.squadstack.ai/) (Squadrun Solutions Private Limited) |
 | Type | Public website positioning, evidence, and machine-readable surface review |
 | Reviewer | Arunim Shukla |
 | Date of review | 7 November 2026 |
@@ -48,11 +48,11 @@ The first corrections can be made in copy and configuration. The longer piece of
 
 | Target | Type |
 |:--|:--|
-| Homepage, pricing, and ROI calculator | Commercial pages |
-| Case-study library and 28 live case studies | Customer evidence |
-| Eight SquadStack comparison pages | Competitive framing |
-| Turing-test and engineering articles, and the Arth benchmark | Technical evidence |
-| Collections guides, trust centre, and public policies | Procurement evidence |
+| [Homepage](https://www.squadstack.ai/), [pricing](https://www.squadstack.ai/pricing), and [ROI calculator](https://www.squadstack.ai/roi-calculator) | Commercial pages |
+| [Case-study library](https://www.squadstack.ai/case-study) and 28 live case studies | Customer evidence |
+| Eight SquadStack comparison pages, including [Sarvam](https://www.squadstack.ai/squadstack-vs-sarvam) | Competitive framing |
+| [Turing-test](https://www.squadstack.ai/blog/turing-test) and [engineering](https://www.squadstack.ai/blog/inside-the-humanoid-ai-agent-stack) articles, and the [Arth benchmark](https://huggingface.co/datasets/Squadstack/conversational-streaming-asr-benchmark) | Technical evidence |
+| [Collections guide](https://www.squadstack.ai/blog/ai-voice-agents-for-bnpl-collections-and-emi-upsell), [trust centre](https://trust.squadstack.ai/resources), and [privacy policy](https://www.squadstack.ai/privacy-policy) | Procurement evidence |
 | `/llms.txt`, `/sitemap.xml`, and `/robots.txt` | Machine-readable files |
 | Blog and industry templates, the Ayoconnect page, and consent banner | Editorial and page structure |
 
@@ -99,7 +99,7 @@ The benchmark is used to reconcile what SquadStack reports across its own surfac
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Evidence | Homepage, `/llms.txt`, and the case-study library |
+| **🔴 High** | 🟠 Medium | Evidence | [Homepage](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), and the [Choice India](https://www.squadstack.ai/case-study/success-story-with-choice) and [redBus](https://www.squadstack.ai/case-study/success-story-with-redbus-feedback-collection) case studies |
 
 **Description**
 
@@ -116,7 +116,7 @@ The homepage publishes 90% lead connectivity without identifying the population 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Evidence | Homepage, `/llms.txt`, comparison pages, and the Turing-test article |
+| **🔴 High** | 🟢 Low | Evidence | [Homepage](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), [Bolna](https://www.squadstack.ai/squadstack-vs-bolna) and [Yellow.ai](https://www.squadstack.ai/squadstack-vs-yellow) comparisons, and the [Turing-test article](https://www.squadstack.ai/blog/turing-test) |
 
 **Description**
 
@@ -135,11 +135,11 @@ The September and October rounds had different sample sizes. The Bolna and Yello
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Competitive framing | Eight `/squadstack-vs-*` pages and the public benchmark |
+| **🔴 High** | 🟠 Medium | Competitive framing | Eight comparison pages, including [Sarvam](https://www.squadstack.ai/squadstack-vs-sarvam) and [Convin](https://www.squadstack.ai/squadstack-vs-convin), and the [public benchmark](https://huggingface.co/datasets/Squadstack/conversational-streaming-asr-benchmark) |
 
 **Description**
 
-Six comparison pages put the named competitor below a 25% proof-of-concept success rate. The Convin page gives 15%. The figures appear without a source, a date, or a definition of success. The ASCI Code asks that comparative claims be capable of substantiation.
+Six comparison pages put the named competitor below a 25% proof-of-concept success rate. The Convin page gives 15%. The figures appear without a source, a date, or a definition of success. The [ASCI Code](https://www.ascionline.in/the-asci-code/) asks that comparative claims be capable of substantiation.
 
 The Sarvam page gives WER figures of 26.4% and 36.8%. SquadStack's public benchmark gives raw WER of 29.14% for Arth V2 and 33.25% for Saaras v4. It gives semantic WER of 8.85% and 10.84%, respectively. A separate test could produce the first pair. The comparison page gives the buyer no way to establish which test it uses.
 
@@ -152,11 +152,11 @@ The Sarvam page gives WER figures of 26.4% and 36.8%. SquadStack's public benchm
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Procurement evidence | Homepage FAQ, `/llms.txt`, and the EMI and BNPL guides |
+| **🔴 High** | 🟢 Low | Procurement evidence | [Homepage FAQ](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), and [EMI](https://www.squadstack.ai/blog/emi-reminder-calls-designing-compliant-ai-voice-scripts-for-india) and [BNPL](https://www.squadstack.ai/blog/ai-voice-agents-for-bnpl-collections-and-emi-upsell) guides |
 
 **Description**
 
-The homepage and the BNPL collections guide present a 9:30 a.m. to 8:30 p.m. window in the context of collections. RBI circular RBI/2022-23/108 specifies an 8 a.m. to 7 p.m. window for covered overdue-loan recovery calls. SquadStack's EMI guide also gives 8 a.m. to 7 p.m. Microfinance loans covered by the separate RBI directions are outside the circular's scope.
+The homepage and the BNPL collections guide present a 9:30 a.m. to 8:30 p.m. window in the context of collections. [RBI circular RBI/2022-23/108](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0) specifies an 8 a.m. to 7 p.m. window for covered overdue-loan recovery calls. SquadStack's EMI guide also gives 8 a.m. to 7 p.m. Microfinance loans covered by the separate RBI directions are outside the circular's scope.
 
 A lender reading the public pages has no clear account of the window that applies to a covered overdue campaign. The pages establish the copy conflict. The production rules and call logs were outside the review.
 
@@ -169,7 +169,7 @@ A lender reading the public pages has no clear account of the window that applie
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Positioning | Homepage FAQ, `/llms.txt`, engineering article, and trust centre |
+| **🔴 High** | 🟠 Medium | Positioning | [Homepage FAQ](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), [engineering article](https://www.squadstack.ai/blog/inside-the-humanoid-ai-agent-stack), and [subprocessor list](https://trust.squadstack.ai/subprocessors) |
 
 **Description**
 
@@ -186,7 +186,7 @@ The trust centre lists OpenAI, Google Gemini, and Plivo. Its OpenAI and Gemini e
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Procurement evidence | `/privacy-policy` and the trust centre |
+| **🔴 High** | 🟠 Medium | Procurement evidence | [Privacy policy](https://www.squadstack.ai/privacy-policy) and [trust centre](https://trust.squadstack.ai/resources) |
 
 **Description**
 
@@ -203,7 +203,7 @@ The gap is in the public policy. An assessment of statutory duties would also ne
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Evidence | Insurer, quick-commerce, and Kissht case studies |
+| **🟠 Medium** | 🟢 Low | Evidence | [Insurer](https://www.squadstack.ai/case-study/success-story-with-leading-general-insurer), [quick-commerce](https://www.squadstack.ai/case-study/success-story-with-quick-commerce-platforms), and [Kissht](https://www.squadstack.ai/case-study/kissht-success-story) case studies |
 
 **Description**
 
@@ -220,7 +220,7 @@ Each page gives the reader two measures under one number. A buyer trying to vali
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Commercial evaluation | `/roi-calculator` and `/pricing` |
+| **🟠 Medium** | 🟢 Low | Commercial evaluation | [ROI calculator](https://www.squadstack.ai/roi-calculator) and [pricing](https://www.squadstack.ai/pricing) |
 
 **Description**
 
@@ -237,7 +237,7 @@ The result is labelled illustrative. The buyer can change the size of the scenar
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Commercial evaluation | `/pricing` and the homepage FAQ |
+| **🟠 Medium** | 🟢 Low | Commercial evaluation | [Pricing](https://www.squadstack.ai/pricing) and the [homepage FAQ](https://www.squadstack.ai/) |
 
 **Description**
 
@@ -254,7 +254,7 @@ The homepage FAQ gives an indicative ₹2–₹5 per-minute range. The pricing p
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Procurement evidence | Footer certificate link and trust-centre resources |
+| **🟠 Medium** | 🟢 Low | Procurement evidence | [Footer certificate](https://25336320.fs1.hubspotusercontent-eu1.net/hubfs/25336320/E-Copy-Squadrun%20Solutions%20Pvt%20Ltd-ISMS-CA.pdf) and [trust-centre resources](https://trust.squadstack.ai/resources) |
 
 **Description**
 
@@ -271,7 +271,7 @@ The footer leads a reviewer to an older copy. The current certificate and audit 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Page structure | Cookie banner |
+| **🟠 Medium** | 🟢 Low | Page structure | Cookie banner on the [homepage](https://www.squadstack.ai/) and the [cookie policy](https://www.squadstack.ai/cookie-policy) |
 
 **Description**
 
@@ -285,11 +285,11 @@ The banner's Cookie Policy link has the value `http:///cookie-policy`, which the
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Machine readability | Travel article and its structured data |
+| **🟠 Medium** | 🟢 Low | Machine readability | [Travel article](https://www.squadstack.ai/ai-agent-stack/conversational-ai-in-travel-a-smarter-way-to-serve-customers) and its structured data |
 
 **Description**
 
-The travel article includes `Product` markup with an `AggregateRating` of 4.9 from 34 ratings. The rendered page shows no rating or review. Google's review snippet guidelines require the aggregate rating to be visible on the marked-up page.
+The travel article includes `Product` markup with an `AggregateRating` of 4.9 from 34 ratings. The rendered page shows no rating or review. [Google's review snippet guidelines](https://developers.google.com/search/docs/appearance/structured-data/review-snippet) require the aggregate rating to be visible on the marked-up page.
 
 **Recommendations**
 
@@ -299,7 +299,7 @@ The travel article includes `Product` markup with an `AggregateRating` of 4.9 fr
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Editorial | Blog article template |
+| **🟠 Medium** | 🟢 Low | Editorial | [Blog article template](https://www.squadstack.ai/blog/turing-test) and [blog index](https://www.squadstack.ai/blog) |
 
 **Description**
 
@@ -315,7 +315,7 @@ The visible date is useful to a reader assessing recency. Without a label or the
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Page structure | Industries hub, Ayoconnect page, and blog category pages |
+| **🟠 Medium** | 🟢 Low | Page structure | [Industries hub](https://www.squadstack.ai/industry/industries), [Ayoconnect page](https://www.squadstack.ai/ayoconnectxsquadstack), and [blog category pages](https://www.squadstack.ai/blog-category/customer-experience) |
 
 **Description**
 
@@ -330,11 +330,11 @@ The Ayoconnect collections page returns successfully and carries a page title. I
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Machine readability | `/sitemap.xml`, `/llms.txt`, and `/robots.txt` |
+| **🟠 Medium** | 🟢 Low | Machine readability | [Sitemap](https://www.squadstack.ai/sitemap.xml), [facts file](https://www.squadstack.ai/llms.txt), and [crawler rules](https://www.squadstack.ai/robots.txt) |
 
 **Description**
 
-The sitemap lists 1,003 addresses, including 132 pages carrying `noindex` and six redirects. Eight destinations in `llms.txt` redirect, including the old team page and seven guide addresses. The crawler file puts two page exclusions in the wildcard group and gives named agents their own allow groups. Under RFC 9309, a named group takes precedence over the wildcard fallback for an agent that matches it.
+The sitemap lists 1,003 addresses, including 132 pages carrying `noindex` and six redirects. Eight destinations in `llms.txt` redirect, including the old team page and seven guide addresses. The crawler file puts two page exclusions in the wildcard group and gives named agents their own allow groups. Under [RFC 9309](https://datatracker.ietf.org/doc/html/rfc9309#section-2.2.1), a named group takes precedence over the wildcard fallback for an agent that matches it.
 
 The sitemap can be used to identify preferred pages. Redirecting and noindexed entries make that set harder to infer. The crawler configuration also needs to express the intended rules per agent.
 
@@ -381,7 +381,7 @@ The impact and effort definitions follow [METHODOLOGY.md](./METHODOLOGY.md).
 | 5, 6, 10, 11 | [Engineering article](https://www.squadstack.ai/blog/inside-the-humanoid-ai-agent-stack), [subprocessors](https://trust.squadstack.ai/subprocessors), [trust-centre resources](https://trust.squadstack.ai/resources), [privacy policy](https://www.squadstack.ai/privacy-policy), [footer certificate](https://25336320.fs1.hubspotusercontent-eu1.net/hubfs/25336320/E-Copy-Squadrun%20Solutions%20Pvt%20Ltd-ISMS-CA.pdf), and [cookie policy](https://www.squadstack.ai/cookie-policy) |
 | 8, 9 | [ROI calculator](https://www.squadstack.ai/roi-calculator), [pricing](https://www.squadstack.ai/pricing), and [homepage FAQ](https://www.squadstack.ai/) |
 | 12, 13 | [Travel article](https://www.squadstack.ai/ai-agent-stack/conversational-ai-in-travel-a-smarter-way-to-serve-customers), [Google review snippet guidelines](https://developers.google.com/search/docs/appearance/structured-data/review-snippet), [blog](https://www.squadstack.ai/blog), and [Turing-test article](https://www.squadstack.ai/blog/turing-test) |
-| 14, 15 | [Ayoconnect page](https://www.squadstack.ai/ayoconnectxsquadstack), [industries hub](https://www.squadstack.ai/industry/industries), [sitemap](https://www.squadstack.ai/sitemap.xml), [crawler rules](https://www.squadstack.ai/robots.txt), and [RFC 9309](https://www.rfc-editor.org/rfc/rfc9309#section-2.2.1) |
+| 14, 15 | [Ayoconnect page](https://www.squadstack.ai/ayoconnectxsquadstack), [industries hub](https://www.squadstack.ai/industry/industries), [sitemap](https://www.squadstack.ai/sitemap.xml), [crawler rules](https://www.squadstack.ai/robots.txt), and [RFC 9309](https://datatracker.ietf.org/doc/html/rfc9309#section-2.2.1) |
 
 ## Appendix C: Confidence and Limitations
 

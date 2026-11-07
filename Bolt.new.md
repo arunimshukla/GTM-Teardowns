@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |:--|:--|
-| Subject | Bolt.new, operated by StackBlitz |
+| Subject | [Bolt.new](https://bolt.new/), operated by StackBlitz |
 | Type | Public positioning and competitive review |
 | Reviewer | Arunim Shukla |
 | Date of review | July 2026 |
@@ -51,11 +51,11 @@ The review was framed by the following questions:
 
 | Target | Type |
 |:--|:--|
-| `bolt.new` homepage | Website |
-| Pricing page | Website |
-| `bolt.new/blogs`, ten most recent posts | Website |
+| [Bolt.new homepage](https://bolt.new/) | Website |
+| [Pricing page](https://bolt.new/pricing) | Website |
+| Ten most recent posts at the time of review, with the [current blog index](https://bolt.new/blog) | Website |
 | Published job brief | Recruitment material |
-| Sacra interview with Eric Simons | Primary source |
+| [Sacra interview with Eric Simons](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/) | Primary source |
 
 ## Project Coverage
 
@@ -90,7 +90,7 @@ Comparators were mapped for positioning language and pricing structure only.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🔴 High | 🟠 Medium | Content strategy | `bolt.new/blogs` |
+| 🔴 High | 🟠 Medium | Content strategy | Ten posts from the blog at the time of review, and the [current blog index](https://bolt.new/blog) |
 
 **Description**
 
@@ -110,7 +110,7 @@ This is not an inconsistency in wording. It is a spending decision that runs aga
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🔴 **High** | 🟢 Low | Positioning | `bolt.new` homepage |
+| 🔴 **High** | 🟢 Low | Positioning | [Bolt.new homepage](https://bolt.new/) and the published job brief |
 
 **Description**
 
@@ -128,7 +128,7 @@ WebContainers runs the development environment inside the visitor's browser. Eve
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟠 Medium | 🟢 Low | Positioning | `bolt.new` homepage, job brief |
+| 🟠 Medium | 🟢 Low | Positioning | [Bolt.new homepage](https://bolt.new/) and the published job brief |
 
 **Description**
 
@@ -153,7 +153,7 @@ The recruitment copy is stronger than the marketing copy.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟠 Medium | 🟠 Medium | Segmentation | `bolt.new` homepage |
+| 🟠 Medium | 🟠 Medium | Segmentation | [Bolt.new homepage](https://bolt.new/) |
 
 **Description**
 
@@ -171,7 +171,7 @@ In a business purchase, a product manager may raise the request, but engineering
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟢 Low | 🟢 Low | Competitive framing | Published job brief |
+| 🟢 Low | 🟢 Low | Competitive framing | Published job brief and [Eric Simons interview](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/) |
 
 **Description**
 
@@ -211,10 +211,9 @@ The consequence is that the competitive picture held by the chief executive and 
 
 ## Appendix B: Sources
 
-* Interview with Eric Simons, published by Sacra:
-  `https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/`
-* `bolt.new` homepage and pricing page
-* `bolt.new/blogs`
+* [Interview with Eric Simons, published by Sacra](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/)
+* [Bolt.new homepage](https://bolt.new/) and [pricing page](https://bolt.new/pricing)
+* Bolt.new blog, reviewed at `bolt.new/blogs`. The [current blog index](https://bolt.new/blog) is at `bolt.new/blog`.
 * Bolt.new job brief, as published at the time of review
 
 ## Appendix C: Confidence and Limitations

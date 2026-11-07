@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |:--|:--|
-| Subject | Arcanna.ai |
+| Subject | [Arcanna.ai](https://arcanna.ai/) |
 | Type | Public website positioning, product evidence, and machine-readable surface review |
 | Reviewer | Arunim Shukla |
 | Date of review | 5 November 2026, with selected checks repeated on 7 November 2026 |
@@ -44,10 +44,10 @@ The larger gap is between the marketing description and the deployment questions
 
 | Target | Type |
 |:--|:--|
-| Homepage, demo, and platform pages | Commercial and product claims |
-| Orange, Accenture, Global SOC, and TAQA case studies | Customer evidence |
-| Decision models, assistant, integration, and marketplace docs | Product documentation |
-| Blog article source, sitemap, and crawler files | Machine-readable surface |
+| [Homepage](https://arcanna.ai/), [demo](https://arcanna.ai/demo), and platform pages | Commercial and product claims |
+| [Orange](https://arcanna.ai/case-studies/orange), [Accenture](https://arcanna.ai/case-studies/global-mssp-decision-intelligence), [Global SOC](https://arcanna.ai/case-studies/global-soc-cuts-false-positives-meets-slas), and [TAQA](https://arcanna.ai/case-studies/taqa) case studies | Customer evidence |
+| [Decision models](https://arcanna.ai/docs/decision-models), [assistant](https://docs.arcanna.ai/docs/ai-assistant/setup/), [integrations](https://arcanna.ai/platform/integrations), and marketplace docs | Product documentation |
+| [Blog article](https://arcanna.ai/blog/mssp-ai-soc) source, [sitemap](https://arcanna.ai/sitemap.xml), and crawler files | Machine-readable surface |
 
 ## Project Coverage
 
@@ -83,7 +83,7 @@ The original review checked the marketing site and user guide on 5 November. Thi
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Evidence | Homepage, Orange and Accenture case studies |
+| **🔴 High** | 🟠 Medium | Evidence | [Homepage](https://arcanna.ai/), [Orange](https://arcanna.ai/case-studies/orange) and [Accenture](https://arcanna.ai/case-studies/global-mssp-decision-intelligence) case studies |
 
 **Description**
 
@@ -100,7 +100,7 @@ Orange reports 96% decision accuracy on SIEM and EDR server detections and 80% f
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Evidence | Accenture case study and `/llms.txt` |
+| **🔴 High** | 🟢 Low | Evidence | [Accenture case study](https://arcanna.ai/case-studies/global-mssp-decision-intelligence) and [facts file](https://arcanna.ai/llms.txt) |
 
 **Description**
 
@@ -115,7 +115,7 @@ The case study reports P1/P2 triage falling from 20 minutes to three minutes, an
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Evidence | Global SOC case study |
+| **🔴 High** | 🟢 Low | Evidence | [Global SOC case study](https://arcanna.ai/case-studies/global-soc-cuts-false-positives-meets-slas) |
 
 **Description**
 
@@ -131,7 +131,7 @@ The totals can describe different populations or reporting windows. The page sup
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Product evidence | Decision Layer, Decision Models, and user guide |
+| **🔴 High** | 🟠 Medium | Product evidence | [Decision Layer](https://arcanna.ai/platform/decision-layer), [Decision Models](https://arcanna.ai/docs/decision-models), and [confidence guide](https://docs.arcanna.ai/docs/concepts/confidence-in-decisions/) |
 
 **Description**
 
@@ -146,7 +146,7 @@ The Decision Layer gives autonomous execution at 90–100%, human validation at 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Product evidence | Demo, Investigation Layer, and `/llms.txt` |
+| **🔴 High** | 🟢 Low | Product evidence | [Demo](https://arcanna.ai/demo), [Investigation Layer](https://arcanna.ai/platform/investigation-layer), and [facts file](https://arcanna.ai/llms.txt) |
 
 **Description**
 
@@ -161,7 +161,7 @@ The demo promises “Zero Hallucinations”. The Investigation Layer is describe
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟠 Medium | Product documentation | TAQA case study and AI Assistant setup |
+| **🟠 Medium** | 🟠 Medium | Product documentation | [TAQA case study](https://arcanna.ai/case-studies/taqa) and [AI Assistant setup](https://docs.arcanna.ai/docs/ai-assistant/setup/) |
 
 **Description**
 
@@ -176,7 +176,7 @@ The TAQA story describes an isolated on-premises deployment alongside agentic in
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟠 Medium | Product documentation | Integration grid, Swimlane, and Azure Sentinel guide |
+| **🟠 Medium** | 🟠 Medium | Product documentation | [Integration grid](https://arcanna.ai/platform/integrations), [Swimlane](https://docs.arcanna.ai/docs/integrations/swimlane/), and [Azure Sentinel guide](https://docs.arcanna.ai/docs/implementation-tutorials/azure-sentinel/) |
 
 **Description**
 
@@ -191,7 +191,7 @@ Swimlane is presented as an integration on the marketing site. Its user-guide pa
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Conversion path | Decision Layer and marketplace installation guides |
+| **🟠 Medium** | 🟢 Low | Conversion path | [Decision Layer](https://arcanna.ai/platform/decision-layer) and installation guides for [AWS](https://docs.arcanna.ai/docs/admin-guide/aws-marketplace-installation/), [Azure](https://docs.arcanna.ai/docs/admin-guide/azure-marketplace-installation/), and [Google Cloud](https://docs.arcanna.ai/docs/admin-guide/gcp-marketplace-installation/) |
 
 **Description**
 
@@ -206,7 +206,7 @@ The Decision Layer mentions AWS and Google Cloud marketplace availability. The p
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟠 Medium | Machine readability | Blog article template |
+| **🟠 Medium** | 🟠 Medium | Machine readability | Blog article template, sampled on the [MSSP](https://arcanna.ai/blog/mssp-ai-soc) and [Fortinet](https://arcanna.ai/blog/fortinet-ai-soc) articles |
 
 **Description**
 
@@ -221,7 +221,7 @@ The multi-tenant MSSP article returns its title and introductory material in the
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Machine readability | `/sitemap.xml`, `/robots.txt`, and live case studies |
+| **🟠 Medium** | 🟢 Low | Machine readability | [Sitemap](https://arcanna.ai/sitemap.xml), [robots.txt address](https://arcanna.ai/robots.txt) (404 at review), and [Orange](https://arcanna.ai/case-studies/orange) and [TAQA](https://arcanna.ai/case-studies/taqa) case studies |
 
 **Description**
 

@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |:--|:--|
-| Subject | ChainSecurity (Decentralized Security AG) |
+| Subject | [ChainSecurity](https://www.chainsecurity.com/) (Decentralized Security AG) |
 | Type | Public website positioning and evidence review |
 | Reviewer | Arunim Shukla |
 | Date of review | 3 August 2026 |
@@ -59,18 +59,18 @@ The review was framed by the following questions:
 
 | Target | Address | Type |
 |:--|:--|:--|
-| Positioning page | `/why` | Website |
-| Institutional page | `/institutional` | Website |
-| About page | `/about` | Website |
-| Research index | `/blog` | Website |
-| Research post | `/blog/auditors-wishlist-for-ethereum-security-in-2026` | Website |
-| Audit library | `/smart-contract-audit-reports`, pages 1 and 2 | Website |
-| Audit detail page | `/security-audit/aave-v4` | Website |
-| Testimonials | `/testimonials` | Website |
-| Request form | `/request-audit` | Website |
-| Code repositories | `github.com/ChainSecurity` | Repository |
-| Benchmark | `trailofbits.com/services/blockchain/` | Website |
-| Benchmark | `trailofbits.com/services/research-and-development/` | Website |
+| Positioning page | [Positioning page](https://www.chainsecurity.com/why/) | Website |
+| Institutional page | [Institutional page](https://www.chainsecurity.com/institutional/) | Website |
+| About page | [About page](https://www.chainsecurity.com/about/) | Website |
+| Research index | [Research index](https://www.chainsecurity.com/blog/) | Website |
+| Research post | [Auditor’s wishlist](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) | Website |
+| Audit library | [Audit library](https://www.chainsecurity.com/smart-contract-audit-reports/), pages 1 and 2 | Website |
+| Audit detail page | [Aave V4 audit](https://www.chainsecurity.com/security-audit/aave-v4/) | Website |
+| Testimonials | [Testimonials](https://www.chainsecurity.com/testimonials/) | Website |
+| Request form | [Audit request form](https://www.chainsecurity.com/request-audit/) | Website |
+| Code repositories | [ChainSecurity on GitHub](https://github.com/ChainSecurity) | Repository |
+| Benchmark | [Trail of Bits blockchain services](https://trailofbits.com/services/blockchain/) | Website |
+| Benchmark | [Trail of Bits research and development](https://trailofbits.com/services/research-and-development/) | Website |
 
 ## Project Coverage
 
@@ -126,14 +126,14 @@ Zellic, and Sherlock compete more directly for the same protocol budgets.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟢 Low | Evidence | Homepage, `/why`, `/smart-contract-audit-reports` |
+| **🔴 High** | 🟢 Low | Evidence | [Homepage](https://www.chainsecurity.com/), [positioning page](https://www.chainsecurity.com/why/), and [audit library](https://www.chainsecurity.com/smart-contract-audit-reports/) |
 
 **Description**
 
 No count of completed audits, clients, or years of operation appears on any reviewed page.
 The audit library lists five entries at a time behind a button reading SHOW MORE AUDITS. A visitor who wants to know the size of the archive has to click repeatedly and count.
 
-Trail of Bits places four figures in a fixed bar visible on every page: 620 audits, 946 publications, 200 or more repositories, and an operating history beginning in 2012. Each figure is a link into a filtered view of the corresponding library.
+[Trail of Bits](https://trailofbits.com/services/blockchain/) places four figures in a fixed bar visible on every page: 620 audits, 946 publications, 200 or more repositories, and an operating history beginning in 2012. Each figure is a link into a filtered view of the corresponding library.
 
 A count is the cheapest form of proof available to a professional services firm. In this case the underlying data already exists inside the content management system, because the library pages are generated from it.
 
@@ -147,7 +147,7 @@ A count is the cheapest form of proof available to a professional services firm.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Evidence | `/security-audit/aave-v4` and the audit page template |
+| **🔴 High** | 🟠 Medium | Evidence | [Aave V4 audit page](https://www.chainsecurity.com/security-audit/aave-v4/) and the audit page template |
 
 **Description**
 
@@ -169,7 +169,7 @@ Every item missing from the ChainSecurity page already exists inside the PDF rep
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🔴 High** | 🟠 Medium | Conversion path | `/request-audit` |
+| **🔴 High** | 🟠 Medium | Conversion path | [Audit request form](https://www.chainsecurity.com/request-audit/) |
 
 **Description**
 
@@ -191,7 +191,7 @@ One page asks the buyer to perform unpaid estimation work before any contact. Th
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Editorial | `/security-audit/aave-v4` |
+| **🟠 Medium** | 🟢 Low | Editorial | [Aave V4 audit page](https://www.chainsecurity.com/security-audit/aave-v4/) |
 
 **Description**
 
@@ -209,7 +209,7 @@ A reader has no way to establish whether that statement was written four days ag
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Positioning | `/why`, `/institutional`, X profile |
+| **🟠 Medium** | 🟢 Low | Positioning | [Positioning page](https://www.chainsecurity.com/why/), [institutional page](https://www.chainsecurity.com/institutional/), and [X profile](https://x.com/chain_security) |
 
 **Description**
 
@@ -235,7 +235,7 @@ A firm founded at a university and later acquired is a different entity from a f
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 	🟠 Medium | Positioning | `/why` |
+| **🟠 Medium** | 	🟠 Medium | Positioning | [Positioning page](https://www.chainsecurity.com/why/) |
 
 **Description**
 
@@ -257,7 +257,7 @@ The strongest differentiator on the property cannot be linked to.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Evidence | `/blog/auditors-wishlist-for-ethereum-security-in-2026` |
+| **🟠 Medium** | 🟢 Low | Evidence | [Ethereum security research post](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) |
 
 **Description**
 
@@ -279,7 +279,7 @@ The published summary of that funding round separately credits ChainSecurity wit
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Evidence | Homepage |
+| **🟠 Medium** | 🟢 Low | Evidence | [Homepage](https://www.chainsecurity.com/) and the [Aave V4 audit page](https://www.chainsecurity.com/security-audit/aave-v4/) |
 
 **Description**
 
@@ -297,7 +297,7 @@ That combination of a recognised client name and an attributed quotation from a 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Content strategy | `/blog/auditors-wishlist-for-ethereum-security-in-2026` |
+| **🟠 Medium** | 🟢 Low | Content strategy | [Ethereum security research post](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) |
 
 **Description**
 
@@ -317,7 +317,7 @@ The firm's most widely read piece of research currently promotes the tooling of 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Evidence | Site footer, navigation, `github.com/ChainSecurity` |
+| **🟠 Medium** | 🟢 Low | Evidence | [Site footer and navigation](https://www.chainsecurity.com/), and [ChainSecurity on GitHub](https://github.com/ChainSecurity) |
 
 **Description**
 
@@ -335,7 +335,7 @@ For a firm selling to engineering teams, the public code is a primary source of 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟠 Medium | Page structure | Site wide |
+| **🟠 Medium** | 🟠 Medium | Page structure | Site wide, including the [homepage](https://www.chainsecurity.com/) and [institutional page](https://www.chainsecurity.com/institutional/) |
 
 **Description**
 
@@ -356,7 +356,7 @@ Trail of Bits maintains a dedicated services page for blockchain work.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟠 Medium** | 🟢 Low | Accessibility | Homepage trusted by strip |
+| **🟠 Medium** | 🟢 Low | Accessibility | [Homepage](https://www.chainsecurity.com/) trusted-by strip |
 
 **Description**
 
@@ -374,7 +374,7 @@ This makes the client list unreadable to screen readers, invisible to search eng
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟢 Low** | 🟢 Low | Editorial | `/blog` |
+| **🟢 Low** | 🟢 Low | Editorial | [Research index](https://www.chainsecurity.com/blog/) |
 
 **Description**
 
@@ -394,7 +394,7 @@ For a research publication, an undated post cannot be cited.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟢 Low** | 🟢 Low | Evidence | `/blog` |
+| **🟢 Low** | 🟢 Low | Evidence | [Research index](https://www.chainsecurity.com/blog/) |
 
 **Description**
 
@@ -413,7 +413,7 @@ For a firm whose commercial argument rests on the expertise of specific individu
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟢 Low** | 🔴 High | Page structure | Site wide |
+| **🟢 Low** | 🔴 High | Page structure | Site wide, including the [audit library](https://www.chainsecurity.com/smart-contract-audit-reports/) |
 
 **Description**
 
@@ -432,7 +432,7 @@ linking to the relevant published assessments.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| **🟢 Low** | 🟢 Low | Editorial | `/blog/auditors-wishlist-for-ethereum-security-in-2026` |
+| **🟢 Low** | 🟢 Low | Editorial | [Ethereum security research post](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) |
 
 **Description**
 
@@ -481,12 +481,11 @@ The objective is that a technical or institutional buyer can establish the firm'
 
 ## Appendix B: Sources
 
-* ChainSecurity: `/why`, `/institutional`, `/about`, `/blog`,
-  `/blog/auditors-wishlist-for-ethereum-security-in-2026`, `/smart-contract-audit-reports`,
-  `/security-audit/aave-v4`, `/testimonials`, `/request-audit`
-* `github.com/ChainSecurity`
-* `trailofbits.com/services/blockchain/`
-* `trailofbits.com/services/research-and-development/`
+* ChainSecurity: [positioning](https://www.chainsecurity.com/why/), [institutional](https://www.chainsecurity.com/institutional/), [about](https://www.chainsecurity.com/about/), [research index](https://www.chainsecurity.com/blog/),
+  [Ethereum security research post](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/), [audit library](https://www.chainsecurity.com/smart-contract-audit-reports/), [Aave V4 audit](https://www.chainsecurity.com/security-audit/aave-v4/), [testimonials](https://www.chainsecurity.com/testimonials/), and [audit request](https://www.chainsecurity.com/request-audit/)
+* [ChainSecurity on GitHub](https://github.com/ChainSecurity)
+* [Trail of Bits blockchain services](https://trailofbits.com/services/blockchain/)
+* [Trail of Bits research and development](https://trailofbits.com/services/research-and-development/)
 * Published results of the Ethereum security funding round, May 2026
 
 ## Appendix C: Confidence and Limitations

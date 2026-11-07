@@ -4,7 +4,7 @@
 
 | Field | Detail |
 |:--|:--|
-| Subject | Massive, `joinmassive.com` |
+| Subject | [Massive](https://www.joinmassive.com/), `joinmassive.com` |
 | Type | Public surface, content, and distribution review |
 | Reviewer | Arunim Shukla |
 | Date of review | July 2026 |
@@ -51,15 +51,15 @@ The review was framed by the following questions:
 
 | Target | Type |
 |:--|:--|
-| `joinmassive.com` homepage | Website |
-| `/faq` | Website |
-| Product pages | Website |
-| Company blog | Website |
-| `status.joinmassive.com` | Website |
-| Company LinkedIn page | Social profile |
-| Company X account | Social profile |
+| [Massive homepage](https://www.joinmassive.com/) | Website |
+| [FAQ](https://www.joinmassive.com/faq) | Website |
+| [Product pages](https://www.joinmassive.com/web-access), including web access | Website |
+| [Company blog](https://www.joinmassive.com/blog) | Website |
+| [Status page](https://status.joinmassive.com/) | Website |
+| [Company LinkedIn page](https://www.linkedin.com/company/joinmassive/) | Social profile |
+| [Company X account](https://x.com/joinmassive) | Social profile |
 | Founder profiles | Social profile |
-| Public code repositories | Repository |
+| [Massive on GitHub](https://github.com/joinmassive) | Repository |
 
 ## Project Coverage
 
@@ -115,7 +115,7 @@ Established from primary sources before the review began.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🔴 High | 🟢 Low | Content strategy | `/faq` |
+| 🔴 High | 🟢 Low | Content strategy | [FAQ](https://www.joinmassive.com/faq) |
 
 **Description**
 
@@ -135,7 +135,7 @@ A buyer performing basic checks reaches this page and draws one of two conclusio
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🔴 High |  🟠 Medium  | Evidence | Homepage, product pages, blog |
+| 🔴 High |  🟠 Medium  | Evidence | [Homepage](https://www.joinmassive.com/), [web access product page](https://www.joinmassive.com/web-access), and [company blog](https://www.joinmassive.com/blog) |
 
 **Description**
 
@@ -153,7 +153,7 @@ The company's buyers are developers, data engineers, and teams building agents. 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟠 Medium |  🟠 Medium  | Distribution | Company LinkedIn page, company X account, founder profiles |
+| 🟠 Medium |  🟠 Medium  | Distribution | [Company LinkedIn](https://www.linkedin.com/company/joinmassive/), [company X account](https://x.com/joinmassive), and founder profiles |
 
 **Description**
 
@@ -175,7 +175,7 @@ The reference case is xAI, which has no conventional marketing organisation to r
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟠 Medium |  🟠 Medium  | Distribution | Company blog, the essay on the open web |
+| 🟠 Medium |  🟠 Medium  | Distribution | [Company blog](https://www.joinmassive.com/blog) and [The Web Needs a Front Door](https://www.joinmassive.com/blog/the-web-needs-a-front-door) |
 
 **Description**
 
@@ -197,7 +197,7 @@ Massive holds network measurements that no one else has. Those measurements can 
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟠 Medium | 🟢 Low | Distribution | Company blog |
+| 🟠 Medium | 🟢 Low | Distribution | [Company blog](https://www.joinmassive.com/blog) |
 
 **Description**
 
@@ -215,7 +215,7 @@ Both LinkedIn and X reward consistent posting. Nine posts on one day produces on
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟠 Medium | 🔴 High | Content strategy | Company blog |
+| 🟠 Medium | 🔴 High | Content strategy | [Company blog](https://www.joinmassive.com/blog) |
 
 **Description**
 
@@ -231,11 +231,11 @@ Both LinkedIn and X reward consistent posting. Nine posts on one day produces on
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟢 Low | 🟢 Low | Evidence | Footer, product pages |
+| 🟢 Low | 🟢 Low | Evidence | [Homepage footer](https://www.joinmassive.com/), [web access product page](https://www.joinmassive.com/web-access), and [status page](https://status.joinmassive.com/) |
 
 **Description**
 
-* The status page at `status.joinmassive.com` is not linked from the footer, and is not linked next to the stated availability commitment of 99.9 percent.
+* The [status page](https://status.joinmassive.com/) is not linked from the footer, and is not linked next to the stated availability commitment of 99.9 percent.
 
 An availability commitment with no link to live status is an assertion with no supporting
 record.
@@ -250,7 +250,7 @@ record.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🟢 Low |  🟠 Medium  | Distribution | External communities |
+| 🟢 Low |  🟠 Medium  | Distribution | External communities, including [LangChain on Reddit](https://www.reddit.com/r/LangChain/) and [DEV Community](https://dev.to/) |
 
 **Description**
 
@@ -266,7 +266,7 @@ record.
 
 | Severity | Effort to fix | Type | Target |
 |:--|:--|:--|:--|
-| 🔵 Informational | 🟢 Low | Positioning | Homepage, about page, founder profiles |
+| 🔵 Informational | 🟢 Low | Positioning | [Homepage](https://www.joinmassive.com/), [about page](https://www.joinmassive.com/about-us), and [Brian Kennish's profile](https://www.linkedin.com/in/oldestlivingboy/) |
 
 **Description**
 
@@ -297,12 +297,12 @@ For a business whose entire argument is that web access should be consented and 
 
 ## Appendix B: Sources
 
-* `joinmassive.com`, homepage, `/faq`, product pages, and blog
-* `status.joinmassive.com`
-* Company LinkedIn page and X account, and founder profiles
-* Public code repositories
+* [Massive homepage](https://www.joinmassive.com/), [FAQ](https://www.joinmassive.com/faq), [web access product page](https://www.joinmassive.com/web-access), and [blog](https://www.joinmassive.com/blog)
+* [Massive status page](https://status.joinmassive.com/)
+* [Company LinkedIn](https://www.linkedin.com/company/joinmassive/), [company X account](https://x.com/joinmassive), and founder profiles
+* [Public code repositories](https://github.com/joinmassive)
 * Independent proxy testing published by Proxyway
-* The Web Needs a Front Door, published on the company blog
+* [The Web Needs a Front Door](https://www.joinmassive.com/blog/the-web-needs-a-front-door), published on the company blog
 
 ## Appendix C: Confidence and Limitations
 
