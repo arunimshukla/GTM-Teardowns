@@ -103,14 +103,16 @@ def generated_files():
     counts = Counter()
     high_low = 0
     index = [
-        "| Review | Key takeaway | Findings | Last checked |",
-        "|:--|:--|--:|:--|",
+        "| Sr. no. | Review | Key takeaway | Findings | Last checked |",
+        "|:---:|:--|:--|--:|:--|",
     ]
-    for path, _, name, takeaway in REVIEWS:
+    for serial, (path, _, name, takeaway) in enumerate(REVIEWS, start=1):
         findings, date = report_findings(path)
         counts.update(impact for impact, _ in findings)
         high_low += findings.count(("High", "Low"))
-        index.append(f"| [{name}](./{quote(path)}) | {takeaway} | {len(findings)} | {date} |")
+        index.append(
+            f"| {serial} | [{name}](./{quote(path)}) | {takeaway} | {len(findings)} | {date} |"
+        )
 
     badges = (
         ("published_reviews", len(REVIEWS), "published reviews", "1F3A5F"),

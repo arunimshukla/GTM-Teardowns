@@ -1,5 +1,7 @@
 # Zaperon Public Surface Review
 
+> **Lead finding.** Zaperon’s reporting guide calls its audit trail **tamper-proof**. The guide does not explain how changes are prevented or detected, or which parts of the record the protection covers. [Read the finding](#1-the-reporting-guide-leaves-the-audit-trail-integrity-and-siem-path-unclear).
+
 ## Project Summary
 
 | Field | Detail |
@@ -72,7 +74,7 @@ The original review sampled two marketing URLs and the reporting guide. The 7 No
 ### 1. The reporting guide leaves the audit-trail integrity and SIEM path unclear
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Product evidence | [Real-time Reports guide](https://docs.zaperon.com/real-time-reports) |
 
 **Description**
@@ -89,7 +91,7 @@ A security reviewer needs to know the control behind the integrity claim and whe
 ### 2. The retention statement cannot be mapped to the listed requirements
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟠 Medium | Procurement evidence | [Real-time Reports guide](https://docs.zaperon.com/real-time-reports) and [CERT-In directions](https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf) |
 
 **Description**

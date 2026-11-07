@@ -1,5 +1,7 @@
 # SquadStack.ai Public Surface Review
 
+> **Lead finding.** SquadStack’s `llms.txt` gave Choice India a **200% reduction in customer acquisition cost**. The linked case study said **70%**. [Read the finding](#1-the-canonical-facts-file-disagrees-with-the-case-studies).
+
 ## Project Summary
 
 | Field | Detail |
@@ -98,7 +100,7 @@ The benchmark is used to reconcile what SquadStack reports across its own surfac
 ### 1. The canonical facts file disagrees with the case studies
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Evidence | [Homepage](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), and the [Choice India](https://www.squadstack.ai/case-study/success-story-with-choice) and [redBus](https://www.squadstack.ai/case-study/success-story-with-redbus-feedback-collection) case studies |
 
 **Description**
@@ -115,7 +117,7 @@ The homepage publishes 90% lead connectivity without identifying the population 
 ### 2. The Turing-test headline misstates what the test measured
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Evidence | [Homepage](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), [Bolna](https://www.squadstack.ai/squadstack-vs-bolna) and [Yellow.ai](https://www.squadstack.ai/squadstack-vs-yellow) comparisons, and the [Turing-test article](https://www.squadstack.ai/blog/turing-test) |
 
 **Description**
@@ -134,7 +136,7 @@ The September and October rounds had different sample sizes. The Bolna and Yello
 ### 3. Comparison pages publish figures without a source or method
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Competitive framing | Eight comparison pages, including [Sarvam](https://www.squadstack.ai/squadstack-vs-sarvam) and [Convin](https://www.squadstack.ai/squadstack-vs-convin), and the [public benchmark](https://huggingface.co/datasets/Squadstack/conversational-streaming-asr-benchmark) |
 
 **Description**
@@ -151,7 +153,7 @@ The Sarvam page gives WER figures of 26.4% and 36.8%. SquadStack's public benchm
 ### 4. The published collections window conflicts with recovery-call guidance
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Procurement evidence | [Homepage FAQ](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), and [EMI](https://www.squadstack.ai/blog/emi-reminder-calls-designing-compliant-ai-voice-scripts-for-india) and [BNPL](https://www.squadstack.ai/blog/ai-voice-agents-for-bnpl-collections-and-emi-upsell) guides |
 
 **Description**
@@ -168,7 +170,7 @@ A lender reading the public pages has no clear account of the window that applie
 ### 5. The public architecture leaves vendor and deployment boundaries unclear
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Positioning | [Homepage FAQ](https://www.squadstack.ai/), [facts file](https://www.squadstack.ai/llms.txt), [engineering article](https://www.squadstack.ai/blog/inside-the-humanoid-ai-agent-stack), and [subprocessor list](https://trust.squadstack.ai/subprocessors) |
 
 **Description**
@@ -185,7 +187,7 @@ The trust centre lists OpenAI, Google Gemini, and Plivo. Its OpenAI and Gemini e
 ### 6. The privacy policy describes the legacy crowd-work business
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Procurement evidence | [Privacy policy](https://www.squadstack.ai/privacy-policy) and [trust centre](https://trust.squadstack.ai/resources) |
 
 **Description**
@@ -202,7 +204,7 @@ The gap is in the public policy. An assessment of statutory duties would also ne
 ### 7. Case-study tiles mislabel the metrics they present
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Evidence | [Insurer](https://www.squadstack.ai/case-study/success-story-with-leading-general-insurer), [quick-commerce](https://www.squadstack.ai/case-study/success-story-with-quick-commerce-platforms), and [Kissht](https://www.squadstack.ai/case-study/kissht-success-story) case studies |
 
 **Description**
@@ -219,7 +221,7 @@ Each page gives the reader two measures under one number. A buyer trying to vali
 ### 8. The ROI calculator applies three fixed assumptions
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Commercial evaluation | [ROI calculator](https://www.squadstack.ai/roi-calculator) and [pricing](https://www.squadstack.ai/pricing) |
 
 **Description**
@@ -236,7 +238,7 @@ The result is labelled illustrative. The buyer can change the size of the scenar
 ### 9. The pricing page leaves pilot terms and fees unclear
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Commercial evaluation | [Pricing](https://www.squadstack.ai/pricing) and the [homepage FAQ](https://www.squadstack.ai/) |
 
 **Description**
@@ -253,7 +255,7 @@ The homepage FAQ gives an indicative ₹2–₹5 per-minute range. The pricing p
 ### 10. The public document links leave current audit coverage unclear
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Procurement evidence | [Footer certificate](https://25336320.fs1.hubspotusercontent-eu1.net/hubfs/25336320/E-Copy-Squadrun%20Solutions%20Pvt%20Ltd-ISMS-CA.pdf) and [trust-centre resources](https://trust.squadstack.ai/resources) |
 
 **Description**
@@ -270,7 +272,7 @@ The footer leads a reviewer to an older copy. The current certificate and audit 
 ### 11. The consent banner links to the wrong host
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Page structure | Cookie banner on the [homepage](https://www.squadstack.ai/) and the [cookie policy](https://www.squadstack.ai/cookie-policy) |
 
 **Description**
@@ -284,7 +286,7 @@ The banner's Cookie Policy link has the value `http:///cookie-policy`, which the
 ### 12. A blog article carries product ratings readers cannot see
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Machine readability | [Travel article](https://www.squadstack.ai/ai-agent-stack/conversational-ai-in-travel-a-smarter-way-to-serve-customers) and its structured data |
 
 **Description**
@@ -298,7 +300,7 @@ The travel article includes `Product` markup with an `AggregateRating` of 4.9 fr
 ### 13. Blog posts display their last edit in the date slot
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Editorial | [Blog article template](https://www.squadstack.ai/blog/turing-test) and [blog index](https://www.squadstack.ai/blog) |
 
 **Description**
@@ -314,7 +316,7 @@ The visible date is useful to a reader assessing recency. Without a label or the
 ### 14. Published pages render with missing content or template errors
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Page structure | [Industries hub](https://www.squadstack.ai/industry/industries), [Ayoconnect page](https://www.squadstack.ai/ayoconnectxsquadstack), and [blog category pages](https://www.squadstack.ai/blog-category/customer-experience) |
 
 **Description**
@@ -329,7 +331,7 @@ The Ayoconnect collections page returns successfully and carries a page title. I
 ### 15. The sitemap and crawler files describe different URL sets
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Machine readability | [Sitemap](https://www.squadstack.ai/sitemap.xml), [facts file](https://www.squadstack.ai/llms.txt), and [crawler rules](https://www.squadstack.ai/robots.txt) |
 
 **Description**

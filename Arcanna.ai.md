@@ -1,5 +1,7 @@
 # Arcanna.ai Public Surface Review
 
+> **Lead finding.** The Accenture case study reports P1/P2 triage falling from **20 minutes to three**. Arcanna’s `llms.txt` calls it a **threefold improvement**, while the published times give a ratio of about **6.7 to one**. [Read the finding](#2-the-accenture-result-changes-between-the-case-study-and-the-facts-file).
+
 ## Project Summary
 
 | Field | Detail |
@@ -82,7 +84,7 @@ The original review checked the marketing site and user guide on 5 November. Thi
 ### 1. The homepage publishes four figures without a stated basis
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Evidence | [Homepage](https://arcanna.ai/), [Orange](https://arcanna.ai/case-studies/orange) and [Accenture](https://arcanna.ai/case-studies/global-mssp-decision-intelligence) case studies |
 
 **Description**
@@ -99,7 +101,7 @@ Orange reports 96% decision accuracy on SIEM and EDR server detections and 80% f
 ### 2. The Accenture result changes between the case study and the facts file
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Evidence | [Accenture case study](https://arcanna.ai/case-studies/global-mssp-decision-intelligence) and [facts file](https://arcanna.ai/llms.txt) |
 
 **Description**
@@ -114,7 +116,7 @@ The case study reports P1/P2 triage falling from 20 minutes to three minutes, an
 ### 3. The Global SOC case study gives two unreconciled time totals
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Evidence | [Global SOC case study](https://arcanna.ai/case-studies/global-soc-cuts-false-positives-meets-slas) |
 
 **Description**
@@ -130,7 +132,7 @@ The totals can describe different populations or reporting windows. The page sup
 ### 4. Decision confidence bands differ between public pages
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Product evidence | [Decision Layer](https://arcanna.ai/platform/decision-layer), [Decision Models](https://arcanna.ai/docs/decision-models), and [confidence guide](https://docs.arcanna.ai/docs/concepts/confidence-in-decisions/) |
 
 **Description**
@@ -145,7 +147,7 @@ The Decision Layer gives autonomous execution at 90–100%, human validation at 
 ### 5. The demo gives a broader hallucination claim than the product description
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Product evidence | [Demo](https://arcanna.ai/demo), [Investigation Layer](https://arcanna.ai/platform/investigation-layer), and [facts file](https://arcanna.ai/llms.txt) |
 
 **Description**
@@ -160,7 +162,7 @@ The demo promises “Zero Hallucinations”. The Investigation Layer is describe
 ### 6. The air-gapped investigation path is missing from the public setup guide
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟠 Medium | Product documentation | [TAQA case study](https://arcanna.ai/case-studies/taqa) and [AI Assistant setup](https://docs.arcanna.ai/docs/ai-assistant/setup/) |
 
 **Description**
@@ -175,7 +177,7 @@ The TAQA story describes an isolated on-premises deployment alongside agentic in
 ### 7. The integration grid gives uneven paths to setup evidence
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟠 Medium | Product documentation | [Integration grid](https://arcanna.ai/platform/integrations), [Swimlane](https://docs.arcanna.ai/docs/integrations/swimlane/), and [Azure Sentinel guide](https://docs.arcanna.ai/docs/implementation-tutorials/azure-sentinel/) |
 
 **Description**
@@ -190,7 +192,7 @@ Swimlane is presented as an integration on the marketing site. Its user-guide pa
 ### 8. The marketing site leaves out a documented evaluation route
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Conversion path | [Decision Layer](https://arcanna.ai/platform/decision-layer) and installation guides for [AWS](https://docs.arcanna.ai/docs/admin-guide/aws-marketplace-installation/), [Azure](https://docs.arcanna.ai/docs/admin-guide/azure-marketplace-installation/), and [Google Cloud](https://docs.arcanna.ai/docs/admin-guide/gcp-marketplace-installation/) |
 
 **Description**
@@ -205,7 +207,7 @@ The Decision Layer mentions AWS and Google Cloud marketplace availability. The p
 ### 9. Older blog articles leave their body out of the initial HTML
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟠 Medium | Machine readability | Blog article template, sampled on the [MSSP](https://arcanna.ai/blog/mssp-ai-soc) and [Fortinet](https://arcanna.ai/blog/fortinet-ai-soc) articles |
 
 **Description**
@@ -220,7 +222,7 @@ The multi-tenant MSSP article returns its title and introductory material in the
 ### 10. The sitemap omits live customer evidence
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Machine readability | [Sitemap](https://arcanna.ai/sitemap.xml), [robots.txt address](https://arcanna.ai/robots.txt) (404 at review), and [Orange](https://arcanna.ai/case-studies/orange) and [TAQA](https://arcanna.ai/case-studies/taqa) case studies |
 
 **Description**

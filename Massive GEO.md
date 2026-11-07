@@ -1,5 +1,7 @@
 # Massive Computing Inc. Generative Engine Surface Review
 
+> **Lead finding.** Massive published two `llms.txt` files. One used the domain name and the other used the company name. **Neither file linked to the other.** [Read the finding](#1-two-llmstxt-files-exist-and-disagree-on-the-name-of-the-company).
+
 ## Project Summary
 
 | Field          | Detail                                                                    |
@@ -147,7 +149,7 @@ Dictionary definitions total 26. Customer evidence totals 3. That is nearly 9 to
 ### 1. Two `llms.txt` files exist and disagree on the name of the company
 
 | Severity | Effort to fix | Type                | Target                                                      |
-| -------- | ------------- | ------------------- | ------------------------------------------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🔴 High   | 🟢 Low         | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [documentation llms.txt](https://docs.joinmassive.com/llms.txt) |
 
 **Description**
@@ -173,7 +175,7 @@ The result is that the answer a model gives depends on which door its crawler en
 ### 2. The documentation is absent from the file that models reach first
 
 | Severity | Effort to fix | Type                | Target                     |
-| -------- | ------------- | ------------------- | -------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🔴 High   | 🟢 Low         | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and the [documentation site](https://docs.joinmassive.com/residential/introduction) |
 
 **Description**
@@ -195,7 +197,7 @@ The site navigation carries a documentation link. The omission exists only in th
 ### 3. The compliance summary omits the audit the company holds and calls two regulations certifications
 
 | Severity | Effort to fix | Type     | Target                                    |
-| -------- | ------------- | -------- | ------------------------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🔴 High   | 🟢 Low         | Evidence | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [web access product page](https://www.joinmassive.com/web-access) |
 
 **Description**
@@ -219,7 +221,7 @@ The two pages carrying the abuse controls are in the site footer and in neither 
 ### 4. The partner earnings figure is disproved by a page listed in the same file
 
 | Severity | Effort to fix | Type     | Target                             |
-| -------- | ------------- | -------- | ------------------------------------ |
+|:---:|:---:|:---:|:---:|
 | 🔴 High   | 🟢 Low         | Evidence | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [FAQ](https://www.joinmassive.com/faq) |
 
 **Description**
@@ -243,7 +245,7 @@ The figures on the questions page are separately stale. That page still describe
 ### 5. The product list contradicts the file's own summary sentence
 
 | Severity | Effort to fix | Type        | Target                     |
-| -------- | ------------- | ----------- | -------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🔴 High   | 🟢 Low         | Positioning | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
@@ -267,7 +269,7 @@ Products is 5 of 186 links. It is both incomplete and contradicted from within.
 ### 6. The file is weighted towards evasion tooling and against the claim the business rests on
 
 | Severity | Effort to fix | Type        | Target                     |
-| -------- | ------------- | ----------- | -------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🔴 High   | 🟠 Medium      | Positioning | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
@@ -295,7 +297,7 @@ There is a second risk worth naming. Assistants carrying safety behaviour around
 ### 7. Three product facts are published with different values on surfaces the company controls
 
 | Severity | Effort to fix | Type     | Target                                                       |
-| -------- | ------------- | -------- | -------------------------------------------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟠 Medium      | Evidence | [Marketing llms.txt](https://www.joinmassive.com/llms.txt), [FAQ](https://www.joinmassive.com/faq), [web access](https://www.joinmassive.com/web-access), [documentation](https://docs.joinmassive.com/residential/introduction), and [MCP repository](https://github.com/joinmassive/mcp-server) |
 
 **Description**
@@ -319,7 +321,7 @@ The common cause is restatement. Each fact is written out separately on three su
 ### 8. Nine tenths of the entries repeat their own link text
 
 | Severity | Effort to fix | Type             | Target                     |
-| -------- | ------------- | ---------------- | -------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟠 Medium      | Content strategy | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
@@ -341,7 +343,7 @@ Three of the eleven solutions entries additionally disagree with themselves. The
 ### 9. The file carries no priority marker and the customer evidence sits at the bottom
 
 | Severity | Effort to fix | Type                | Target                     |
-| -------- | ------------- | ------------------- | -------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟢 Low         | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
@@ -361,7 +363,7 @@ The ordering compounds it. Guides and marketplace listings come before the case 
 ### 10. The content library labels itself as belonging to last year and the current work is missing
 
 | Severity | Effort to fix | Type             | Target                            |
-| -------- | ------------- | ---------------- | ----------------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟠 Medium      | Content strategy | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [company blog](https://www.joinmassive.com/blog) |
 
 **Description**
@@ -385,7 +387,7 @@ There are no dates anywhere in it. No publication dates, no revision dates, and 
 ### 11. Thirty third-party providers are listed with no statement of relationship
 
 | Severity | Effort to fix | Type        | Target                     |
-| -------- | ------------- | ----------- | -------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟢 Low         | Positioning | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) |
 
 **Description**
@@ -407,7 +409,7 @@ The marketplace itself is a sound position. It is distribution and it is lead fl
 ### 12. Duplicate pages are listed with nothing marking which one is authoritative
 
 | Severity | Effort to fix | Type             | Target                                     |
-| -------- | ------------- | ---------------- | -------------------------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🟢 Low    | 🟠 Medium      | Content strategy | [Marketing llms.txt](https://www.joinmassive.com/llms.txt), [blog](https://www.joinmassive.com/blog), and [glossary](https://www.joinmassive.com/glossary) |
 
 **Description**
@@ -429,7 +431,7 @@ For a person browsing the site this is a mild search problem. For a reader given
 ### 13. The site serves six languages and publishes one file
 
 | Severity | Effort to fix | Type                | Target                     |
-| -------- | ------------- | ------------------- | -------------------------- |
+|:---:|:---:|:---:|:---:|
 | 🟢 Low    | 🟠 Medium      | Machine readability | [Marketing llms.txt](https://www.joinmassive.com/llms.txt) and [web access product page](https://www.joinmassive.com/web-access) |
 
 **Description**
@@ -447,7 +449,7 @@ The English language-prefixed version of the web access page is indexed while th
 ### 14. An earlier blog host is still live and carries pre-2024 positioning
 
 | Severity        | Effort to fix | Type             | Target                 |
-| --------------- | ------------- | ---------------- | ------------------------ |
+|:---:|:---:|:---:|:---:|
 | 🔵 Informational | 🟢 Low         | Content strategy | Legacy blog at `blog.joinmassive.com`, compared with the [current company blog](https://www.joinmassive.com/blog) |
 
 **Description**

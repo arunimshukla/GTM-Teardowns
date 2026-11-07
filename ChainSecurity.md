@@ -1,5 +1,7 @@
 # ChainSecurity Public Surface Review
 
+> **Lead finding.** ChainSecurity’s Aave V4 audit page linked to the report. To see the **audit scope, review date or severity counts**, a buyer had to open the PDF. [Read the finding](#2-audit-detail-pages-omit-the-findings-data-held-in-the-reports).
+
 ## Project Summary
 
 | Field | Detail |
@@ -125,7 +127,7 @@ Zellic, and Sherlock compete more directly for the same protocol budgets.
 ### 1. The website publishes no record of completed work
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Evidence | [Homepage](https://www.chainsecurity.com/), [positioning page](https://www.chainsecurity.com/why/), and [audit library](https://www.chainsecurity.com/smart-contract-audit-reports/) |
 
 **Description**
@@ -146,7 +148,7 @@ A count is the cheapest form of proof available to a professional services firm.
 ### 2. Audit detail pages omit the findings data held in the reports
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Evidence | [Aave V4 audit page](https://www.chainsecurity.com/security-audit/aave-v4/) and the audit page template |
 
 **Description**
@@ -168,7 +170,7 @@ Every item missing from the ChainSecurity page already exists inside the PDF rep
 ### 3. The audit request page asks for estimation work and offers nothing in return
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Conversion path | [Audit request form](https://www.chainsecurity.com/request-audit/) |
 
 **Description**
@@ -190,7 +192,7 @@ One page asks the buyer to perform unpaid estimation work before any contact. Th
 ### 4. An audit page reports a review in progress with no date
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Editorial | [Aave V4 audit page](https://www.chainsecurity.com/security-audit/aave-v4/) |
 
 **Description**
@@ -208,7 +210,7 @@ A reader has no way to establish whether that statement was written four days ag
 ### 5. The firm describes its own origin three different ways
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Positioning | [Positioning page](https://www.chainsecurity.com/why/), [institutional page](https://www.chainsecurity.com/institutional/), and [X profile](https://x.com/chain_security) |
 
 **Description**
@@ -234,7 +236,7 @@ A firm founded at a university and later acquired is a different entity from a f
 ### 6. The audit methodology has no page of its own
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 	🟠 Medium | Positioning | [Positioning page](https://www.chainsecurity.com/why/) |
 
 **Description**
@@ -256,7 +258,7 @@ The strongest differentiator on the property cannot be linked to.
 ### 7. A third party credential appears once, inside a single research post
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Evidence | [Ethereum security research post](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) |
 
 **Description**
@@ -278,7 +280,7 @@ The published summary of that funding round separately credits ChainSecurity wit
 ### 8. The most valuable engagement is absent from the homepage
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Evidence | [Homepage](https://www.chainsecurity.com/) and the [Aave V4 audit page](https://www.chainsecurity.com/security-audit/aave-v4/) |
 
 **Description**
@@ -296,7 +298,7 @@ That combination of a recognised client name and an attributed quotation from a 
 ### 9. The flagship research post names competitor tools exclusively
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Content strategy | [Ethereum security research post](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) |
 
 **Description**
@@ -316,7 +318,7 @@ The firm's most widely read piece of research currently promotes the tooling of 
 ### 10. Public code repositories are not linked from the website
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Evidence | [Site footer and navigation](https://www.chainsecurity.com/), and [ChainSecurity on GitHub](https://github.com/ChainSecurity) |
 
 **Description**
@@ -334,7 +336,7 @@ For a firm selling to engineering teams, the public code is a primary source of 
 ### 11. No page describes what the firm sells
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟠 Medium | Page structure | Site wide, including the [homepage](https://www.chainsecurity.com/) and [institutional page](https://www.chainsecurity.com/institutional/) |
 
 **Description**
@@ -355,7 +357,7 @@ Trail of Bits maintains a dedicated services page for blockchain work.
 ### 12. Client logos carry no alternative text
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Accessibility | [Homepage](https://www.chainsecurity.com/) trusted-by strip |
 
 **Description**
@@ -373,7 +375,7 @@ This makes the client list unreadable to screen readers, invisible to search eng
 ### 13. The research index shows no publication dates
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟢 Low** | 🟢 Low | Editorial | [Research index](https://www.chainsecurity.com/blog/) |
 
 **Description**
@@ -393,7 +395,7 @@ For a research publication, an undated post cannot be cited.
 ### 14. Research posts carry no author attribution
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟢 Low** | 🟢 Low | Evidence | [Research index](https://www.chainsecurity.com/blog/) |
 
 **Description**
@@ -412,7 +414,7 @@ For a firm whose commercial argument rests on the expertise of specific individu
 ### 15. No pages exist for the ecosystems the firm covers
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟢 Low** | 🔴 High | Page structure | Site wide, including the [audit library](https://www.chainsecurity.com/smart-contract-audit-reports/) |
 
 **Description**
@@ -431,7 +433,7 @@ linking to the relevant published assessments.
 ### 16. The flagship research post contradicts its own structure
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟢 Low** | 🟢 Low | Editorial | [Ethereum security research post](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) |
 
 **Description**

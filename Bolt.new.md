@@ -1,5 +1,7 @@
 # Bolt.new Market Positioning Review
 
+> **Lead finding.** Bolt’s job brief led with **WebContainers**, the technology that runs its development environment in the browser. The homepage left out the technology behind that cost advantage. [Read the finding](#2-the-technology-behind-the-cost-advantage-is-absent-from-the-homepage).
+
 ## Project Summary
 
 | Field | Detail |
@@ -89,7 +91,7 @@ Comparators were mapped for positioning language and pricing structure only.
 ### 1. Content spending targets a segment the chief executive publicly declined
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🔴 High | 🟠 Medium | Content strategy | Ten posts from the blog at the time of review, and the [current blog index](https://bolt.new/blog) |
 
 **Description**
@@ -109,7 +111,7 @@ This is not an inconsistency in wording. It is a spending decision that runs aga
 ### 2. The technology behind the cost advantage is absent from the homepage
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🔴 **High** | 🟢 Low | Positioning | [Bolt.new homepage](https://bolt.new/) and the published job brief |
 
 **Description**
@@ -127,7 +129,7 @@ WebContainers runs the development environment inside the visitor's browser. Eve
 ### 3. The homepage states a claim every competitor could also make
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟢 Low | Positioning | [Bolt.new homepage](https://bolt.new/) and the published job brief |
 
 **Description**
@@ -152,7 +154,7 @@ The recruitment copy is stronger than the marketing copy.
 ### 4. The homepage audience list omits developers and engineering teams
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟠 Medium | Segmentation | [Bolt.new homepage](https://bolt.new/) |
 
 **Description**
@@ -170,7 +172,7 @@ In a business purchase, a product manager may raise the request, but engineering
 ### 5. The recruitment competitor set omits the competitor named by the chief executive
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟢 Low | 🟢 Low | Competitive framing | Published job brief and [Eric Simons interview](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/) |
 
 **Description**

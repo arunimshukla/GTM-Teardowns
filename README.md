@@ -33,16 +33,16 @@ Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 ## Published reviews
 
 <!-- review-index:start -->
-| Review | Key takeaway | Findings | Last checked |
-|:--|:--|--:|:--|
-| [SquadStack.ai](./SquadStack.ai.md) | A customer result changes between the case study and the facts file. | 15 | 7 November 2026 |
-| [Arcanna.ai](./Arcanna.ai.md) | The homepage omits the scope that makes named SOC outcomes useful. | 10 | 7 November 2026 |
-| [Zaperon](./Zaperon.md) | The reporting guide leaves buyers to verify integrity and retention controls. | 2 | 7 November 2026 |
-| [Palm Olympia](./Palm-Olympia.md) | Similar-looking enquiry routes and image-only offers obscure the buying terms. | 8 | 7 November 2026 |
-| [Massive · machine-readable review](./Massive%20GEO.md) | Two public facts files disagree about the same company and its products. | 14 | 11 August 2026 |
-| [ChainSecurity](./ChainSecurity.md) | The audit PDFs contain proof buyers cannot scan on the website. | 16 | 3 August 2026 |
-| [Bolt.new](./Bolt.new.md) | The homepage leaves out the technology behind Bolt's cost advantage. | 5 | July 2026 |
-| [Massive](./Massive.md) | The public FAQ describes a business the company had already left. | 9 | July 2026 |
+| Sr. no. | Review | Key takeaway | Findings | Last checked |
+|:---:|:--|:--|--:|:--|
+| 1 | [SquadStack.ai](./SquadStack.ai.md) | A customer result changes between the case study and the facts file. | 15 | 7 November 2026 |
+| 2 | [Arcanna.ai](./Arcanna.ai.md) | The homepage omits the scope that makes named SOC outcomes useful. | 10 | 7 November 2026 |
+| 3 | [Zaperon](./Zaperon.md) | The reporting guide leaves buyers to verify integrity and retention controls. | 2 | 7 November 2026 |
+| 4 | [Palm Olympia](./Palm-Olympia.md) | Similar-looking enquiry routes and image-only offers obscure the buying terms. | 8 | 7 November 2026 |
+| 5 | [Massive · machine-readable review](./Massive%20GEO.md) | Two public facts files disagree about the same company and its products. | 14 | 11 August 2026 |
+| 6 | [ChainSecurity](./ChainSecurity.md) | The audit PDFs contain proof buyers cannot scan on the website. | 16 | 3 August 2026 |
+| 7 | [Bolt.new](./Bolt.new.md) | The homepage leaves out the technology behind Bolt's cost advantage. | 5 | July 2026 |
+| 8 | [Massive](./Massive.md) | The public FAQ describes a business the company had already left. | 9 | July 2026 |
 <!-- review-index:end -->
 
 ## What these reviews test

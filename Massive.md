@@ -1,5 +1,7 @@
 # Massive Computing Inc. Public Surface Review
 
+> **Lead finding.** Massive’s homepage sold **web access for AI teams**. Its FAQ still described a shared supercomputer for scientific simulations, a business the company had exited. [Read the finding](#1-the-frequently-asked-questions-page-describes-a-business-the-company-exited-in-2024).
+
 ## Project Summary
 
 | Field | Detail |
@@ -114,7 +116,7 @@ Established from primary sources before the review began.
 ### 1. The frequently asked questions page describes a business the company exited in 2024
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🔴 High | 🟢 Low | Content strategy | [FAQ](https://www.joinmassive.com/faq) |
 
 **Description**
@@ -134,7 +136,7 @@ A buyer performing basic checks reaches this page and draws one of two conclusio
 ### 2. The consent claim the business depends on is asserted without evidence
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🔴 High |  🟠 Medium  | Evidence | [Homepage](https://www.joinmassive.com/), [web access product page](https://www.joinmassive.com/web-access), and [company blog](https://www.joinmassive.com/blog) |
 
 **Description**
@@ -152,7 +154,7 @@ The company's buyers are developers, data engineers, and teams building agents. 
 ### 3. Company social accounts are dormant, which reduces the reach of everything posted
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium |  🟠 Medium  | Distribution | [Company LinkedIn](https://www.linkedin.com/company/joinmassive/), [company X account](https://x.com/joinmassive), and founder profiles |
 
 **Description**
@@ -174,7 +176,7 @@ The reference case is xAI, which has no conventional marketing organisation to r
 ### 4. The company's strongest published work received no outreach
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium |  🟠 Medium  | Distribution | [Company blog](https://www.joinmassive.com/blog) and [The Web Needs a Front Door](https://www.joinmassive.com/blog/the-web-needs-a-front-door) |
 
 **Description**
@@ -196,7 +198,7 @@ Massive holds network measurements that no one else has. Those measurements can 
 ### 5. Nine posts published on a single day
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🟢 Low | Distribution | [Company blog](https://www.joinmassive.com/blog) |
 
 **Description**
@@ -214,7 +216,7 @@ Both LinkedIn and X reward consistent posting. Nine posts on one day produces on
 ### 6. Blog content shows no evidence of an editorial standard
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟠 Medium | 🔴 High | Content strategy | [Company blog](https://www.joinmassive.com/blog) |
 
 **Description**
@@ -230,7 +232,7 @@ Both LinkedIn and X reward consistent posting. Nine posts on one day produces on
 ### 7. The status page is not linked next to the availability claim
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟢 Low | 🟢 Low | Evidence | [Homepage footer](https://www.joinmassive.com/), [web access product page](https://www.joinmassive.com/web-access), and [status page](https://status.joinmassive.com/) |
 
 **Description**
@@ -249,7 +251,7 @@ record.
 ### 8. The company has no presence in the communities its buyers use
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🟢 Low |  🟠 Medium  | Distribution | External communities, including [LangChain on Reddit](https://www.reddit.com/r/LangChain/) and [DEV Community](https://dev.to/) |
 
 **Description**
@@ -265,7 +267,7 @@ record.
 ### 9. A co-founder's background directly supports the consent argument and is unused
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | 🔵 Informational | 🟢 Low | Positioning | [Homepage](https://www.joinmassive.com/), [about page](https://www.joinmassive.com/about-us), and [Brian Kennish's profile](https://www.linkedin.com/in/oldestlivingboy/) |
 
 **Description**

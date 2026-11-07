@@ -1,5 +1,7 @@
 # Palm Olympia Public Surface Review
 
+> **Lead finding.** One Tower D floor plan labels both **677.23 sq ft** and **138.81 sq ft** as balcony area. A buyer comparing units cannot tell what the first figure represents from the plan. [Read the finding](#3-the-tower-d-plan-labels-two-figures-as-balcony-area).
+
 ## Project Summary
 
 | Field | Detail |
@@ -79,7 +81,7 @@ The original review inspected public desktop pages and sampled responsive rules 
 ### 1. Official and partner enquiry routes are difficult to distinguish
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Conversion path | [Official disclaimer](https://palmolympia.com/disclaimer/) and two partner-branded sites, [palmolympia.in](https://palmolympia.in/) and [thepalmolympia.in](https://thepalmolympia.in/) |
 
 **Description**
@@ -96,7 +98,7 @@ A buyer can recognise the project and still be unsure which operator will receiv
 ### 2. The payment-plan promotion has no linked explanation of the terms
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Commercial evidence | [Homepage promotion](https://palmolympia.com/wp-content/uploads/2025/07/POPUP.jpg-2-1517x2048.jpeg), [residential page](https://palmolympia.com/palm-olympia/), and [Plans](https://palmolympia.com/plans/) |
 
 **Description**
@@ -113,7 +115,7 @@ The figure is recorded as displayed on the graphic. Current inventory, final pri
 ### 3. The Tower D plan labels two figures as balcony area
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟢 Low | Product evidence | [Tower D 2 BHK plus two toilets and study plan](https://palmolympia.com/wp-content/uploads/2024/06/PO-Floor-Plans-54.jpg) on the [Plans page](https://palmolympia.com/plans/) |
 
 **Description**
@@ -128,7 +130,7 @@ The plan labels both 677.23 sq ft and 138.81 sq ft as balcony area. It separatel
 ### 4. The developer record is available only in presentation graphics
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🔴 High** | 🟠 Medium | Evidence | [Sam India page](https://palmolympia.com/sam-india-2/) |
 
 **Description**
@@ -145,7 +147,7 @@ A buyer researching delivered projects can read the graphics visually, but canno
 ### 5. The collections and phases have no shared comparison
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟠 Medium | Product positioning | [Goldspire](https://palmolympia.com/goldspire/), [residential page](https://palmolympia.com/palm-olympia/), and [Plans](https://palmolympia.com/plans/) |
 
 **Description**
@@ -160,7 +162,7 @@ Goldspire presents Club Harmonie. The residential page promotes Club Meridian. P
 ### 6. Construction milestones are published in images without a text record
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟠 Medium | Evidence | [Construction archive](https://palmolympia.com/construction/) and [October update](https://palmolympia.com/october-2026/) |
 
 **Description**
@@ -175,7 +177,7 @@ The October update presents tower milestones in graphics. The original review al
 ### 7. The site-visit phone input has no visible prompt
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Conversion path | [Book a Site Visit form](https://palmolympia.com/) on the homepage |
 
 **Description**
@@ -190,7 +192,7 @@ The telephone input sits beside the country selector without a visible phone pro
 ### 8. The project disclosures are difficult to scan in the footer
 
 | Severity | Effort to fix | Type | Target |
-|:--|:--|:--|:--|
+|:---:|:---:|:---:|:---:|
 | **🟠 Medium** | 🟢 Low | Project evidence | Phase 2 and Phase 3 disclosures in the [homepage footer](https://palmolympia.com/) |
 
 **Description**
