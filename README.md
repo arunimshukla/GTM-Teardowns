@@ -54,7 +54,7 @@ The complete process, impact definitions, limitations, and corrections policy ar
 
 ## Independence and limits
 
-The external reviews are independent and were not commissioned. The standard is to share each review with the company before publication. Advance delivery is unconfirmed for Arcanna.ai, Palm Olympia, SquadStack.ai, and Zaperon. The Palm Olympia review discloses the reviewer’s project-side relationship.
+The external reviews are independent and were not commissioned. The standard is to share each review with the company before publication. Advance delivery is unconfirmed for [Arcanna.ai](https://arcanna.ai/), [Palm Olympia](https://palmolympia.com/), [SquadStack.ai](https://www.squadstack.ai/), and [Zaperon](https://www.zaperon.com/). The collection also covers [Bolt.new](https://bolt.new/), [ChainSecurity](https://www.chainsecurity.com/), and [Massive](https://www.joinmassive.com/). The Palm Olympia review discloses the reviewer’s project-side relationship.
 
 The reviews use public pages, public repositories, and published interviews. They do not assess product quality, website analytics, page speed, paid acquisition, or internal commercial performance. Any checks of responsive styles or rendered pages are described in the relevant review. No buyer interviews, funnel data, or win and loss data were available.
 
@@ -72,6 +72,7 @@ I work across technical product marketing, security, and open-source infrastruct
 
 - [GitHub](https://github.com/arunimshukla)
 - [LinkedIn](https://www.linkedin.com/in/arunimshukla)
+- [X (Twitter)](https://twitter.com/arunim_shukla)
 
 ## Licence
 
