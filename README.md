@@ -5,11 +5,11 @@ Evidence-led reviews of positioning, buyer journeys, content, distribution, and 
 I review the public surfaces that buyers, developers, procurement teams, and automated systems can actually inspect. The purpose is to identify where a company already owns credible evidence but fails to present it at the point where a decision is being made.
 
 <p>
-  <img src="https://img.shields.io/badge/published_reviews-4-1F3A5F?style=flat-square" alt="4 published reviews" height="28">
-  <img src="https://img.shields.io/badge/companies_reviewed-3-1F3A5F?style=flat-square" alt="3 companies reviewed" height="28">
-  <img src="https://img.shields.io/badge/documented_findings-44-1F3A5F?style=flat-square" alt="44 documented findings" height="28">
-  <img src="https://img.shields.io/badge/high_impact-13-CB2431?style=flat-square" alt="13 high-impact findings" height="28">
-  <img src="https://img.shields.io/badge/high_impact_%2B_low_effort-8-2EA043?style=flat-square" alt="8 high-impact, low-effort opportunities" height="28">
+  <img src="https://img.shields.io/badge/published_reviews-8-1F3A5F?style=flat-square" alt="8 published reviews" height="28">
+  <img src="https://img.shields.io/badge/companies_reviewed-7-1F3A5F?style=flat-square" alt="7 companies reviewed" height="28">
+  <img src="https://img.shields.io/badge/documented_findings-79-1F3A5F?style=flat-square" alt="79 documented findings" height="28">
+  <img src="https://img.shields.io/badge/high_impact-29-CB2431?style=flat-square" alt="29 high-impact findings" height="28">
+  <img src="https://img.shields.io/badge/high_impact_%2B_low_effort-17-2EA043?style=flat-square" alt="17 high-impact, low-effort opportunities" height="28">
 </p>
 
 Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
@@ -29,22 +29,26 @@ These two reports best represent the repository: one examines a human buyer jour
 | [Bolt.new](./Bolt.new.md) | Homepage, pricing, content programme, recruitment material, and founder interview | Does Bolt expose its technical advantage and attract the business segment it says it wants? | July 2026 |
 | [Massive](./Massive.md) | Website, content, distribution, social profiles, and public repositories | Does the public surface describe the current business and substantiate the consent model on which its positioning depends? | July 2026 |
 | [Massive: generative engine surface](./Massive%20GEO.md) | Apex and documentation `llms.txt` files, documentation, compliance, and content index | Can an automated reader recover a consistent, accurate, and commercially useful account of the company? | 11 August 2026 |
+| [SquadStack.ai](./SquadStack.ai.md) | Website, case studies, benchmark, comparison pages, trust centre, and machine-readable files | Can a buyer trace SquadStack's performance and procurement claims to consistent public evidence? | 7 November 2026 |
+| [Arcanna.ai](./Arcanna.ai.md) | Website, case studies, product documentation, and machine-readable files | Can a SOC buyer trace headline results and decision rules to the evidence behind them? | 5 November 2026, rechecked 7 November |
+| [Zaperon](./Zaperon.md) | Homepage, page source, and reporting documentation | Can a security buyer verify the reporting controls and retention described in the guide? | 29 October 2026, rechecked 7 November |
+| [Palm Olympia](./Palm-Olympia.md) | Project website, offer and plan assets, construction updates, and enquiry surfaces | Can a buyer verify the operator, compare units and phases, and assess delivery evidence? | 31 October 2026, rechecked 7 November |
 
 ## At a glance
 
 | Measure | Result |
 |:--|--:|
-| Published reviews | 4 |
-| Companies reviewed | 3 |
-| Documented findings | 44 |
-| High impact | 13 |
-| Medium impact | 20 |
+| Published reviews | 8 |
+| Companies reviewed | 7 |
+| Documented findings | 79 |
+| High impact | 29 |
+| Medium impact | 39 |
 | Low impact | 9 |
 | Informational | 2 |
-| Low-effort recommendations | 26 |
-| High-impact, low-effort opportunities | 8 |
+| Low-effort recommendations | 48 |
+| High-impact, low-effort opportunities | 17 |
 
-The highest-leverage subset is the eight high-impact findings whose recommended remedies are estimated in hours rather than days or weeks.
+The highest-leverage subset is the seventeen high-impact findings whose recommended remedies are estimated in hours rather than days or weeks.
 
 ## What these reviews test
 
@@ -65,9 +69,9 @@ The complete process, impact definitions, limitations, and corrections policy ar
 
 ## Independence and limits
 
-None of these reviews was commissioned. Each was sent to the company before publication.
+The external reviews are independent and were not commissioned. The standard is to share each review with the company before publication. Advance delivery is unconfirmed for Arcanna.ai, Palm Olympia, SquadStack.ai, and Zaperon. The Palm Olympia review discloses the reviewer’s project-side relationship.
 
-The reviews use public pages, public repositories, and published interviews. They do not assess product quality, website analytics, page speed, mobile rendering, paid acquisition, or internal commercial performance. No buyer interviews, funnel data, or win and loss data were available.
+The reviews use public pages, public repositories, and published interviews. They do not assess product quality, website analytics, page speed, paid acquisition, or internal commercial performance. Any checks of responsive styles or rendered pages are described in the relevant review. No buyer interviews, funnel data, or win and loss data were available.
 
 A review can establish what evidence a public page presents. It cannot establish how that page converts. Recommendations are reasoned inferences from the observed public surface, not claims about internal performance.
 

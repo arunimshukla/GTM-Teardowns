@@ -116,7 +116,7 @@ A page can be weakly constructed and still perform. These reports evaluate the q
 
 ## Independence and publication
 
-The reviews are independent and were not commissioned. Each company was given the report before it was published in this repository.
+The external reviews are independent and were not commissioned. The publication standard is to share each review with the company in advance. The repository records where advance delivery is unconfirmed. Project-side reviews disclose the reviewer’s relationship to the subject.
 
 Company names, product names, and trademarks remain the property of their owners. They are used for identification and commentary.
 
