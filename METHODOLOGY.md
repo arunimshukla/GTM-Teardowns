@@ -135,4 +135,4 @@ Corrections should preserve the historical record while making the current state
 
 ## Maintaining the index
 
-Add new reports to the catalogue in [scripts/update_readme.py](./scripts/update_readme.py). Run `python3 scripts/update_readme.py` to regenerate the review index, badges, and impact chart from the published reports. Use `--check` to check for stale output.
+Add new reports to the catalogue in [scripts/update_readme.py](./scripts/update_readme.py). Run `python3 scripts/update_readme.py` to regenerate the review index and impact chart from the published reports. Use `--check` to check for stale output.

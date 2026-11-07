@@ -16,58 +16,27 @@
 
 1. [Project Summary](#project-summary)
 2. [Executive Summary](#executive-summary)
-3. [Project Goals](#project-goals)
-4. [Project Targets](#project-targets)
-5. [Project Coverage](#project-coverage)
-6. [Company Background](#company-background)
-7. [Maturity Evaluation](#maturity-evaluation)
-8. [Summary of Findings](#summary-of-findings)
-9. [Detailed Findings](#detailed-findings)
-10. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
-11. [Appendix B: Sources](#appendix-b-sources)
-12. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
-13. [Appendix D: Proposed Content Programme](#appendix-d-proposed-content-programme)
+3. [Scope](#scope)
+4. [Company Background](#company-background)
+5. [Maturity Evaluation](#maturity-evaluation)
+6. [Summary of Findings](#summary-of-findings)
+7. [Detailed Findings](#detailed-findings)
+8. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
+9. [Appendix B: Sources](#appendix-b-sources)
+10. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
+11. [Appendix D: Proposed Content Programme](#appendix-d-proposed-content-programme)
 
 ## Executive Summary
 
-Massive has published the strongest argument in its category and has no distribution for it.
+Massive’s homepage sells web access to teams building AI systems. Its FAQ describes a business the company left in 2024.
 
-The essay on the state of the open web is a serious piece of work. It reached 238 people. At the same time, the frequently asked questions page describes a business the company left in 2024, one click from a homepage selling web access to teams building artificial intelligence systems.
+The open-web essay makes a case for consented access. The reviewed product pages assert consent without showing the consent flow.
 
-The constraint here is reach rather than product. The company's brand accounts have no posting history, which means the platforms show their posts to fewer people. The founder's account has an audience that already responds. The company is publishing through the account that does not work.
+The reviewed company profiles had little visible activity. The review did not have account analytics or outreach records.
 
-The second constraint is proof. Residential proxy infrastructure has a long record of operators who took bandwidth without asking, and that record is the reason the company's consent model is worth anything commercially. The website asserts the consent model. It does not show it.
+## Scope
 
-## Project Goals
-
-The review was framed by the following questions:
-
-* Does the public surface describe the business the company currently operates?
-* Is the consent model, on which the commercial argument depends, supported by anything a
-  buyer can check?
-* Does the company's best published work reach the people it was written for?
-* Is publishing cadence set for the platforms the company depends on?
-* Is the company present where its buyers already are?
-
-## Project Targets
-
-| Target | Type |
-|:--|:--|
-| [Massive homepage](https://www.joinmassive.com/) | Website |
-| [FAQ](https://www.joinmassive.com/faq) | Website |
-| [Product pages](https://www.joinmassive.com/web-access), including web access | Website |
-| [Company blog](https://www.joinmassive.com/blog) | Website |
-| [Status page](https://status.joinmassive.com/) | Website |
-| [Company LinkedIn page](https://www.linkedin.com/company/joinmassive/) | Social profile |
-| [Company X account](https://x.com/joinmassive) | Social profile |
-| Founder profiles | Social profile |
-| [Massive on GitHub](https://github.com/joinmassive) | Repository |
-
-## Project Coverage
-
-The review covered the public website, the blog, the status page, the company and founder social profiles, and the public code repositories. Product quality, pricing, network performance, and funnel data were not assessed.
-
-Company published performance figures are recorded here as company claims. Third party test results are recorded with the name of the tester.
+The July 2026 review covered the [website](https://www.joinmassive.com/), [blog](https://www.joinmassive.com/blog), [status page](https://status.joinmassive.com/), public company and founder profiles, and [code repositories](https://github.com/joinmassive). Performance claims are attributed to Massive or to the named third-party tester. The review had no access to funnel or account analytics and did not assess product quality, pricing, or network performance.
 
 ## Company Background
 
@@ -103,12 +72,12 @@ Established from primary sources before the review began.
 |:--:|:--|:--|:--|
 | 1 | [The frequently asked questions page describes a business the company exited in 2024](#1-the-frequently-asked-questions-page-describes-a-business-the-company-exited-in-2024) | Content strategy | 🔴 High |
 | 2 | [The consent claim the business depends on is asserted without evidence](#2-the-consent-claim-the-business-depends-on-is-asserted-without-evidence) | Evidence | 🔴 High |
-| 3 | [Company social accounts are dormant, which reduces the reach of everything posted](#3-company-social-accounts-are-dormant-which-reduces-the-reach-of-everything-posted) | Distribution | 🟠 Medium |
-| 4 | [The company's strongest published work received no outreach](#4-the-companys-strongest-published-work-received-no-outreach) | Distribution | 🟠 Medium |
+| 3 | [The reviewed company social accounts show little visible activity](#3-the-reviewed-company-social-accounts-show-little-visible-activity) | Distribution | 🟠 Medium |
+| 4 | [The open-web essay has limited documented distribution](#4-the-open-web-essay-has-limited-documented-distribution) | Distribution | 🟠 Medium |
 | 5 | [Nine posts published on a single day](#5-nine-posts-published-on-a-single-day) | Distribution | 🟠 Medium |
 | 6 | [Blog content shows no evidence of an editorial standard](#6-blog-content-shows-no-evidence-of-an-editorial-standard) | Content strategy | 🟠 Medium |
 | 7 | [The status page is not linked next to the availability claim](#7-the-status-page-is-not-linked-next-to-the-availability-claim) | Evidence | 🟢 Low |
-| 8 | [The company has no presence in the communities its buyers use](#8-the-company-has-no-presence-in-the-communities-its-buyers-use) | Distribution | 🟢 Low |
+| 8 | [The sampled communities show no identified company participation](#8-the-sampled-communities-show-no-identified-company-participation) | Distribution | 🟢 Low |
 | 9 | [A co-founder's background directly supports the consent argument and is unused](#9-a-co-founders-background-directly-supports-the-consent-argument-and-is-unused) | Positioning | 🔵 Informational |
 
 ## Detailed Findings
@@ -125,7 +94,7 @@ Established from primary sources before the review began.
 
 That describes the business as it stood before 2024. The page sits one click from a homepage selling web access to teams building artificial intelligence systems.
 
-A buyer performing basic checks reaches this page and draws one of two conclusions. Either the company does not know what it sells, or the current position is a repackaging of something else. Both are worse outcomes than having no such page at all.
+The FAQ and homepage describe different businesses.
 
 **Recommendations**
 
@@ -151,7 +120,9 @@ The company's buyers are developers, data engineers, and teams building agents. 
 
 2. Publish the consent process, the reward arrangement, and the audit schedule as standing documentation, and reference it from every product page.
 
-### 3. Company social accounts are dormant, which reduces the reach of everything posted
+<a name="3-company-social-accounts-are-dormant-which-reduces-the-reach-of-everything-posted"></a>
+
+### 3. The reviewed company social accounts show little visible activity
 
 | Severity | Effort to fix | Type | Target |
 |:---:|:---:|:---:|:---:|
@@ -159,13 +130,7 @@ The company's buyers are developers, data engineers, and teams building agents. 
 
 **Description**
 
-* The company accounts are effectively inactive. The only posts with meaningful response are photographs from events.
-
-That is the finding rather than an aside. The audience responds when a person is visible and does not respond to material published under the company name.
-
-Accounts with no recent posting history are shown to fewer people by both platforms. A dormant account is not neutral, it is penalised. The founder's profile has an audience that already responds and should carry product announcements and anything else of consequence.
-
-The reference case is xAI, which has no conventional marketing organisation to route through. Distribution runs through the platform itself and through the founder's account.
+* The company LinkedIn and X accounts had little visible activity in the reviewed sample. Event photographs were the only posts the review noted for visible engagement.
 
 **Recommendations**
 
@@ -173,7 +138,9 @@ The reference case is xAI, which has no conventional marketing organisation to r
 
 2. Treat the company account as an archive and a support channel, and treat the founder's account as the distribution channel. Set a posting rhythm for the founder's account and hold to it.
 
-### 4. The company's strongest published work received no outreach
+<a name="4-the-companys-strongest-published-work-received-no-outreach"></a>
+
+### 4. The open-web essay has limited documented distribution
 
 | Severity | Effort to fix | Type | Target |
 |:---:|:---:|:---:|:---:|
@@ -183,17 +150,13 @@ The reference case is xAI, which has no conventional marketing organisation to r
 
 * In the essay titled [The Web Needs a Front Door](https://jsongrad.substack.com/p/the-web-needs-a-front-door), Jason Grad sets out why the web moved from being open, with low barriers to publishing and to access, towards control by a small number of infrastructure companies, and why the absence of transparent and consented standards for automated access leaves a gap that is filled either by poor regulation or by criminal networks.
 
-It is the best argument published in this industry this year. It reached 238 people.
-
-Essays of this kind reach a narrow technical, policy, and artificial intelligence audience and stop there. What moves them further is a direct approach to individual journalists carrying an angle written for that publication and a set of figures prepared for it. Journalists work under time pressure. What raises the rate of pickup is reducing the work required to turn the material into a story.
-
-Massive holds network measurements that no one else has. Those measurements can be divided by region, by rate of blocked requests, and by how aggressively individual large websites detect automated access. Each division supports a different story.
+The original review recorded a reach figure of 238. It did not establish how reach was measured or whether the essay was pitched privately.
 
 **Recommendations**
 
 1. Prepare between six and eight separate approaches, each with a different figure and a different angle, and send them individually rather than as a general announcement.
 
-2. Treat the network measurements as a recurring publication. A regular report on how access to the open web is changing gives journalists a reason to return and gives the company a reason to be cited.
+2. Treat the network measurements as a recurring publication. If the underlying data can be published, include its source, period, and methodology.
 
 ### 5. Nine posts published on a single day
 
@@ -204,8 +167,6 @@ Massive holds network measurements that no one else has. Those measurements can 
 **Description**
 
 * Nine blog posts were published on 29 June.
-
-Both LinkedIn and X reward consistent posting. Nine posts on one day produces one opportunity to reach an audience, followed by three weeks of silence. The platforms read the account as inactive, the audience sees a batch rather than a sequence, and eight of the nine posts never receive an opportunity of their own.
 
 **Recommendations**
 
@@ -225,7 +186,7 @@ Both LinkedIn and X reward consistent posting. Nine posts on one day produces on
 
 **Recommendations**
 
-1. Stop publishing definitional articles explaining what a proxy is. Those articles attract readers who are not buying.
+1. Prioritise integration examples and measured results in the content programme.
 
 2. Adopt the content programme set out in Appendix D.
 
@@ -248,7 +209,9 @@ record.
 
 2. Publish historical availability alongside the current status, so the record supports the commitment rather than only reporting the present moment.
 
-### 8. The company has no presence in the communities its buyers use
+<a name="8-the-company-has-no-presence-in-the-communities-its-buyers-use"></a>
+
+### 8. The sampled communities show no identified company participation
 
 | Severity | Effort to fix | Type | Target |
 |:---:|:---:|:---:|:---:|
@@ -256,7 +219,7 @@ record.
 
 **Description**
 
-* The buyers this company wants are already gathered in specific places, and the company is not present in any of them.
+* The review did not identify company participation in the sampled developer communities.
 
 **Recommendations**
 
@@ -286,8 +249,8 @@ For a business whose entire argument is that web access should be consented and 
 
 | Severity | Definition |
 |:--|:--|
-| 🔴 High | The issue causes a prospective buyer to lose confidence, or contradicts what the company currently sells. |
-| 🟠 Medium | Nothing is broken. The strongest available evidence or argument is not reaching the people it was written for. |
+| 🔴 High | The issue obscures material evidence or contradicts the current public offer. |
+| 🟠 Medium | A proof point, audience path, or distribution practice is weakened. |
 | 🟢 Low | Structure and supporting evidence. The cost accumulates rather than being felt immediately. |
 | 🔵 Informational | An observation that is not a defect. |
 
@@ -310,19 +273,17 @@ For a business whose entire argument is that web access should be consented and 
 
 Observations of page content and public profiles are stated with high confidence.
 
-The statement that dormant accounts are shown to fewer people is well established as platform behaviour but cannot be measured from outside the accounts. It is stated with moderate confidence.
-
-The reach figure of 238 for the open web essay is attributed to distribution. Timing, format, and platform changes during that week may also have contributed. This attribution is stated with low confidence.
+The public profile checks establish visible posting activity. Account-level impressions and the causes of the essay’s reported reach were outside scope.
 
 Current headcount could not be established. LinkedIn indicates staff across more than a dozen countries while the homepage team section shows approximately ten people. That is a discrepancy to resolve rather than a finding.
 
 ## Appendix D: Proposed Content Programme
 
-The purpose is to be cited by artificial intelligence assistants when developers ask how to solve a specific problem, and to reach developers who are already looking for a solution. The material should consist of code, measurements, and architecture. Definitional articles should be dropped.
+Publish working examples, measurements, and architecture for developers integrating web access.
 
 **Track one: integration instructions**
 
-Complete working examples connecting Massive to the frameworks developers are already using. These are the pages assistants return when a developer asks how to give a particular agent framework access to the web.
+Show complete integrations with the frameworks named below.
 
 * Using the Massive Model Context Protocol server with Claude Desktop for live research
 * Building a retrieval pipeline across several agents using LlamaIndex, CrewAI, and the Web
@@ -331,7 +292,7 @@ Complete working examples connecting Massive to the frameworks developers are al
 
 **Track two: architecture arguments, published from the founder's account**
 
-The purpose is to argue that the established scraping model, whose vendors currently rank highest in search, was built for a different era and does not suit the way agents work.
+Explain the differences between established scraping workflows and agent workloads.
 
 * Why passing raw page markup into a model's context window is the wrong approach, and why
   rendering to a simpler format is now necessary

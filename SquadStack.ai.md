@@ -17,16 +17,14 @@
 
 1. [Project Summary](#project-summary)
 2. [Executive Summary](#executive-summary)
-3. [Project Goals](#project-goals)
-4. [Project Targets](#project-targets)
-5. [Project Coverage](#project-coverage)
-6. [Maturity Evaluation](#maturity-evaluation)
-7. [Summary of Findings](#summary-of-findings)
-8. [Detailed Findings](#detailed-findings)
-9. [Consolidated Programme](#consolidated-programme)
-10. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
-11. [Appendix B: Sources](#appendix-b-sources)
-12. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
+3. [Scope](#scope)
+4. [Maturity Evaluation](#maturity-evaluation)
+5. [Summary of Findings](#summary-of-findings)
+6. [Detailed Findings](#detailed-findings)
+7. [Consolidated Programme](#consolidated-programme)
+8. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
+9. [Appendix B: Sources](#appendix-b-sources)
+10. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
 
 ## Executive Summary
 
@@ -34,35 +32,13 @@ SquadStack publishes 28 case studies, a speech recognition benchmark based on 86
 
 The commercial pages apply a different standard. The file SquadStack asks automated readers to treat as canonical gives Choice India a 200% reduction in customer acquisition cost. The case study says 70%. The homepage turns a four-recording listening exercise into a claim that 81% of BFSI leaders thought the agent was human. The ROI calculator takes the buyer's inputs and applies the same conversion lift, acquisition cost reduction, and connectivity target to each scenario.
 
-The gap matters most on the pages a lender or security reviewer reads. The general calling window appears in descriptions of overdue collections without a clear distinction for the regulatory cutoff. The architecture page, engineering article, and subprocessor list leave a buyer to establish which components SquadStack owns and where they run.
+The general calling window appears in descriptions of overdue collections without a clear distinction for the regulatory cutoff. The architecture page, engineering article, and subprocessor list give separate accounts of component ownership and location.
 
 The first corrections can be made in copy and configuration. The longer piece of work is to give every material commercial claim a source, a date, and a denominator, then use those fields across the website.
 
-## Project Goals
+## Scope
 
-- Can a buyer trace a headline number back to the case study or test that produced it?
-- Do comparison pages identify the models, data, and methods behind their figures?
-- Can a lender distinguish the general outbound window from the rules for overdue recovery?
-- Do the public architecture and privacy disclosures describe the product a buyer is evaluating?
-- Do the pages and files offered to automated readers lead to current evidence?
-
-## Project Targets
-
-| Target | Type |
-|:--|:--|
-| [Homepage](https://www.squadstack.ai/), [pricing](https://www.squadstack.ai/pricing), and [ROI calculator](https://www.squadstack.ai/roi-calculator) | Commercial pages |
-| [Case-study library](https://www.squadstack.ai/case-study) and 28 live case studies | Customer evidence |
-| Eight SquadStack comparison pages, including [Sarvam](https://www.squadstack.ai/squadstack-vs-sarvam) | Competitive framing |
-| [Turing-test](https://www.squadstack.ai/blog/turing-test) and [engineering](https://www.squadstack.ai/blog/inside-the-humanoid-ai-agent-stack) articles, and the [Arth benchmark](https://huggingface.co/datasets/Squadstack/conversational-streaming-asr-benchmark) | Technical evidence |
-| [Collections guide](https://www.squadstack.ai/blog/ai-voice-agents-for-bnpl-collections-and-emi-upsell), [trust centre](https://trust.squadstack.ai/resources), and [privacy policy](https://www.squadstack.ai/privacy-policy) | Procurement evidence |
-| `/llms.txt`, `/sitemap.xml`, and `/robots.txt` | Machine-readable files |
-| Blog and industry templates, the Ayoconnect page, and consent banner | Editorial and page structure |
-
-## Project Coverage
-
-The review compared public copy, server HTML, rendered page content, and the client-side calculator. It reconciled the case-study tiles, checked all eight comparison pages and 150 live blog posts, and read the benchmark, trust centre, and public certificate. The findings describe the pages as checked on 7 November 2026.
-
-The benchmark is used to reconcile what SquadStack reports across its own surfaces. No comparative product testing or independent replication of the benchmark was performed. Customer outcomes, live campaign settings, contractual privacy notices, and gated audit reports were outside the available evidence.
+The 7 November 2026 review compared public copy, initial HTML, rendered pages, and the [ROI calculator](https://www.squadstack.ai/roi-calculator). It examined 28 live [case studies](https://www.squadstack.ai/case-study), eight comparison pages, 150 blog posts, the published ASR benchmark, and the [trust centre](https://trust.squadstack.ai/resources). Customer outcomes, production settings, gated records, and independent replication of the benchmark were outside scope.
 
 ## Maturity Evaluation
 

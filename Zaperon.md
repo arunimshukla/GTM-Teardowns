@@ -16,16 +16,14 @@
 
 1. [Project Summary](#project-summary)
 2. [Executive Summary](#executive-summary)
-3. [Project Goals](#project-goals)
-4. [Project Targets](#project-targets)
-5. [Project Coverage](#project-coverage)
-6. [Maturity Evaluation](#maturity-evaluation)
-7. [Summary of Findings](#summary-of-findings)
-8. [Detailed Findings](#detailed-findings)
-9. [Consolidated Programme](#consolidated-programme)
-10. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
-11. [Appendix B: Sources](#appendix-b-sources)
-12. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
+3. [Scope](#scope)
+4. [Maturity Evaluation](#maturity-evaluation)
+5. [Summary of Findings](#summary-of-findings)
+6. [Detailed Findings](#detailed-findings)
+7. [Consolidated Programme](#consolidated-programme)
+8. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
+9. [Appendix B: Sources](#appendix-b-sources)
+10. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
 
 ## Executive Summary
 
@@ -35,24 +33,9 @@ The November check found readable HTML and Open Graph metadata on the homepage. 
 
 The two findings that remain are in the reporting guide. It makes a strong integrity claim without a mechanism, and it names regulatory regimes without specifying how the documented report data supports them.
 
-## Project Goals
+## Scope
 
-- Does the initial response identify and describe the current business?
-- Can a security reviewer verify the mechanism behind the reporting claims?
-- Can an Indian regulated buyer map the retention and export details to a specific requirement?
-
-## Project Targets
-
-| Target | Type |
-|:--|:--|
-| [Marketing homepage](https://www.zaperon.com/) and the legacy VPN article address | Website and page source |
-| [October seed-round coverage](https://indianstartupnews.com/funding/cybersecurity-startup-zaperon-raises-rs-7-crore-to-launch-enterprise-grade-ai-security-frameworks-12612842) | External positioning reference |
-| [Real-time Reports guide](https://docs.zaperon.com/real-time-reports) | Product documentation |
-| [CERT-In directions of 28 April 2022](https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf) | Primary regulatory source |
-
-## Project Coverage
-
-The original review sampled two marketing URLs and the reporting guide. The 7 November check repeated those requests and compared the current homepage against the earlier observations. The guide's published mechanism, export path, and stated retention are the scope of the open findings.
+The 29 October 2026 review sampled the [homepage](https://www.zaperon.com/), a legacy VPN article, and the [Real-time Reports guide](https://docs.zaperon.com/real-time-reports). The 7 November recheck revisited the marketing URLs and the guide. The open findings concern the guide’s published integrity mechanism, export path, and stated retention. Product controls and compliance were outside scope.
 
 ## Maturity Evaluation
 

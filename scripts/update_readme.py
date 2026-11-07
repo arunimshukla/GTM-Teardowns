@@ -1,4 +1,4 @@
-"""Regenerate the README's review index, badges, and chart from the reports."""
+"""Regenerate the README's review index and chart from the reports."""
 
 import argparse
 from collections import Counter
@@ -9,23 +9,23 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 CHART = "assets/findings-by-impact.svg"
-# File, company counted, display name, and the reader's main takeaway.
+# File, display name, and the reader's main takeaway.
 REVIEWS = (
-    ("SquadStack.ai.md", "SquadStack.ai", "SquadStack.ai",
+    ("SquadStack.ai.md", "SquadStack.ai",
      "A customer result changes between the case study and the facts file."),
-    ("Arcanna.ai.md", "Arcanna.ai", "Arcanna.ai",
+    ("Arcanna.ai.md", "Arcanna.ai",
      "The homepage omits the scope that makes named SOC outcomes useful."),
-    ("Zaperon.md", "Zaperon", "Zaperon",
+    ("Zaperon.md", "Zaperon",
      "The reporting guide leaves buyers to verify integrity and retention controls."),
-    ("Palm-Olympia.md", "Sam India", "Palm Olympia",
+    ("Palm-Olympia.md", "Palm Olympia",
      "Similar-looking enquiry routes and image-only offers obscure the buying terms."),
-    ("Massive GEO.md", "Massive", "Massive · machine-readable review",
+    ("Massive GEO.md", "Massive · machine-readable review",
      "Two public facts files disagree about the same company and its products."),
-    ("ChainSecurity.md", "ChainSecurity", "ChainSecurity",
+    ("ChainSecurity.md", "ChainSecurity",
      "The audit PDFs contain proof buyers cannot scan on the website."),
-    ("Bolt.new.md", "StackBlitz", "Bolt.new",
+    ("Bolt.new.md", "Bolt.new",
      "The homepage leaves out the technology behind Bolt's cost advantage."),
-    ("Massive.md", "Massive", "Massive",
+    ("Massive.md", "Massive",
      "The public FAQ describes a business the company had already left."),
 )
 
@@ -122,7 +122,7 @@ def generated_files():
         "| Sr. no. | Review | Key takeaway | Findings | Last checked |",
         "|:---:|:--|:--|--:|:--|",
     ]
-    for serial, (path, _, name, takeaway) in enumerate(REVIEWS, start=1):
+    for serial, (path, name, takeaway) in enumerate(REVIEWS, start=1):
         findings, date = report_findings(path)
         counts.update(impact for impact, _ in findings)
         high_low += findings.count(("High", "Low"))
@@ -130,21 +130,8 @@ def generated_files():
             f"| {serial} | [{name}](./{quote(path)}) | {takeaway} | {len(findings)} | {date} |"
         )
 
-    badges = (
-        ("published_reviews", len(REVIEWS), "published reviews", "1F3A5F"),
-        ("companies_reviewed", len({review[1] for review in REVIEWS}), "companies reviewed", "1F3A5F"),
-        ("documented_findings", sum(counts.values()), "documented findings", "1F3A5F"),
-        ("high_impact", counts["High"], "high-impact findings", "CB2431"),
-        ("high_impact_%2B_low_effort", high_low, "high-impact, low-effort opportunities", "2EA043"),
-    )
-    images = [
-        f'  <img src="https://img.shields.io/badge/{key}-{number}-{colour}?style=flat-square" '
-        f'alt="{number} {label}" height="24">'
-        for key, number, label, colour in badges
-    ]
     chart, breakdown = findings_chart(counts)
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    readme = replace_block(readme, "badges", "\n".join(["<p>", *images, "</p>"]))
     readme = replace_block(
         readme, "chart",
         f"![Findings by impact. {breakdown}.](./{CHART})\n\n"

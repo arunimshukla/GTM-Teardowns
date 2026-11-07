@@ -2,33 +2,9 @@
 
 I review what buyers can verify before a sales call. Each teardown traces a public claim to its source, explains why it matters and recommends a change.
 
-> **One finding.** SquadStack's `llms.txt` gave Choice India a **200% reduction in customer acquisition cost**. The linked case study said **70%**. The file presented itself as the canonical source, so a reader following its instructions would repeat the wrong figure. [Read the finding](./SquadStack.ai.md#1-the-canonical-facts-file-disagrees-with-the-case-studies).
-
-<!-- badges:start -->
-<p>
-  <img src="https://img.shields.io/badge/published_reviews-8-1F3A5F?style=flat-square" alt="8 published reviews" height="24">
-  <img src="https://img.shields.io/badge/companies_reviewed-7-1F3A5F?style=flat-square" alt="7 companies reviewed" height="24">
-  <img src="https://img.shields.io/badge/documented_findings-79-1F3A5F?style=flat-square" alt="79 documented findings" height="24">
-  <img src="https://img.shields.io/badge/high_impact-29-CB2431?style=flat-square" alt="29 high-impact findings" height="24">
-  <img src="https://img.shields.io/badge/high_impact_%2B_low_effort-17-2EA043?style=flat-square" alt="17 high-impact, low-effort opportunities" height="24">
-</p>
-<!-- badges:end -->
-
 Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 
-## Start here
-
-- **Customer proof.** See what happens when a buyer has to open a PDF to find the audit results. [ChainSecurity's Aave V4 audit page](./ChainSecurity.md#2-audit-detail-pages-omit-the-findings-data-held-in-the-reports).
-- **Product and procurement claims.** Follow a product claim into the guide a security reviewer would consult. [Zaperon's reporting controls](./Zaperon.md#1-the-reporting-guide-leaves-the-audit-trail-integrity-and-siem-path-unclear).
-- **Machine-readable discoverability.** Compare the two files that describe Massive to automated readers. [Massive's two `llms.txt` files](./Massive%20GEO.md#1-two-llmstxt-files-exist-and-disagree-on-the-name-of-the-company).
-
-## At a glance
-
-<!-- chart:start -->
-![Findings by impact. 29 high, 39 medium, 9 low, 2 informational.](./assets/findings-by-impact.svg)
-
-**17 of 29 high-impact findings** have fixes estimated in hours.
-<!-- chart:end -->
+> **One finding.** SquadStack's `llms.txt` gave Choice India a **200% reduction in customer acquisition cost**. The linked case study said **70%**. The file presented itself as the canonical source. [Read the finding](./SquadStack.ai.md#1-the-canonical-facts-file-disagrees-with-the-case-studies).
 
 ## Published reviews
 
@@ -45,6 +21,20 @@ Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 | 8 | [Massive](./Massive.md) | The public FAQ describes a business the company had already left. | 9 | July 2026 |
 <!-- review-index:end -->
 
+## At a glance
+
+<!-- chart:start -->
+![Findings by impact. 29 high, 39 medium, 9 low, 2 informational.](./assets/findings-by-impact.svg)
+
+**17 of 29 high-impact findings** have fixes estimated in hours.
+<!-- chart:end -->
+
+## Start here
+
+- **Customer proof.** See what happens when a buyer has to open a PDF to find the audit results. [ChainSecurity's Aave V4 audit page](./ChainSecurity.md#2-audit-detail-pages-omit-the-findings-data-held-in-the-reports).
+- **Product and procurement claims.** Follow a product claim into the guide a security reviewer would consult. [Zaperon's reporting controls](./Zaperon.md#1-the-reporting-guide-leaves-the-audit-trail-integrity-and-siem-path-unclear).
+- **Machine-readable discoverability.** Compare the two files that describe Massive to automated readers. [Massive's two `llms.txt` files](./Massive%20GEO.md#1-two-llmstxt-files-exist-and-disagree-on-the-name-of-the-company).
+
 ## What these reviews test
 
 | Pattern | What to check | Examples |
@@ -52,7 +42,7 @@ Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 | Headline metrics lose their scope | Can a reader find the population, period and denominator beside the number? | [Arcanna's homepage figures](./Arcanna.ai.md#1-the-homepage-publishes-four-figures-without-a-stated-basis) · [Massive's partner earnings](./Massive%20GEO.md#4-the-partner-earnings-figure-is-disproved-by-a-page-listed-in-the-same-file) |
 | Marketing and documentation leave different expectations | Can a buyer trace a product or compliance claim to a workflow, control or rule? | [Arcanna's confidence bands](./Arcanna.ai.md#4-decision-confidence-bands-differ-between-public-pages) · [SquadStack's recovery-call hours](./SquadStack.ai.md#4-the-published-collections-window-conflicts-with-recovery-call-guidance) |
 | Useful evidence is hard to retrieve | Can the intended reader find the evidence and reuse it without reconstructing it from images or multiple pages? | [Palm Olympia's construction milestones](./Palm-Olympia.md#6-construction-milestones-are-published-in-images-without-a-text-record) · [Arcanna's older articles](./Arcanna.ai.md#9-older-blog-articles-leave-their-body-out-of-the-initial-html) |
-| The site carries forward an older strategy | Do the homepage, FAQs and editorial programme describe the business and buyer the company pursues today? | [Massive's former business](./Massive.md#1-the-frequently-asked-questions-page-describes-a-business-the-company-exited-in-2024) · [Bolt's editorial audience](./Bolt.new.md#1-content-spending-targets-a-segment-the-chief-executive-publicly-declined) |
+| The site carries forward an older strategy | Do the homepage, FAQs and editorial programme describe the business and buyer the company pursues today? | [Massive's former business](./Massive.md#1-the-frequently-asked-questions-page-describes-a-business-the-company-exited-in-2024) · [Bolt's editorial audience](./Bolt.new.md#1-sampled-blog-topics-differ-from-the-stated-business-focus) |
 
 ## Method
 

@@ -16,44 +16,26 @@
 
 1. [Project Summary](#project-summary)
 2. [Executive Summary](#executive-summary)
-3. [Project Goals](#project-goals)
-4. [Project Targets](#project-targets)
-5. [Project Coverage](#project-coverage)
-6. [Maturity Evaluation](#maturity-evaluation)
-7. [Summary of Findings](#summary-of-findings)
-8. [Detailed Findings](#detailed-findings)
-9. [Consolidated Programme](#consolidated-programme)
-10. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
-11. [Appendix B: Sources](#appendix-b-sources)
-12. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
+3. [Scope](#scope)
+4. [Maturity Evaluation](#maturity-evaluation)
+5. [Summary of Findings](#summary-of-findings)
+6. [Detailed Findings](#detailed-findings)
+7. [Consolidated Programme](#consolidated-programme)
+8. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
+9. [Appendix B: Sources](#appendix-b-sources)
+10. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
 
 ## Executive Summary
 
-Arcanna gives a security operations buyer three reasons to evaluate the platform. Decisions can be governed by confidence thresholds, investigations can run alongside those decisions, and deployments can be adapted to the customer's environment. The site also publishes enough detail to test how those claims are presented.
+Arcanna’s public materials describe confidence thresholds for decisions, agentic investigation workflows, and deployment options. The review checks how those claims are presented and supported.
 
 The strongest proof is in the case studies. Orange identifies different accuracy results for different sources. Accenture names the measured change in triage time. The homepage publishes broader figures without showing their basis, and one Global SOC story presents two incompatible time totals without explaining the difference.
 
 The larger gap is between the marketing description and the deployment questions a SOC lead has to answer. The confidence bands differ between pages. Offline installation is documented, while the public agentic setup instructions describe network dependencies. Arcanna can close much of the gap with evidence it already owns.
 
-## Project Goals
+## Scope
 
-- Can a buyer recover the scope and denominator behind each headline result?
-- Do the marketing pages and user guide explain the same decision and deployment rules?
-- Can a technical evaluator reach the documented paths for testing and installing the platform?
-- Do the site's crawler-facing files lead to current evidence?
-
-## Project Targets
-
-| Target | Type |
-|:--|:--|
-| [Homepage](https://arcanna.ai/), [demo](https://arcanna.ai/demo), and platform pages | Commercial and product claims |
-| [Orange](https://arcanna.ai/case-studies/orange), [Accenture](https://arcanna.ai/case-studies/global-mssp-decision-intelligence), [Global SOC](https://arcanna.ai/case-studies/global-soc-cuts-false-positives-meets-slas), and [TAQA](https://arcanna.ai/case-studies/taqa) case studies | Customer evidence |
-| [Decision models](https://arcanna.ai/docs/decision-models), [assistant](https://docs.arcanna.ai/docs/ai-assistant/setup/), [integrations](https://arcanna.ai/platform/integrations), and marketplace docs | Product documentation |
-| [Blog article](https://arcanna.ai/blog/mssp-ai-soc) source, [sitemap](https://arcanna.ai/sitemap.xml), and crawler files | Machine-readable surface |
-
-## Project Coverage
-
-The original review checked the marketing site and user guide on 5 November. This version retains the findings for which the public sources or representative examples could be checked again on 7 November. It compares published claims with their underlying descriptions and separates source-HTML checks from what a browser can render.
+The 5 November 2026 review covered Arcanna’s [marketing site](https://arcanna.ai/), named case studies, [product documentation](https://docs.arcanna.ai/docs/concepts/confidence-in-decisions/), and crawler-facing files. Selected checks were repeated on 7 November. The review compared published claims with their supporting material and distinguished initial HTML from rendered content. It did not test product deployments or replicate customer results.
 
 ## Maturity Evaluation
 

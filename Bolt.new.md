@@ -17,70 +17,45 @@
 
 1. [Project Summary](#project-summary)
 2. [Executive Summary](#executive-summary)
-3. [Project Goals](#project-goals)
-4. [Project Targets](#project-targets)
-5. [Project Coverage](#project-coverage)
-6. [Maturity Evaluation](#maturity-evaluation)
-7. [Summary of Findings](#summary-of-findings)
-8. [Detailed Findings](#detailed-findings)
-9. [Recommended Sequence](#recommended-sequence)
-10. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
-11. [Appendix B: Sources](#appendix-b-sources)
-12. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
+3. [Scope](#scope)
+4. [Maturity Evaluation](#maturity-evaluation)
+5. [Summary of Findings](#summary-of-findings)
+6. [Detailed Findings](#detailed-findings)
+7. [Recommended Sequence](#recommended-sequence)
+8. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
+9. [Appendix B: Sources](#appendix-b-sources)
+10. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
 
 ## Executive Summary
 
 Bolt presents three different accounts of itself on three different surfaces, and they do not agree.
 
-The job brief describes the product as the fastest way to go from an idea to production, and leads with WebContainers, the technology that runs a development environment inside the browser rather than on rented servers. The homepage leads with a general statement about creating apps and websites by chatting with an AI system, which every competitor in the category could publish without alteration. The blog spends its budget attracting small business owners, including landscapers and fitness trainers, which is the segment the chief
-executive publicly declined to build the business around.
+The job brief describes Bolt as a way to go from idea to production and leads with WebContainers, which runs a development environment in the browser. The homepage instead opens with a general app-building claim. The sampled blog posts include topics for small-business operators, while the chief executive described a focus away from the consumer segment.
 
-WebContainers does not appear anywhere on the homepage. It is the reason the product is fast and the reason the cost structure differs from that of every competitor, and it is currently visible only to job applicants.
+The reviewed homepage does not mention WebContainers. The job brief names the execution model that distinguishes the product.
 
-None of the recommendations in this report require new product work or new content. They require moving material that already exists to where buyers will see it.
+The first changes can use material already published in the job brief and pricing page.
 
-## Project Goals
+## Scope
 
-The review was framed by the following questions:
-
-* Does the homepage state a claim a competitor could not also make?
-* Is the technical basis of the product's cost advantage visible to a buyer?
-* Does the content programme attract the customers the company says it wants?
-* Does the site address the people who hold approval authority in a business purchase?
-* Does the internal competitor set match the one the chief executive describes publicly?
-
-## Project Targets
-
-| Target | Type |
-|:--|:--|
-| [Bolt.new homepage](https://bolt.new/) | Website |
-| [Pricing page](https://bolt.new/pricing) | Website |
-| Ten most recent posts at the time of review, with the [current blog index](https://bolt.new/blog) | Website |
-| Published job brief | Recruitment material |
-| [Sacra interview with Eric Simons](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/) | Primary source |
-
-## Project Coverage
-
-The review covered the homepage, the pricing page, the ten most recent blog posts, and the published job brief, checked against a recorded interview with the chief executive. Product quality, funnel performance, paid acquisition, and pricing sensitivity were not assessed.
-
-Comparators were mapped for positioning language and pricing structure only.
+The July 2026 review covered the [homepage](https://bolt.new/), [pricing](https://bolt.new/pricing), ten recent blog posts, and the published job brief, alongside [Eric Simons’s Sacra interview](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/). Comparators were used for positioning and pricing structure. Product quality, funnel performance, paid acquisition, and pricing sensitivity were outside scope.
 
 ## Maturity Evaluation
 
 | Category | Rating | Comment |
 |:--|:--|:--|
 | Positioning clarity | $\textcolor{#E8830C}{\textsf{Weak}}$ | Three surfaces make three different claims about what the product is for. |
-| Evidence and proof | $\textcolor{#2EA043}{\textsf{Moderate}}$ | The technical basis of the advantage exists and is documented, but not where buyers read. |
+| Evidence and proof | $\textcolor{#2EA043}{\textsf{Moderate}}$ | The job brief names WebContainers. The homepage omits it. |
 | Competitive framing | $\textcolor{#E8830C}{\textsf{Weak}}$ | The competitor set in recruitment material does not match the one named by the chief executive. |
-| Segmentation | $\textcolor{#E8830C}{\textsf{Weak}}$ | The audience list omits the group that holds approval authority. |
-| Content strategy | $\textcolor{#E8830C}{\textsf{Weak}}$ | Budget is directed at a segment the company has publicly declined. |
+| Segmentation | $\textcolor{#E8830C}{\textsf{Weak}}$ | The audience list omits developers and engineering teams. |
+| Content strategy | $\textcolor{#E8830C}{\textsf{Weak}}$ | The sampled blog topics differ from the segment named in the interview. |
 | Pricing communication | $\textcolor{#2EA043}{\textsf{Moderate}}$ | The most distinctive term is present but presented as a minor item. |
 
 ## Summary of Findings
 
 | ID | Title | Type | Severity |
 |:--:|:--|:--|:--|
-| 1 | [Content spending targets a segment the chief executive publicly declined](#1-content-spending-targets-a-segment-the-chief-executive-publicly-declined) | Content strategy | 🔴 High |
+| 1 | [Sampled blog topics differ from the stated business focus](#1-sampled-blog-topics-differ-from-the-stated-business-focus) | Content strategy | 🔴 High |
 | 2 | [The technology behind the cost advantage is absent from the homepage](#2-the-technology-behind-the-cost-advantage-is-absent-from-the-homepage) | Positioning | 🔴 High |
 | 3 | [The homepage states a claim every competitor could also make](#3-the-homepage-states-a-claim-every-competitor-could-also-make) | Positioning | 🟠 Medium |
 | 4 | [The homepage audience list omits developers and engineering teams](#4-the-homepage-audience-list-omits-developers-and-engineering-teams) | Segmentation | 🟠 Medium |
@@ -88,7 +63,9 @@ Comparators were mapped for positioning language and pricing structure only.
 
 ## Detailed Findings
 
-### 1. Content spending targets a segment the chief executive publicly declined
+<a name="1-content-spending-targets-a-segment-the-chief-executive-publicly-declined"></a>
+
+### 1. Sampled blog topics differ from the stated business focus
 
 | Severity | Effort to fix | Type | Target |
 |:---:|:---:|:---:|:---:|
@@ -100,7 +77,7 @@ Comparators were mapped for positioning language and pricing structure only.
 
 In the [Sacra](https://sacra.com/research/eric-simons-bolt-b2b-vibe-coding/) interview, Eric Simons states that the company did not find the consumer segment compelling to build around, and gives churn rates as the reason.
 
-This is not an inconsistency in wording. It is a spending decision that runs against a stated strategy. Each of those articles will rank, attract visitors, and produce sign ups from a group the company has decided it does not want. The content programme is working correctly against the wrong target.
+The sampled topics and the stated focus point to different audiences. The review had no ranking, acquisition, or sign-up data for those posts.
 
 **Recommendations**
 
@@ -161,13 +138,11 @@ The recruitment copy is stronger than the marketing copy.
 
 * The homepage segments its audience into product managers, entrepreneurs, marketers, agencies, and students and builders. Developers and engineering teams are not listed.
 
-In a business purchase, a product manager may raise the request, but engineering holds the approval. A site with no page addressed to the approver asks the internal supporter to defend the purchase without material.
+The audience list leaves engineering teams without a dedicated entry point for technical evaluation.
 
 **Recommendations**
 
-1. Add a page addressed to engineering teams, answering what the tool produces, how the output enters a repository, and how it interacts with existing review and deployment processes.
-
-2. Publish the answers to the questions an engineering team will ask during a security or architecture review, so that the supporter can forward a link rather than arrange a call.
+1. Publish an engineering evaluation page covering the output, repository workflow, review and deployment process, and security controls.
 
 ### 5. The recruitment competitor set omits the competitor named by the chief executive
 
@@ -179,7 +154,7 @@ In a business purchase, a product manager may raise the request, but engineering
 
 * The job brief lists a set of competitors. Figma Make is not among them. In the Sacra interview, Eric Simons names Figma Make as the source of genuine competitive pressure in the business segment.
 
-The consequence is that the competitive picture held by the chief executive and the one written into recruitment material have separated. Whoever is hired into that role will build competitive material against the wrong set in their first week.
+The interview and the job brief give candidates different accounts of the competitive set.
 
 **Recommendations**
 
@@ -200,7 +175,7 @@ The consequence is that the competitive picture held by the chief executive and 
 
 | Severity | Definition |
 |:--|:--|
-| 🔴 High | The issue causes a prospective buyer to lose confidence, contradicts a public statement by the company, or directs spending against a stated strategy. |
+| 🔴 High | The issue contradicts a material public statement or obscures evidence central to evaluation. |
 | 🟠 Medium | Nothing is broken. The strongest available claim or differentiator is not visible to buyers. |
 | 🟢 Low | Internal consistency and process. The cost accumulates rather than being felt immediately. |
 | 🔵 Informational | An observation that is not a defect. |
@@ -222,5 +197,4 @@ The consequence is that the competitive picture held by the chief executive and 
 
 Everything recorded in the findings is directly observable on a public page or in a published interview, and is stated with high confidence.
 
-The recommendations are inference. This review has no view of Bolt's funnel, no figure for the share of revenue produced by self serve customers, and no way to establish whether the existing content programme is funding the business segment. If self serve accounts for the majority of revenue, the severity assigned to finding 1 is too high. The stated strategy and the observed spending would still disagree, and one of the two should change.
-The job brief was public at the time of review. If it has since been withdrawn, the comparison in finding 3 should be supported with an archived copy before that finding is relied upon.
+The review had no access to Bolt’s funnel, content budget, or self-serve revenue. Finding 1 compares published topics with stated strategy. The job brief was public at the time of review. Use an archived copy to verify the comparison if the brief is withdrawn.

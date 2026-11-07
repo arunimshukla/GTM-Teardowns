@@ -16,43 +16,26 @@
 
 1. [Project Summary](#project-summary)
 2. [Executive Summary](#executive-summary)
-3. [Project Goals](#project-goals)
-4. [Project Targets](#project-targets)
-5. [Project Coverage](#project-coverage)
-6. [Maturity Evaluation](#maturity-evaluation)
-7. [Summary of Findings](#summary-of-findings)
-8. [Detailed Findings](#detailed-findings)
-9. [Consolidated Programme](#consolidated-programme)
-10. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
-11. [Appendix B: Sources](#appendix-b-sources)
-12. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
+3. [Scope](#scope)
+4. [Maturity Evaluation](#maturity-evaluation)
+5. [Summary of Findings](#summary-of-findings)
+6. [Detailed Findings](#detailed-findings)
+7. [Consolidated Programme](#consolidated-programme)
+8. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
+9. [Appendix B: Sources](#appendix-b-sources)
+10. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
 
 ## Executive Summary
 
-Palm Olympia publishes separate residential and Goldspire pages, floor plans, developer credentials, and monthly construction updates. These are the materials a buyer uses to work out what is offered, who is selling it, and what has been delivered.
+Palm Olympia publishes residential and Goldspire pages, floor plans, developer credentials, and monthly construction updates.
 
 The problems appear at those decision points. Similarly branded domains send enquiries to different operators. A payment-plan promotion appears as a graphic with no linked explanation of the offer. A Tower D plan assigns two different figures to balcony area. Developer credentials and construction milestones sit inside images, where a reader cannot search, select, or compare the underlying facts.
 
 The first fixes are to identify the operator beside the enquiry action, publish approved offer terms, and correct the plan. The next step is to give phases, areas, developer credentials, and progress records a consistent text format.
 
-## Project Goals
+## Scope
 
-- Can a buyer identify the operator before sharing contact details?
-- Can a buyer verify the terms behind a promotion and compare units and phases?
-- Can a buyer retrieve the developer's record, progress evidence, and project disclosures in readable text?
-
-## Project Targets
-
-| Target | Type |
-|:--|:--|
-| [Official site](https://palmolympia.com/) and two partner-disclosed domains | Enquiry identity |
-| [Homepage promotion](https://palmolympia.com/wp-content/uploads/2025/07/POPUP.jpg-2-1517x2048.jpeg), [Plans](https://palmolympia.com/plans/), [residential page](https://palmolympia.com/palm-olympia/), and [Goldspire](https://palmolympia.com/goldspire/) | Product and offer evidence |
-| [Sam India](https://palmolympia.com/sam-india-2/) and [construction updates](https://palmolympia.com/construction/) | Developer and delivery proof |
-| Site-visit form and footer on the [homepage](https://palmolympia.com/) | Conversion and project disclosures |
-
-## Project Coverage
-
-The original review inspected public desktop pages and sampled responsive rules on 31 October. The 7 November check repeated selected page, source, stylesheet, and image checks. The plan and promotion were inspected as image assets. The review assessed public claims and presentation. No enquiry was submitted.
+The project-side review examined the [official site](https://palmolympia.com/), two partner-disclosed domains, the offer and [floor plans](https://palmolympia.com/plans/), the developer and [construction updates](https://palmolympia.com/construction/), and the enquiry form and footer. The 31 October desktop review and 7 November sample recheck included page source, styles, and image assets. No enquiry was submitted.
 
 ## Maturity Evaluation
 
@@ -88,7 +71,7 @@ The original review inspected public desktop pages and sampled responsive rules 
 
 The .com disclaimer identifies its domain as the official platform. The two .in pages carry agent or channel-partner disclosures and use similar project branding. The enquiry numbers differ across the surfaces. The disclosures identify how the operators describe themselves. Partner authorisation remains outside the public check.
 
-A buyer can recognise the project and still be unsure which operator will receive the enquiry.
+The operator identity is disclosed separately from the project branding and contact details.
 
 **Recommendations**
 

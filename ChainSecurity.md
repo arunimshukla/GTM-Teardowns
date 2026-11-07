@@ -17,16 +17,14 @@
 
 1. [Project Summary](#project-summary)
 2. [Executive Summary](#executive-summary)
-3. [Project Goals](#project-goals)
-4. [Project Targets](#project-targets)
-5. [Project Coverage](#project-coverage)
-6. [Maturity Evaluation](#maturity-evaluation)
-7. [Summary of Findings](#summary-of-findings)
-8. [Detailed Findings](#detailed-findings)
-9. [Consolidated Programme](#consolidated-programme)
-10. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
-11. [Appendix B: Sources](#appendix-b-sources)
-12. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
+3. [Scope](#scope)
+4. [Maturity Evaluation](#maturity-evaluation)
+5. [Summary of Findings](#summary-of-findings)
+6. [Detailed Findings](#detailed-findings)
+7. [Consolidated Programme](#consolidated-programme)
+8. [Appendix A: Severity and Effort Definitions](#appendix-a-severity-and-effort-definitions)
+9. [Appendix B: Sources](#appendix-b-sources)
+10. [Appendix C: Confidence and Limitations](#appendix-c-confidence-and-limitations)
 
 ## Executive Summary
 
@@ -46,47 +44,9 @@ Most of the recommendations in this report do not require a rebrand or a rebuilt
 The largest immediate gains come from organising and exposing material the firm already
 owns.
 
-## Project Goals
+## Scope
 
-The review was framed by the following questions:
-
-* Can a prospective client determine the volume and recency of ChainSecurity's work from
-  the website alone?
-* Does the website present the firm's audit methodology as a differentiator?
-* Is the evidence contained in published audit reports available in a form a buyer can scan?
-* Is the path from first visit to audit request clear, and does it set expectations?
-* Are the firm's research, tools, and people connected to its commercial pages?
-
-## Project Targets
-
-| Target | Address | Type |
-|:--|:--|:--|
-| Positioning page | [Positioning page](https://www.chainsecurity.com/why/) | Website |
-| Institutional page | [Institutional page](https://www.chainsecurity.com/institutional/) | Website |
-| About page | [About page](https://www.chainsecurity.com/about/) | Website |
-| Research index | [Research index](https://www.chainsecurity.com/blog/) | Website |
-| Research post | [Auditor’s wishlist](https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026/) | Website |
-| Audit library | [Audit library](https://www.chainsecurity.com/smart-contract-audit-reports/), pages 1 and 2 | Website |
-| Audit detail page | [Aave V4 audit](https://www.chainsecurity.com/security-audit/aave-v4/) | Website |
-| Testimonials | [Testimonials](https://www.chainsecurity.com/testimonials/) | Website |
-| Request form | [Audit request form](https://www.chainsecurity.com/request-audit/) | Website |
-| Code repositories | [ChainSecurity on GitHub](https://github.com/ChainSecurity) | Repository |
-| Benchmark | [Trail of Bits blockchain services](https://trailofbits.com/services/blockchain/) | Website |
-| Benchmark | [Trail of Bits research and development](https://trailofbits.com/services/research-and-development/) | Website |
-
-## Project Coverage
-
-The review covered public website positioning, the structure of the audit library and its
-detail pages, research content, the audit request path, and the firm's public code
-repositories. Pages were fetched and their content extracted on 3 August 2026.
-
-The following were not assessed: the technical quality of published audit reports, page
-speed, mobile rendering, social media accounts, website analytics, internal commercial data,
-and competitors other than the selected benchmark.
-
-Trail of Bits was chosen as a benchmark for how a security firm presents evidence. It is not
-a proxy for ChainSecurity's competitive landscape. OpenZeppelin, Spearbit and Cantina,
-Zellic, and Sherlock compete more directly for the same protocol budgets.
+On 3 August 2026, the review examined ChainSecurity’s positioning pages, the first two pages of the [audit library](https://www.chainsecurity.com/smart-contract-audit-reports/), the [Aave V4 audit page](https://www.chainsecurity.com/security-audit/aave-v4/), research, the enquiry path, and [public repositories](https://github.com/ChainSecurity). [Trail of Bits](https://trailofbits.com/services/blockchain/) served as a benchmark for evidence presentation. Audit quality, site performance, and internal commercial data were outside scope.
 
 ## Maturity Evaluation
 
@@ -112,7 +72,7 @@ Zellic, and Sherlock compete more directly for the same protocol budgets.
 | 5 | [The firm describes its own origin three different ways](#5-the-firm-describes-its-own-origin-three-different-ways) | Positioning | 🟠 Medium |
 | 6 | [The audit methodology has no page of its own](#6-the-audit-methodology-has-no-page-of-its-own) | Positioning | 🟠 Medium  |
 | 7 | [A third party credential appears once, inside a single research post](#7-a-third-party-credential-appears-once-inside-a-single-research-post) | Evidence | 🟠 Medium |
-| 8 | [The most valuable engagement is absent from the homepage](#8-the-most-valuable-engagement-is-absent-from-the-homepage) | Evidence | 🟠 Medium |
+| 8 | [The Aave V4 audit is absent from the homepage](#8-the-aave-v4-audit-is-absent-from-the-homepage) | Evidence | 🟠 Medium |
 | 9 | [The flagship research post names competitor tools exclusively](#9-the-flagship-research-post-names-competitor-tools-exclusively) | Content strategy | 🟠 Medium |
 | 10 | [Public code repositories are not linked from the website](#10-public-code-repositories-are-not-linked-from-the-website) | Evidence | 🟠 Medium |
 | 11 | [No page describes what the firm sells](#11-no-page-describes-what-the-firm-sells) | Page structure | 🟠 Medium |
@@ -153,7 +113,7 @@ A count is the cheapest form of proof available to a professional services firm.
 
 **Description**
 
-The Aave V4 page is the most commercially valuable page in the audit library. It contains a client logo, a heading, a link to download a PDF, a testimonial, a two sentence description of the client, and a prose summary.
+The Aave V4 page contains a client logo, a heading, a PDF download, a testimonial, a two-sentence description of the client, and a prose summary.
 
 It does not contain a review date, severity counts, a findings table, a scope statement, a line count, a duration or effort figure, the commit reference reviewed, or the names of the auditors. The prose mentions version 0.5.7, but as prose rather than as a labelled field.
 
@@ -181,7 +141,7 @@ The page does not state a response time, describe the engagement models availabl
 
 The equivalent Trail of Bits page offers a free hour with an engineer, described as a working session rather than a sales call.
 
-One page asks the buyer to perform unpaid estimation work before any contact. The other offers the buyer expert time before any commitment. That difference affects which firm a buyer contacts first.
+ChainSecurity’s form requires an estimate before submission. Trail of Bits offers a working session with an engineer as the first step.
 
 **Recommendations**
 
@@ -277,7 +237,9 @@ The published summary of that funding round separately credits ChainSecurity wit
 
 2. Verify the count of current employees holding the badge before each republication. The claim depends on staff who may leave.
 
-### 8. The most valuable engagement is absent from the homepage
+<a name="8-the-most-valuable-engagement-is-absent-from-the-homepage"></a>
+
+### 8. The Aave V4 audit is absent from the homepage
 
 | Severity | Effort to fix | Type | Target |
 |:---:|:---:|:---:|:---:|
@@ -287,7 +249,7 @@ The published summary of that funding round separately credits ChainSecurity wit
 
 The homepage features the WBTC Solana Bridge, Circle Gateway, and Pendle Boros engagements. The Aave V4 audit is not featured on the homepage and does not appear in the trusted by strip, despite carrying an attributed quotation from Stani Kulechov, founder and chief executive of Aave Labs.
 
-That combination of a recognised client name and an attributed quotation from a named executive is the strongest single piece of proof the firm holds. It currently sits two clicks from the entry page.
+The Aave V4 page carries both a named client and an attributed executive testimonial. It sits two clicks from the entry page.
 
 **Recommendations**
 
@@ -307,7 +269,7 @@ The post, published 4 May 2026, is a strong and clearly argued piece of writing.
 
 It names no ChainSecurity tools. The firm's own deployment validation tooling, the Compound Proposal Decoder, and Securify are all absent.
 
-The firm's most widely read piece of research currently promotes the tooling of a direct competitor and links to a paid vendor.
+The post names third-party tools and links to a commercial vendor. It names none of the firm’s own tools.
 
 **Recommendations**
 
@@ -352,7 +314,7 @@ Trail of Bits maintains a dedicated services page for blockchain work.
 
 1. Create a services page listing each offering with a short description and a link to relevant published work.
 
-2. Give each service its own page, so that individual services can rank in search and be linked to directly in commercial conversations.
+2. Give each service its own page and link it from the services overview.
 
 ### 12. Client logos carry no alternative text
 
@@ -364,7 +326,7 @@ Trail of Bits maintains a dedicated services page for blockchain work.
 
 The logos in the trusted by strip extract as raw file paths and the bare numbers 1, 2, 3, 4, 6, 7. No alternative text is set on any of them.
 
-This makes the client list unreadable to screen readers, invisible to search engines, and unavailable to any system that reads the page as text rather than rendering it. The sequence also skips 5, which suggests a removed image rather than a deliberate set.
+The client names are absent from the image alternative text. The file names alone do not identify the clients.
 
 **Recommendations**
 
@@ -383,8 +345,6 @@ This makes the client list unreadable to screen readers, invisible to search eng
 Dates appear on individual post pages but not on the index. As a result, a disclosure from 2021 concerning ERC-1155, an article from 2022 written before the Ethereum merge, and a post from 2026 concerning EIP-7702 appear in one undifferentiated list.
 
 A related instance appears in the Curve post mortem, which opens by stating that the team informed Curve on 14 April, without giving the year, on a page carrying no date. That leaves a significant disclosure unverifiable.
-
-For a research publication, an undated post cannot be cited.
 
 **Recommendations**
 
@@ -470,7 +430,7 @@ The objective is that a technical or institutional buyer can establish the firm'
 
 | Severity | Definition |
 |:--|:--|
-| 🔴 High | The issue causes a prospective buyer to lose confidence, contradicts a public statement by the company, or blocks the path to enquiry. |
+| 🔴 High | The issue contradicts a material public statement, obscures evidence central to evaluation, or blocks the path to enquiry. |
 | 🟠 Medium | Nothing is broken. The strongest available evidence or differentiator is not visible to buyers. |
 | 🟢 Low | Structure, attribution, or editorial consistency. The cost accumulates rather than being felt immediately. |
 | 🔵 Informational | An observation that is not a defect. |
@@ -496,4 +456,4 @@ Observations of page content are recorded as they appeared on 3 August 2026 and 
 
 The staff count of approximately 23 is taken from public listings and changes over time. It should be confirmed before the concentration claim in finding 7 is published.
 
-This review has no access to website analytics. It can establish that a page fails to present available evidence. It cannot establish how any page performs. A page can be poorly constructed and still convert. The argument made throughout is that these pages ask the buyer to perform work the seller should have performed.
+The review had no access to website analytics. It assessed the evidence and enquiry steps visible on the reviewed pages.
