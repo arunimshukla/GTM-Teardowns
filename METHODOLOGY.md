@@ -132,3 +132,7 @@ To propose a correction, open a [GitHub Issue](https://github.com/arunimshukla/G
 4. the specific statement that should change.
 
 Corrections should preserve the historical record while making the current state clear.
+
+## Maintaining the index
+
+Add new reports to the catalogue in [scripts/update_readme.py](./scripts/update_readme.py). Run `python3 scripts/update_readme.py` to regenerate the review index, badges, and impact chart from the published reports. Use `--check` to check for stale output.

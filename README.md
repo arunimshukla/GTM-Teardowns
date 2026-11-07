@@ -1,63 +1,58 @@
 # GTM Teardowns
 
-Evidence-led reviews of positioning, buyer journeys, content, distribution, and machine-readable discoverability across security, developer infrastructure, and artificial intelligence.
+I review what buyers can verify before a sales call. Each teardown traces a public claim to its source, explains why it matters and recommends a change.
 
-I review the public surfaces that buyers, developers, procurement teams, and automated systems can actually inspect. The purpose is to identify where a company already owns credible evidence but fails to present it at the point where a decision is being made.
+> **One finding.** SquadStack's `llms.txt` gave Choice India a **200% reduction in customer acquisition cost**. The linked case study said **70%**. The file presented itself as the canonical source, so a reader following its instructions would repeat the wrong figure. [Read the finding](./SquadStack.ai.md#1-the-canonical-facts-file-disagrees-with-the-case-studies).
 
+<!-- badges:start -->
 <p>
-  <img src="https://img.shields.io/badge/published_reviews-8-1F3A5F?style=flat-square" alt="8 published reviews" height="28">
-  <img src="https://img.shields.io/badge/companies_reviewed-7-1F3A5F?style=flat-square" alt="7 companies reviewed" height="28">
-  <img src="https://img.shields.io/badge/documented_findings-79-1F3A5F?style=flat-square" alt="79 documented findings" height="28">
-  <img src="https://img.shields.io/badge/high_impact-29-CB2431?style=flat-square" alt="29 high-impact findings" height="28">
-  <img src="https://img.shields.io/badge/high_impact_%2B_low_effort-17-2EA043?style=flat-square" alt="17 high-impact, low-effort opportunities" height="28">
+  <img src="https://img.shields.io/badge/published_reviews-8-1F3A5F?style=flat-square" alt="8 published reviews" height="24">
+  <img src="https://img.shields.io/badge/companies_reviewed-7-1F3A5F?style=flat-square" alt="7 companies reviewed" height="24">
+  <img src="https://img.shields.io/badge/documented_findings-79-1F3A5F?style=flat-square" alt="79 documented findings" height="24">
+  <img src="https://img.shields.io/badge/high_impact-29-CB2431?style=flat-square" alt="29 high-impact findings" height="24">
+  <img src="https://img.shields.io/badge/high_impact_%2B_low_effort-17-2EA043?style=flat-square" alt="17 high-impact, low-effort opportunities" height="24">
 </p>
+<!-- badges:end -->
 
 Prepared by [Arunim Shukla](https://www.linkedin.com/in/arunimshukla).
 
 ## Start here
 
-- **[ChainSecurity public surface review](./ChainSecurity.md)** — A review of how a specialist security firm presents completed work, methodology, research, and commercial services. The central finding is that much of ChainSecurity's strongest evidence exists, but is difficult for a prospective client to discover or evaluate.
-- **[Massive generative engine surface review](./Massive%20GEO.md)** — A technical review of two machine-readable `llms.txt` surfaces. It examines naming, documentation coverage, compliance claims, content priority, and contradictions between company-controlled sources.
-
-These two reports best represent the repository: one examines a human buyer journey and the other examines how automated readers discover and interpret a company.
-
-## Published reviews
-
-| Review | Surface reviewed | Central question | Reviewed |
-|:--|:--|:--|:--|
-| [ChainSecurity](./ChainSecurity.md) | Website, audit library, research, GitHub, and enquiry path | Does the public surface expose enough evidence for a protocol or institutional buyer to evaluate the firm? | 3 August 2026 |
-| [Bolt.new](./Bolt.new.md) | Homepage, pricing, content programme, recruitment material, and founder interview | Does Bolt expose its technical advantage and attract the business segment it says it wants? | July 2026 |
-| [Massive](./Massive.md) | Website, content, distribution, social profiles, and public repositories | Does the public surface describe the current business and substantiate the consent model on which its positioning depends? | July 2026 |
-| [Massive: generative engine surface](./Massive%20GEO.md) | Apex and documentation `llms.txt` files, documentation, compliance, and content index | Can an automated reader recover a consistent, accurate, and commercially useful account of the company? | 11 August 2026 |
-| [SquadStack.ai](./SquadStack.ai.md) | Website, case studies, benchmark, comparison pages, trust centre, and machine-readable files | Can a buyer trace SquadStack's performance and procurement claims to consistent public evidence? | 7 November 2026 |
-| [Arcanna.ai](./Arcanna.ai.md) | Website, case studies, product documentation, and machine-readable files | Can a SOC buyer trace headline results and decision rules to the evidence behind them? | 5 November 2026, rechecked 7 November |
-| [Zaperon](./Zaperon.md) | Homepage, page source, and reporting documentation | Can a security buyer verify the reporting controls and retention described in the guide? | 29 October 2026, rechecked 7 November |
-| [Palm Olympia](./Palm-Olympia.md) | Project website, offer and plan assets, construction updates, and enquiry surfaces | Can a buyer verify the operator, compare units and phases, and assess delivery evidence? | 31 October 2026, rechecked 7 November |
+- **Customer proof.** See what happens when a buyer has to open a PDF to find the audit results. [ChainSecurity's Aave V4 audit page](./ChainSecurity.md#2-audit-detail-pages-omit-the-findings-data-held-in-the-reports).
+- **Product and procurement claims.** Follow a product claim into the guide a security reviewer would consult. [Zaperon's reporting controls](./Zaperon.md#1-the-reporting-guide-leaves-the-audit-trail-integrity-and-siem-path-unclear).
+- **Machine-readable discoverability.** Compare the two files that describe Massive to automated readers. [Massive's two `llms.txt` files](./Massive%20GEO.md#1-two-llmstxt-files-exist-and-disagree-on-the-name-of-the-company).
 
 ## At a glance
 
-| Measure | Result |
-|:--|--:|
-| Published reviews | 8 |
-| Companies reviewed | 7 |
-| Documented findings | 79 |
-| High impact | 29 |
-| Medium impact | 39 |
-| Low impact | 9 |
-| Informational | 2 |
-| Low-effort recommendations | 48 |
-| High-impact, low-effort opportunities | 17 |
+<!-- chart:start -->
+![Findings by impact. 29 high, 39 medium, 9 low, 2 informational.](./assets/findings-by-impact.svg)
 
-The highest-leverage subset is the seventeen high-impact findings whose recommended remedies are estimated in hours rather than days or weeks.
+**17 of 29 high-impact findings** have fixes estimated in hours.
+<!-- chart:end -->
+
+## Published reviews
+
+<!-- review-index:start -->
+| Review | Key takeaway | Findings | Last checked |
+|:--|:--|--:|:--|
+| [SquadStack.ai](./SquadStack.ai.md) | A customer result changes between the case study and the facts file. | 15 | 7 November 2026 |
+| [Arcanna.ai](./Arcanna.ai.md) | The homepage omits the scope that makes named SOC outcomes useful. | 10 | 7 November 2026 |
+| [Zaperon](./Zaperon.md) | The reporting guide leaves buyers to verify integrity and retention controls. | 2 | 7 November 2026 |
+| [Palm Olympia](./Palm-Olympia.md) | Similar-looking enquiry routes and image-only offers obscure the buying terms. | 8 | 7 November 2026 |
+| [Massive · machine-readable review](./Massive%20GEO.md) | Two public facts files disagree about the same company and its products. | 14 | 11 August 2026 |
+| [ChainSecurity](./ChainSecurity.md) | The audit PDFs contain proof buyers cannot scan on the website. | 16 | 3 August 2026 |
+| [Bolt.new](./Bolt.new.md) | The homepage leaves out the technology behind Bolt's cost advantage. | 5 | July 2026 |
+| [Massive](./Massive.md) | The public FAQ describes a business the company had already left. | 9 | July 2026 |
+<!-- review-index:end -->
 
 ## What these reviews test
 
-Across the reports, four recurring failure modes appear:
-
-1. **Evidence exists outside the buyer journey.** Audit results, technical architecture, credentials, or compliance material exist, but the pages making the commercial claim do not expose them.
-2. **Public surfaces drift after the strategy changes.** Old frequently asked questions, content programmes, or product descriptions continue to represent a business the company has already left.
-3. **Differentiators are visible in the wrong place.** The strongest technical argument may appear in recruitment material, documentation, or an interview while the homepage uses category-generic language.
-4. **Machine-readable and human-facing sources disagree.** Automated systems can receive a different company name, product set, or evidence base depending on which public file they reach first.
+| Pattern | What to check | Examples |
+|:--|:--|:--|
+| Headline metrics lose their scope | Can a reader find the population, period and denominator beside the number? | [Arcanna's homepage figures](./Arcanna.ai.md#1-the-homepage-publishes-four-figures-without-a-stated-basis) · [Massive's partner earnings](./Massive%20GEO.md#4-the-partner-earnings-figure-is-disproved-by-a-page-listed-in-the-same-file) |
+| Marketing and documentation leave different expectations | Can a buyer trace a product or compliance claim to a workflow, control or rule? | [Arcanna's confidence bands](./Arcanna.ai.md#4-decision-confidence-bands-differ-between-public-pages) · [SquadStack's recovery-call hours](./SquadStack.ai.md#4-the-published-collections-window-conflicts-with-recovery-call-guidance) |
+| Useful evidence is hard to retrieve | Can the intended reader find the evidence and reuse it without reconstructing it from images or multiple pages? | [Palm Olympia's construction milestones](./Palm-Olympia.md#6-construction-milestones-are-published-in-images-without-a-text-record) · [Arcanna's older articles](./Arcanna.ai.md#9-older-blog-articles-leave-their-body-out-of-the-initial-html) |
+| The site carries forward an older strategy | Do the homepage, FAQs and editorial programme describe the business and buyer the company pursues today? | [Massive's former business](./Massive.md#1-the-frequently-asked-questions-page-describes-a-business-the-company-exited-in-2024) · [Bolt's editorial audience](./Bolt.new.md#1-content-spending-targets-a-segment-the-chief-executive-publicly-declined) |
 
 ## Method
 
