@@ -1,24 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="156" viewBox="0 0 600 156" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="206" viewBox="0 0 600 206" role="img" aria-labelledby="title description">
   <title id="title">Findings by impact</title>
   <desc id="description">79 findings. 29 high, 39 medium, 9 low, 2 informational.</desc>
-  <rect width="600" height="156" rx="12" fill="#182a44"/>
-  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#f3f6fc">
-    <text x="24" y="35" font-size="21" font-weight="700">Findings by impact</text>
-    <text x="576" y="35" font-size="16" text-anchor="end" fill="#c8d5e8">79 total</text>
-    <defs><clipPath id="bar"><rect x="24" y="52" width="552" height="23" rx="6"/></clipPath></defs>
+  <defs>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#0e1a2d"/>
+      <stop offset="1" stop-color="#1b3451"/>
+    </linearGradient>
+    <clipPath id="bar"><rect x="24" y="76" width="552" height="16" rx="8"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="599" height="205" rx="16" fill="url(#panel)" stroke="#36506e"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#f5f8ff">
+    <text x="24" y="30" font-size="12" font-weight="700" letter-spacing="1.8" fill="#a9bed9">GTM TEARDOWNS</text>
+    <text x="24" y="57" font-size="25" font-weight="700">Findings by impact</text>
+    <rect x="449" y="29" width="127" height="30" rx="15" fill="#203753" stroke="#425b78"/>
+    <text x="512.5" y="49" font-size="15" font-weight="600" text-anchor="middle">79 findings</text>
     <g clip-path="url(#bar)">
-      <rect x="24.000" y="52" width="202.633" height="23" fill="#f47782"/>
-      <rect x="226.633" y="52" width="272.506" height="23" fill="#f4be66"/>
-      <rect x="499.139" y="52" width="62.886" height="23" fill="#64cba0"/>
-      <rect x="562.025" y="52" width="13.975" height="23" fill="#87b4ff"/>
+      <rect x="24.000" y="76" width="202.633" height="16" fill="#f47782"/>
+      <rect x="226.633" y="76" width="272.506" height="16" fill="#f4be66"/>
+      <rect x="499.139" y="76" width="62.886" height="16" fill="#64cba0"/>
+      <rect x="562.025" y="76" width="13.975" height="16" fill="#87b4ff"/>
     </g>
-    <circle cx="30" cy="101" r="6" fill="#f47782"/>
-    <text x="44" y="106" font-size="16">High · 29</text>
-    <circle cx="306" cy="101" r="6" fill="#f4be66"/>
-    <text x="320" y="106" font-size="16">Medium · 39</text>
-    <circle cx="30" cy="127" r="6" fill="#64cba0"/>
-    <text x="44" y="132" font-size="16">Low · 9</text>
-    <circle cx="306" cy="127" r="6" fill="#87b4ff"/>
-    <text x="320" y="132" font-size="16">Informational · 2</text>
+    <g transform="translate(24 107)">
+      <rect width="270" height="35" rx="8" fill="#101f34" fill-opacity="0.65" stroke="#354e6b"/>
+      <circle cx="17" cy="17.5" r="4.5" fill="#f47782"/>
+      <text x="30" y="23" font-size="16">High</text>
+      <text x="254" y="24" font-size="19" font-weight="700" text-anchor="end" fill="#f47782">29</text>
+    </g>
+    <g transform="translate(306 107)">
+      <rect width="270" height="35" rx="8" fill="#101f34" fill-opacity="0.65" stroke="#354e6b"/>
+      <circle cx="17" cy="17.5" r="4.5" fill="#f4be66"/>
+      <text x="30" y="23" font-size="16">Medium</text>
+      <text x="254" y="24" font-size="19" font-weight="700" text-anchor="end" fill="#f4be66">39</text>
+    </g>
+    <g transform="translate(24 149)">
+      <rect width="270" height="35" rx="8" fill="#101f34" fill-opacity="0.65" stroke="#354e6b"/>
+      <circle cx="17" cy="17.5" r="4.5" fill="#64cba0"/>
+      <text x="30" y="23" font-size="16">Low</text>
+      <text x="254" y="24" font-size="19" font-weight="700" text-anchor="end" fill="#64cba0">9</text>
+    </g>
+    <g transform="translate(306 149)">
+      <rect width="270" height="35" rx="8" fill="#101f34" fill-opacity="0.65" stroke="#354e6b"/>
+      <circle cx="17" cy="17.5" r="4.5" fill="#87b4ff"/>
+      <text x="30" y="23" font-size="16">Informational</text>
+      <text x="254" y="24" font-size="19" font-weight="700" text-anchor="end" fill="#87b4ff">2</text>
+    </g>
   </g>
 </svg>

@@ -74,14 +74,23 @@ def findings_chart(counts):
     total = sum(counts.values())
     breakdown = ", ".join(f"{counts[label]} {label.lower()}" for label in IMPACTS)
     svg = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="156" viewBox="0 0 600 156" role="img" aria-labelledby="title description">',
+        '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="206" '
+        'viewBox="0 0 600 206" role="img" aria-labelledby="title description">',
         '  <title id="title">Findings by impact</title>',
         f'  <desc id="description">{total} findings. {breakdown}.</desc>',
-        '  <rect width="600" height="156" rx="12" fill="#182a44"/>',
-        '  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#f3f6fc">',
-        '    <text x="24" y="35" font-size="21" font-weight="700">Findings by impact</text>',
-        f'    <text x="576" y="35" font-size="16" text-anchor="end" fill="#c8d5e8">{total} total</text>',
-        '    <defs><clipPath id="bar"><rect x="24" y="52" width="552" height="23" rx="6"/></clipPath></defs>',
+        '  <defs>',
+        '    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">',
+        '      <stop offset="0" stop-color="#0e1a2d"/>',
+        '      <stop offset="1" stop-color="#1b3451"/>',
+        '    </linearGradient>',
+        '    <clipPath id="bar"><rect x="24" y="76" width="552" height="16" rx="8"/></clipPath>',
+        '  </defs>',
+        '  <rect x="0.5" y="0.5" width="599" height="205" rx="16" fill="url(#panel)" stroke="#36506e"/>',
+        '  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#f5f8ff">',
+        '    <text x="24" y="30" font-size="12" font-weight="700" letter-spacing="1.8" fill="#a9bed9">GTM TEARDOWNS</text>',
+        '    <text x="24" y="57" font-size="25" font-weight="700">Findings by impact</text>',
+        '    <rect x="449" y="29" width="127" height="30" rx="15" fill="#203753" stroke="#425b78"/>',
+        f'    <text x="512.5" y="49" font-size="15" font-weight="600" text-anchor="middle">{total} findings</text>',
         '    <g clip-path="url(#bar)">',
     ]
     offset = 0
@@ -89,12 +98,19 @@ def findings_chart(counts):
         left = 24 + 552 * offset / total
         offset += counts[label]
         width = 24 + 552 * offset / total - left
-        svg.append(f'      <rect x="{left:.3f}" y="52" width="{width:.3f}" height="23" fill="{colour}"/>')
+        svg.append(f'      <rect x="{left:.3f}" y="76" width="{width:.3f}" height="16" fill="{colour}"/>')
     svg.append('    </g>')
     for i, (label, colour) in enumerate(IMPACTS.items()):
-        x, y = 24 + i % 2 * 276, 106 + i // 2 * 26
-        svg.append(f'    <circle cx="{x + 6}" cy="{y - 5}" r="6" fill="{colour}"/>')
-        svg.append(f'    <text x="{x + 20}" y="{y}" font-size="16">{label} · {counts[label]}</text>')
+        x, y = 24 + i % 2 * 282, 107 + i // 2 * 42
+        svg.extend((
+            f'    <g transform="translate({x} {y})">',
+            '      <rect width="270" height="35" rx="8" fill="#101f34" fill-opacity="0.65" stroke="#354e6b"/>',
+            f'      <circle cx="17" cy="17.5" r="4.5" fill="{colour}"/>',
+            f'      <text x="30" y="23" font-size="16">{label}</text>',
+            f'      <text x="254" y="24" font-size="19" font-weight="700" '
+            f'text-anchor="end" fill="{colour}">{counts[label]}</text>',
+            '    </g>',
+        ))
     svg.extend(("  </g>", "</svg>"))
     return "\n".join(svg) + "\n", breakdown
 
